@@ -1,0 +1,97 @@
+{
+  "view": {
+    "type": "view.list",
+    "items": [
+      {
+        "type": "field.radio-group",
+        "label": "Что на фото?",
+        "data": {
+          "type": "data.output",
+          "path": "status"
+        },
+        "options": [
+          {
+            "label": "Есть бабочки (выделены рамками)",
+            "value": "has_butterflies"
+          },
+          {
+            "label": "Бабочек нет",
+            "value": "no_butterflies"
+          },
+          {
+            "label": "Ошибка загрузки",
+            "value": "load_error"
+          }
+        ],
+        "validation": {
+          "type": "condition.required",
+          "hint": "Выберите вариант ответа"
+        }
+      },
+      {
+        "type": "field.image-annotation",
+        "label": "Выделите каждую взрослую бабочку (включая мотыльков и моль) отдельной рамкой",
+        "image": {
+          "type": "data.input",
+          "path": "image"
+        },
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "shapes": {
+          "rectangle": true
+        },
+        "validation": {
+          "type": "helper.if",
+          "condition": {
+            "type": "condition.any",
+            "conditions": [
+              {
+                "type": "condition.equals",
+                "data": {
+                  "type": "data.output",
+                  "path": "status"
+                },
+                "to": "no_butterflies"
+              },
+              {
+                "type": "condition.equals",
+                "data": {
+                  "type": "data.output",
+                  "path": "status"
+                },
+                "to": "load_error"
+              }
+            ]
+          },
+          "then": {
+            "type": "condition.empty",
+            "hint": "Вы выбрали «Бабочек нет» или «Ошибка загрузки» — удалите все рамки"
+          },
+          "else": {
+            "type": "condition.required",
+            "hint": "Выделите рамкой хотя бы одну бабочку или выберите «Бабочек нет» / «Ошибка загрузки»"
+          }
+        }
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "type": "plugin.toloka",
+      "layout": {
+        "kind": "pager"
+      }
+    },
+    {
+      "type": "plugin.field.image-annotation.hotkeys",
+      "modes": {
+        "select": "q",
+        "rectangle": "e"
+      },
+      "confirm": "a",
+      "cancel": "s"
+    }
+  ]
+}
