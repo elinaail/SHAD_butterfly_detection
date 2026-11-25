@@ -1,0 +1,443 @@
+[
+  {
+    "id": "000068c4c6--6afce8aad5d23603d676eac4",
+    "task_suite_id": "000068c4c6--6afcd20cc929b90ea8d7ca9d",
+    "pool_id": "6866118",
+    "user_id": "worker_011",
+    "status": "ACCEPTED",
+    "reward": 2.5,
+    "tasks": [
+      {
+        "id": "0a092c24-2ed6-4cff-ba7f-a926cff313e1",
+        "input_values": {
+          "photo_id": "184619838",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/184619838/original.jpg"
+        }
+      },
+      {
+        "id": "1a7904e1-b2ef-4e7b-ac0a-8bf0f70cf8cb",
+        "input_values": {
+          "photo_id": "181204940",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/181204940/original.jpeg"
+        }
+      },
+      {
+        "id": "a8a11202-9431-46a6-b100-1789241c6f5f",
+        "input_values": {
+          "photo_id": "440553240",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/440553240/original.jpg"
+        }
+      },
+      {
+        "id": "87a4a2df-957e-4876-b8c2-e23aadbdc176",
+        "input_values": {
+          "photo_id": "79275893",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/79275893/original.jpg"
+        }
+      },
+      {
+        "id": "1ad87249-ecce-4e64-a2d0-319f13be4465",
+        "input_values": {
+          "photo_id": "311355458",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/311355458/original.jpg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.11627482476635513,
+              "top": 0.06438213914849428,
+              "width": 0.7807023948598131,
+              "height": 0.8722741433021806
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.17467184254932502,
+              "top": 0.024922118380062305,
+              "width": 0.5805993639667705,
+              "height": 0.782969885773624
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.4224976473260644,
+              "top": 0.284527518172378,
+              "width": 0.19393334631360332,
+              "height": 0.49428868120456904
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.24536665206386293,
+              "top": 0.12668743509865005,
+              "width": 0.5461833949896158,
+              "height": 0.7518172377985461
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.29912254862580223,
+              "top": 0.1952232606438214,
+              "width": 0.398830064834403,
+              "height": 0.5877466251298027
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T23:52:10.181",
+    "submitted": "2026-11-17T23:53:31.414",
+    "accepted": "2026-11-17T23:53:31.414"
+  },
+  {
+    "id": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "task_suite_id": "000068c4c6--6afcd20cc929b90ea8d7ca99",
+    "pool_id": "6866118",
+    "user_id": "worker_011",
+    "status": "ACCEPTED",
+    "reward": 2.5,
+    "tasks": [
+      {
+        "id": "558fd81b-e8f8-4e0d-aeb2-85887d65f554",
+        "input_values": {
+          "photo_id": "85567419",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/85567419/original.jpeg"
+        }
+      },
+      {
+        "id": "5b8474c2-9b1a-4059-95b7-a7c497345d79",
+        "input_values": {
+          "photo_id": "232985845",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/232985845/original.jpeg"
+        }
+      },
+      {
+        "id": "10bd5786-fcfc-44f9-bc6e-efccf0ffa7e7",
+        "input_values": {
+          "photo_id": "95401989",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/95401989/original.jpeg"
+        }
+      },
+      {
+        "id": "9ca5f1c3-74a2-4a51-b6d2-2f7097b81fcf",
+        "input_values": {
+          "photo_id": "45944239",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/45944239/original.jpeg"
+        }
+      },
+      {
+        "id": "969c6621-74c7-4528-be5d-72ab807f22ca",
+        "input_values": {
+          "photo_id": "122135507",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/122135507/original.jpeg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.5685358255451713,
+              "top": 0.14537902388369678,
+              "width": 0.28971962616822433,
+              "height": 0.3530633437175493
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.3514340049342105,
+              "top": 0.20175438596491227,
+              "width": 0.3430818256578948,
+              "height": 0.43957115009746595
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "status": "has_butterflies",
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.3222871994801819,
+              "top": 0.19200779727095516,
+              "width": 0.20446177171323365,
+              "height": 0.20857699805068228
+            }
+          ]
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.07917496453129796,
+              "top": 0.05688498692670729,
+              "width": 0.8564077663982188,
+              "height": 0.826798413164536
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T23:53:31.618",
+    "submitted": "2026-11-17T23:54:55.174",
+    "accepted": "2026-11-17T23:54:55.174"
+  },
+  {
+    "id": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "task_suite_id": "000068c4c6--6afcd20cc929b90ea8d7caa1",
+    "pool_id": "6866118",
+    "user_id": "worker_009",
+    "status": "ACCEPTED",
+    "reward": 2.5,
+    "tasks": [
+      {
+        "id": "c2196ae5-40ec-438d-8fba-5964fe16c16d",
+        "input_values": {
+          "photo_id": "532187628",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/532187628/original.jpg"
+        }
+      },
+      {
+        "id": "f4e7549f-5dd0-4c38-bd64-2fef68de6098",
+        "input_values": {
+          "photo_id": "257584408",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/257584408/original.jpg"
+        }
+      },
+      {
+        "id": "9150873c-3743-4d37-9dc6-ed26ef047963",
+        "input_values": {
+          "photo_id": "21908014",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/21908014/original.jpeg"
+        }
+      },
+      {
+        "id": "510ba0cb-2dfc-4ec5-be51-d0124219e9e1",
+        "input_values": {
+          "photo_id": "12537299",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/12537299/original.jpg"
+        }
+      },
+      {
+        "id": "b50bb2e7-b90e-427c-a545-427e246c7ed4",
+        "input_values": {
+          "photo_id": "314515123",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/314515123/original.jpeg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.2370336092519637,
+              "top": 0.26046599555643657,
+              "width": 0.52588121199452,
+              "height": 0.6427989757945708
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.27614445371295027,
+              "top": 0.0712344202709729,
+              "width": 0.33373829287949275,
+              "height": 0.741489941688984
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.26346059136022454,
+              "top": 0.23282504827684294,
+              "width": 0.38298100856926415,
+              "height": 0.33198975128109
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T23:54:44.915",
+    "submitted": "2026-11-18T00:00:54.445",
+    "accepted": "2026-11-18T00:00:54.445"
+  },
+  {
+    "id": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "task_suite_id": "000068c4c6--6afcd20cc929b90ea8d7ca95",
+    "pool_id": "6866118",
+    "user_id": "worker_011",
+    "status": "ACCEPTED",
+    "reward": 2.5,
+    "tasks": [
+      {
+        "id": "ef8aee14-f4b8-47d0-882a-a0dcca6b1395",
+        "input_values": {
+          "photo_id": "593147205",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/593147205/original.jpg"
+        }
+      },
+      {
+        "id": "5d3f946d-a111-424f-999e-c39aa43f03bd",
+        "input_values": {
+          "photo_id": "243853926",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/243853926/original.jpeg"
+        }
+      },
+      {
+        "id": "65510071-e8bc-4664-bb95-feb9c60b5e0e",
+        "input_values": {
+          "photo_id": "60606121",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/60606121/original.jpg"
+        }
+      },
+      {
+        "id": "0d492a55-9af1-4a8e-a887-e7545c1fead3",
+        "input_values": {
+          "photo_id": "14825634",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/14825634/original.jpg"
+        }
+      },
+      {
+        "id": "1aea8af8-ed92-4e65-ba81-927ee15e708b",
+        "input_values": {
+          "photo_id": "178154218",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/178154218/original.jpg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "status": "no_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.1688753407320872,
+              "top": 0.1059190031152648,
+              "width": 0.3405191296728972,
+              "height": 0.6230529595015576
+            },
+            {
+              "shape": "rectangle",
+              "left": 0.7599390332943925,
+              "top": 0.020768431983385252,
+              "width": 0.2400609667056075,
+              "height": 0.5399792315680165
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.1937913746105919,
+              "top": 0.012461059190031152,
+              "width": 0.5176998150311526,
+              "height": 0.9740394600207684
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T23:54:55.491",
+    "submitted": "2026-11-17T23:56:11.799",
+    "accepted": "2026-11-17T23:56:11.799"
+  }
+]

@@ -1,0 +1,16 @@
+{"photo_id": 0, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/00.png", "crop_xyxy": [0, 0, 563, 375]}
+{"photo_id": 1, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/01.png", "crop_xyxy": [461, 0, 1075, 375]}
+{"photo_id": 2, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/02.png", "crop_xyxy": [973, 0, 1587, 375]}
+{"photo_id": 3, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/03.png", "crop_xyxy": [1485, 0, 2048, 375]}
+{"photo_id": 4, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/04.png", "crop_xyxy": [0, 307, 563, 717]}
+{"photo_id": 5, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/05.png", "crop_xyxy": [461, 307, 1075, 717]}
+{"photo_id": 6, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/06.png", "crop_xyxy": [973, 307, 1587, 717]}
+{"photo_id": 7, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/07.png", "crop_xyxy": [1485, 307, 2048, 717]}
+{"photo_id": 8, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/08.png", "crop_xyxy": [0, 648, 563, 1058]}
+{"photo_id": 9, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/09.png", "crop_xyxy": [461, 648, 1075, 1058]}
+{"photo_id": 10, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/10.png", "crop_xyxy": [973, 648, 1587, 1058]}
+{"photo_id": 11, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/11.png", "crop_xyxy": [1485, 648, 2048, 1058]}
+{"photo_id": 12, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/12.png", "crop_xyxy": [0, 990, 563, 1365]}
+{"photo_id": 13, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/13.png", "crop_xyxy": [461, 990, 1075, 1365]}
+{"photo_id": 14, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/14.png", "crop_xyxy": [973, 990, 1587, 1365]}
+{"photo_id": 15, "local_path": "inaturalist_dataset/photos/qwen_tiles/247404664/15.png", "crop_xyxy": [1485, 990, 2048, 1365]}

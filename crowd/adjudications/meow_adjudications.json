@@ -1,0 +1,398 @@
+[
+  {
+    "photo_id": "116540226",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.041992,
+        "top": 0.052734,
+        "width": 0.838867,
+        "height": 0.670573
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.344238,
+        "top": 0.134766,
+        "width": 0.506348,
+        "height": 0.839193
+      }
+    ],
+    "status": "has_butterflies",
+    "action": "replace_with_meow_manual_annotation",
+    "source_candidate_id": "bbox-c9a5114a70dea0572c5878deb0bc4656",
+    "source_candidate_hash": "5ced033a15280870a6bdb911a6e1f6e5e134dff974bfad1bc190211aeb5f2947",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.04361370716510903,
+        "top": 0.05399792315680166,
+        "width": 0.838006230529595,
+        "height": 0.7518172377985461
+      }
+    ],
+    "annotator": "Meow",
+    "annotation_method": "manual, as reported by Meow in project chat 2026-11-18 20:19 MSK",
+    "reviewer": "captain_review",
+    "review_method": "coordinate/schema validation and original-image overlays with group enlargement",
+    "reason": "Manually reviewed the original and crops. Two overlapping adults confirmed; one box per individual, rear wings separated from the wood. Corrected boxes taken from review.jsonl.",
+    "decision": "accepted_for_merge",
+    "residual_uncertainty": "Overlapping individuals remain difficult; this is an adjudicated reference, not a measured accuracy guarantee.",
+    "image_sha256": "d449ec8466d26b3b807e90cb9be7de8372a4124dfaef765a92b7fe9c09f4d413",
+    "raw_answers_unchanged": true,
+    "models_under_evaluation_used": false,
+    "checked_utc": "2026-11-18T17:50:52.652838+00:00"
+  },
+  {
+    "photo_id": "136273568",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.140319,
+        "top": 0.126634,
+        "width": 0.786765,
+        "height": 0.754085
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.477328,
+        "top": 0.0,
+        "width": 0.436275,
+        "height": 0.269608
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.884191,
+        "top": 0.698529,
+        "width": 0.115809,
+        "height": 0.301471
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.762868,
+        "top": 0.571078,
+        "width": 0.21201,
+        "height": 0.428922
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.480392,
+        "top": 0.03268,
+        "width": 0.519608,
+        "height": 0.520425
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.908701,
+        "top": 0.134804,
+        "width": 0.091299,
+        "height": 0.426471
+      }
+    ],
+    "status": "has_butterflies",
+    "action": "replace_with_meow_manual_annotation",
+    "source_candidate_id": "bbox-d33b6f1ffd74343c319e2e3adadcd532",
+    "source_candidate_hash": "066e59e692f393b8a6e529886d2ef51d2a50da5070f512428126d084d66885dd",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.48147526945189995,
+        "top": 0.0,
+        "width": 0.43388052135840754,
+        "height": 0.26631834633228857
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.14254652165824025,
+        "top": 0.12852417659198323,
+        "width": 0.7832885860901014,
+        "height": 0.7492325606079232
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4846547776383043,
+        "top": 0.03977211018388214,
+        "width": 0.5153452223616957,
+        "height": 0.5552164154367255
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.9179798811941771,
+        "top": 0.19637822736329302,
+        "width": 0.08202011880582294,
+        "height": 0.3708752775047829
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7666287262800877,
+        "top": 0.5724244578112786,
+        "width": 0.034993515766982064,
+        "height": 0.4275755421887214
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7176378042063127,
+        "top": 0.5739797251787,
+        "width": 0.28236219579368727,
+        "height": 0.4260202748213
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.8272841536095233,
+        "top": 0.5786455272809643,
+        "width": 0.14463986517019256,
+        "height": 0.419922189203785
+      }
+    ],
+    "annotator": "Meow",
+    "annotation_method": "manual, as reported by Meow in project chat 2026-11-18 20:19 MSK",
+    "reviewer": "captain_review",
+    "review_method": "coordinate/schema validation and original-image overlays with group enlargement",
+    "reason": "Manually reviewed the original and all six overlapping crops. Six separate adults confirmed; one box per individual, shared/overlapping wings assigned to their own body, no wing counted as a separate butterfly.",
+    "decision": "accepted_for_merge",
+    "residual_uncertainty": "Overlapping individuals remain difficult; this is an adjudicated reference, not a measured accuracy guarantee.",
+    "image_sha256": "5536a9688ebe56b2329d3a87ea245691379b5b6488ff911481f62b418d817883",
+    "raw_answers_unchanged": true,
+    "models_under_evaluation_used": false,
+    "checked_utc": "2026-11-18T17:50:52.653410+00:00"
+  },
+  {
+    "photo_id": "146688328",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.11377,
+        "top": 0.315972,
+        "width": 0.185059,
+        "height": 0.374132
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.289551,
+        "top": 0.493056,
+        "width": 0.069336,
+        "height": 0.394965
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.193359,
+        "top": 0.315972,
+        "width": 0.223633,
+        "height": 0.330729
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.35498,
+        "top": 0.429688,
+        "width": 0.223633,
+        "height": 0.346354
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.481445,
+        "top": 0.384549,
+        "width": 0.174805,
+        "height": 0.217882
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.275879,
+        "top": 0.268229,
+        "width": 0.069824,
+        "height": 0.141493
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.414062,
+        "top": 0.310764,
+        "width": 0.058594,
+        "height": 0.131944
+      }
+    ],
+    "status": "has_butterflies",
+    "action": "replace_with_meow_manual_annotation",
+    "source_candidate_id": "bbox-1e500b0cb3095b046d3acaa3e00caa9e",
+    "source_candidate_hash": "26b4db1f3fba8f81952ed0d98f2bfe34a9fda2d6a61ee6c5185a5ed8cc82e60c",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.11463484365375493,
+        "top": 0.35761882504956105,
+        "width": 0.16242730927171167,
+        "height": 0.3407363998944352
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.27807732360841486,
+        "top": 0.4926139665331615,
+        "width": 0.08527433736764867,
+        "height": 0.43674898715282473
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3643668316590116,
+        "top": 0.40598606825491523,
+        "width": 0.2256110361552438,
+        "height": 0.3976755005142437
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4757818141125765,
+        "top": 0.3847802806555529,
+        "width": 0.1814617595769903,
+        "height": 0.24589689875856346
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4161405364893698,
+        "top": 0.2764954078077451,
+        "width": 0.058372314269521386,
+        "height": 0.16017137442071566
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.1839261175953107,
+        "top": 0.30748317958045396,
+        "width": 0.17404184885613638,
+        "height": 0.33943464193226774
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.2749859878829095,
+        "top": 0.26440109041212767,
+        "width": 0.07123231788626672,
+        "height": 0.15274558886952055
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3058288471738703,
+        "top": 0.2800673146154662,
+        "width": 0.1145591916521404,
+        "height": 0.3733781061254945
+      }
+    ],
+    "annotator": "Meow",
+    "annotation_method": "manual, as reported by Meow in project chat 2026-11-18 20:19 MSK",
+    "reviewer": "captain_review",
+    "review_method": "coordinate/schema validation and original-image overlays with group enlargement",
+    "reason": "Manually reviewed the original and all six overlapping crops. Seven adults confirmed; the small preliminary boxes were reassigned to the correct individuals so wings are not counted as separate butterflies.",
+    "decision": "accepted_for_merge",
+    "residual_uncertainty": "Overlapping individuals remain difficult; this is an adjudicated reference, not a measured accuracy guarantee.",
+    "image_sha256": "beac13715d33eccf6f454252969e8dbdaab6ed029707b5f758c1872578060d77",
+    "raw_answers_unchanged": true,
+    "models_under_evaluation_used": false,
+    "checked_utc": "2026-11-18T17:50:52.655043+00:00"
+  },
+  {
+    "photo_id": "390616794",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.005848,
+        "top": 0.298828,
+        "width": 0.270601,
+        "height": 0.144043
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.146199,
+        "top": 0.128906,
+        "width": 0.32908,
+        "height": 0.193359
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.249867,
+        "top": 0.275391,
+        "width": 0.245082,
+        "height": 0.202637
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.456672,
+        "top": 0.563965,
+        "width": 0.104732,
+        "height": 0.251953
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.783626,
+        "top": 0.453613,
+        "width": 0.181287,
+        "height": 0.240234
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.719298,
+        "top": 0.547363,
+        "width": 0.275917,
+        "height": 0.325684
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.604466,
+        "top": 0.467773,
+        "width": 0.133971,
+        "height": 0.287109
+      }
+    ],
+    "status": "has_butterflies",
+    "action": "replace_with_meow_manual_annotation",
+    "source_candidate_id": "bbox-887a0931dac0405a9c3a0ce5b1ae245d",
+    "source_candidate_hash": "4c6e494f0c585168ae569bd09ac24793b9ea908ab81db43cb07156fc96cb9b78",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.15114624106263563,
+        "top": 0.13094192580003355,
+        "width": 0.3231350498371938,
+        "height": 0.18549103660393113
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.015609039603145986,
+        "top": 0.2768615412617927,
+        "width": 0.48111218531315525,
+        "height": 0.21434519785343153
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7821571856058224,
+        "top": 0.45245972258018086,
+        "width": 0.18670025101704524,
+        "height": 0.2399017406744176
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.45991973312928747,
+        "top": 0.568700772185311,
+        "width": 0.09155493078720489,
+        "height": 0.24649697753144628
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6187805898831708,
+        "top": 0.4687535575760648,
+        "width": 0.11860482948475781,
+        "height": 0.3044549978018631
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6872136177525429,
+        "top": 0.5428123744201965,
+        "width": 0.3114408420662317,
+        "height": 0.3189066013797457
+      }
+    ],
+    "annotator": "Meow",
+    "annotation_method": "manual, as reported by Meow in project chat 2026-11-18 20:19 MSK",
+    "reviewer": "captain_review",
+    "review_method": "coordinate/schema validation and original-image overlays with group enlargement",
+    "reason": "Manually reviewed the original and all six overlapping crops. Seven visible adults traced with one box per individual; no wing-level duplicate boxes. Counting follows the manual inspection, not the preliminary split.",
+    "decision": "accepted_for_merge",
+    "residual_uncertainty": "Overlapping individuals remain difficult; this is an adjudicated reference, not a measured accuracy guarantee.",
+    "image_sha256": "09fe76c1c1efbe2a023ab8c91f369e71d91ab3246dcd77a4073566a403f3f502",
+    "raw_answers_unchanged": true,
+    "models_under_evaluation_used": false,
+    "checked_utc": "2026-11-18T17:50:52.657468+00:00"
+  }
+]

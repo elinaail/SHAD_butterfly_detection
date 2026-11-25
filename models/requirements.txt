@@ -1,0 +1,16 @@
+requests
+tqdm
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+groundingdino-py
+Pillow
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jsonlines

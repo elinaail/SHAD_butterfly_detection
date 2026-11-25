@@ -1,0 +1,6 @@
+# Separate Qwen runtime on Apple Silicon; detector runs use requirements-models.txt.
+torch==2.15.0
+torchvision==0.29.2
+transformers==5.20.2
+Pillow==11.2.1
+requests==2.32.4

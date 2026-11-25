@@ -1,0 +1,104 @@
+[
+  {
+    "photo_id": "122135507",
+    "before": [
+      {
+        "shape": "rectangle",
+        "left": 0.07917496453129796,
+        "top": 0.05688498692670729,
+        "width": 0.8564077663982188,
+        "height": 0.826798413164536
+      }
+    ],
+    "after": [
+      {
+        "shape": "rectangle",
+        "left": 0.075,
+        "top": 0.05688498692670729,
+        "width": 0.8605827309295169,
+        "height": 0.826798413164536
+      }
+    ],
+    "method": "captain visual adjustment",
+    "reason": "Небольшой запас слева у кончика лапки.",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.07917496453129796,
+        "top": 0.05688498692670729,
+        "width": 0.8564077663982188,
+        "height": 0.826798413164536
+      }
+    ],
+    "original_content_hash": "118c6069810cd6707bb61de0b289bcda111bd0f794af6dc85cf780b82d48d995",
+    "independent_human_review_of_revision": false
+  },
+  {
+    "photo_id": "440553240",
+    "before": [
+      {
+        "shape": "rectangle",
+        "left": 0.4224976473260644,
+        "top": 0.284527518172378,
+        "width": 0.19393334631360332,
+        "height": 0.49428868120456904
+      }
+    ],
+    "after": [
+      {
+        "shape": "rectangle",
+        "left": 0.405,
+        "top": 0.284527518172378,
+        "width": 0.21143099363966766,
+        "height": 0.49428868120456904
+      }
+    ],
+    "method": "captain visual adjustment",
+    "reason": "Включена видимая часть тонкой лапки слева от прежней рамки.",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4224976473260644,
+        "top": 0.284527518172378,
+        "width": 0.19393334631360332,
+        "height": 0.49428868120456904
+      }
+    ],
+    "original_content_hash": "cde202555802debd68edf941827a34093fdd749520631a5a9e3a2170e13b4f7c",
+    "independent_human_review_of_revision": false
+  },
+  {
+    "photo_id": "79275893",
+    "before": [
+      {
+        "shape": "rectangle",
+        "left": 0.24536665206386293,
+        "top": 0.12668743509865005,
+        "width": 0.5461833949896158,
+        "height": 0.7518172377985461
+      }
+    ],
+    "after": [
+      {
+        "shape": "rectangle",
+        "left": 0.232,
+        "top": 0.12668743509865005,
+        "width": 0.5595500470534787,
+        "height": 0.75631256490135
+      }
+    ],
+    "method": "captain visual adjustment",
+    "reason": "Включены кончики лапки слева и хвостика крыла снизу.",
+    "original_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24536665206386293,
+        "top": 0.12668743509865005,
+        "width": 0.5461833949896158,
+        "height": 0.7518172377985461
+      }
+    ],
+    "original_content_hash": "f21bdb29cdce094f76c86ef0132d5b70806e455e08ae5b1d083f6abffdea253c",
+    "independent_human_review_of_revision": false
+  }
+]

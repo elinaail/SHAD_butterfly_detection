@@ -1,0 +1,414 @@
+[
+  {
+    "photo_id": "224145341",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/224145341/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.121299,
+        "top": 0.287799,
+        "width": 0.628213,
+        "height": 0.578411
+      }
+    ],
+    "verdict": "accept",
+    "rationale": "Все объекты охвачены исходными эталонными рамками; для негатива список пуст.",
+    "mutation": "correct",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "ea65c96c94728d6ccbaa6d13c80686bbff06630837f1a47026b3f097d30a6be3",
+    "reference_boxes": [
+      {
+        "left": 0.121299,
+        "top": 0.287799,
+        "width": 0.628213,
+        "height": 0.578411
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-6763fcfc986e0edd7204ef159bc24a6e",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "60ab438704b8c4c0bba3eca603acfdd815960353e9a2a08dbb95d93031c75439",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Один объект целиком в рамке, включая нижние усики."
+    }
+  },
+  {
+    "photo_id": "88390833",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/88390833/original.jpeg",
+    "boxes": [],
+    "verdict": "fix",
+    "rationale": "Удалена рамка одного целевого объекта.",
+    "mutation": "missing",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "6ea06826bfe96c624d7570b698617addb66c911e1fb52b3dbbe6bd1e93425282",
+    "reference_boxes": [
+      {
+        "left": 0.341719,
+        "top": 0.317174,
+        "width": 0.313396,
+        "height": 0.387346
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-d6a7e69624fb5ffdb31d1e0e232d34ea",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "74bf196c12b74a3f40026e340f76627b38edb9f90628aa8ed7ce3d28486ef565",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Белая бабочка есть, рамка удалена полностью."
+    }
+  },
+  {
+    "photo_id": "173711021",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/173711021/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.090283,
+        "top": 0.101092,
+        "width": 0.801514,
+        "height": 0.78488
+      }
+    ],
+    "verdict": "accept",
+    "rationale": "Все объекты охвачены исходными эталонными рамками; для негатива список пуст.",
+    "mutation": "correct",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "2ee40b9625034ac6b764f3ef89b2ac5759d99c93b276e9f16a35fdcb27a212dc",
+    "reference_boxes": [
+      {
+        "left": 0.090283,
+        "top": 0.101092,
+        "width": 0.801514,
+        "height": 0.78488
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-47af6d25aa0badb14aff0a566c2ba839",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "d56212801bed68ef4f322fd1205d228fbf9613d39ac51ad23391dc19139be8d4",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Раскрытые крылья, тело и усики входят в одну рамку."
+    }
+  },
+  {
+    "photo_id": "312368678",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/312368678/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.051895,
+        "top": 0.000725,
+        "width": 0.2872605,
+        "height": 0.827407
+      }
+    ],
+    "verdict": "fix",
+    "rationale": "Правая половина рамки отрезана; существенная часть бабочки вне рамки.",
+    "mutation": "crop",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "28ff4b341abb678967d6341df49bc5f916d56694feaf34d2f49889f915e18f22",
+    "reference_boxes": [
+      {
+        "left": 0.051895,
+        "top": 0.000725,
+        "width": 0.574521,
+        "height": 0.827407
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-f21d48ba3f24a2ceca7c5893d5640fe8",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "feb84b1d7f0ae8a6436742c8c4792fd14e7c211bf9e655413a05dd696288765e",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Правая половина объекта, включая тело и крыло, осталась вне укороченной рамки."
+    }
+  },
+  {
+    "photo_id": "345118607",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/345118607/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.088149,
+        "top": 0.134227,
+        "width": 0.8173,
+        "height": 0.756527
+      }
+    ],
+    "verdict": "accept",
+    "rationale": "Все объекты охвачены исходными эталонными рамками; для негатива список пуст.",
+    "mutation": "correct",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "99e30ec153807729fdea0eab3236c331823ac7433096be9751d5baece96986ec",
+    "reference_boxes": [
+      {
+        "left": 0.088149,
+        "top": 0.134227,
+        "width": 0.8173,
+        "height": 0.756527
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-ad9fcc32449096708ecf5b8822029b95",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "738f319288873aa8efeac58e0ba491d994e8001618513c39734c66f3c2756c5c",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Один мотылёк целиком охвачен. Верхнее тёмное пятно является тенью."
+    }
+  },
+  {
+    "photo_id": "82554395",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/82554395/original.jpg",
+    "boxes": [],
+    "verdict": "fix",
+    "rationale": "Удалена рамка одного целевого объекта.",
+    "mutation": "missing",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "9b87ff442546581a506981080daff167a84e553d8fd83d670bfa668fa7bdd360",
+    "reference_boxes": [
+      {
+        "left": 0.3035,
+        "top": 0.145779,
+        "width": 0.37225,
+        "height": 0.712008
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-879c9d8d3effa8edfdaaccaf796a5898",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "aa58f186cbf5b8d43fa3307a775fad4668189a473e3eb3edc7a8af9c2f6bec72",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "На дереве есть серый мотылёк, но рамок нет."
+    }
+  },
+  {
+    "photo_id": "27227325",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/27227325/original.jpeg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.188571,
+        "top": 0.121943,
+        "width": 0.701264,
+        "height": 0.802701
+      }
+    ],
+    "verdict": "accept",
+    "rationale": "Все объекты охвачены исходными эталонными рамками; для негатива список пуст.",
+    "mutation": "correct",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "dd5beae452aa97cac389ac6da930241526b3e4f5380f07d45f643708dc217619",
+    "reference_boxes": [
+      {
+        "left": 0.188571,
+        "top": 0.121943,
+        "width": 0.701264,
+        "height": 0.802701
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-ce433681c2fc5e38952bfd8204ecca6a",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "03822f44206e593446ceddf08873bff627a7264833bf87fca2e0ec2a86031b50",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Прозрачнокрылая бабочка вместе с усиками и лапками внутри рамки."
+    }
+  },
+  {
+    "photo_id": "178088581",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/178088581/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.000264,
+        "top": 0.055121,
+        "width": 0.455337,
+        "height": 0.944879
+      }
+    ],
+    "verdict": "fix",
+    "rationale": "Правая половина рамки отрезана; существенная часть бабочки вне рамки.",
+    "mutation": "crop",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "9aa19bbf4dfb9da23026eb2ee30a28659e8318d7fed6460579ae111ca5708b74",
+    "reference_boxes": [
+      {
+        "left": 0.000264,
+        "top": 0.055121,
+        "width": 0.910674,
+        "height": 0.944879
+      }
+    ],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-253e225e983b25e40d54e2f9414d9145",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "a088ccd71fd19c3a1dc7f14fe7a7c4ae25e6e63869a7052688807f10f10530f5",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Рамка обрезает большую правую часть видимого насекомого."
+    }
+  },
+  {
+    "photo_id": "78971195",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/78971195/original.jpeg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.15,
+        "top": 0.15,
+        "width": 0.7,
+        "height": 0.7
+      }
+    ],
+    "verdict": "fix",
+    "rationale": "На негативном изображении добавлена рамка: целевых взрослых бабочек нет.",
+    "mutation": "negative_box",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "73dfc1ba71458ee32d0fb9d6dc3ba61a08ab7b744e7226516dc16e150da0cb2a",
+    "reference_boxes": [],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-e2f7e245bb632e868ee3fa4783a7a498",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "e8f54b1e124e7445a727f84f2428cbb71119838b23781a09a8c733a32d3a58c5",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Рамкой ошибочно выделена гусеница, взрослой бабочки нет."
+    }
+  },
+  {
+    "photo_id": "143226671",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/143226671/original.jpg",
+    "boxes": [],
+    "verdict": "accept",
+    "rationale": "Все объекты охвачены исходными эталонными рамками; для негатива список пуст.",
+    "mutation": "correct",
+    "annotator": "Elina",
+    "candidate_prepared_by": "captain_review",
+    "verified": true,
+    "verified_by": "captain_review",
+    "gold_hash": "689368db631d364f487dd0736eb5317b498f4fa504d021789e245b92f67c51d0",
+    "reference_boxes": [],
+    "author_worker_ids": [],
+    "split": "exam",
+    "candidate_revision": 1,
+    "candidate_id": "control-6c2bb481978cfdf1a8464cf588d69ece",
+    "verification": {
+      "type": "model_review",
+      "reviewer": "captain_review",
+      "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+      "user_authorized": true,
+      "authorization_date_local": "2026-11-18",
+      "independent_human_verification": false,
+      "separate_model_instance": false,
+      "content_hash": "fd31a96f6e1c296a827bef72ee1954803045b61d07ace7006eb2bcb5e9c12122",
+      "evidence_file": "control_review_decisions.json",
+      "reason": "Виден жук, поэтому отсутствие рамок правильно."
+    }
+  }
+]

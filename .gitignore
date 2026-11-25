@@ -1,3 +1,17 @@
 butterfly_env/
 __pycache__/
 inaturalist_dataset/photos/
+
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+*.pyc
+.DS_Store
+eval/cache_images/
+models/inaturalist_dataset/photos/
+models/.cache/
+*.log.local
+
+crowd/code/private/

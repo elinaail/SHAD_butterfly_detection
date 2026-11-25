@@ -1,0 +1,8 @@
+config,fp_empty_frame,fp_duplicate,fp_group_box,fp_part_box,fp_loose,fp_background,fn_missed,fn_loose,fn_in_group_box
+dino_t0.15,304,3,12,8,20,38,8,10,7
+dino_t0.25,167,0,6,4,4,22,11,15,10
+dino_t0.40,92,0,2,1,1,7,34,19,9
+owlv2_t0.15,109,10,13,53,62,18,3,19,5
+owlv2_t0.25,57,3,7,18,27,6,7,25,4
+owlv2_t0.40,27,0,4,6,12,1,38,21,11
+qwen,24,7,2,1,6,5,4,14,8

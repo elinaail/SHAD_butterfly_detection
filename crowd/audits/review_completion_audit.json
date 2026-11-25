@@ -1,0 +1,38 @@
+{
+  "checked_utc": "2026-11-18T13:48:32.924612+00:00",
+  "api_snapshot_utc": "2026-11-18T13:38:15.419543+00:00",
+  "pool_id": "6869107",
+  "status": "CLOSED",
+  "photos": 380,
+  "ordinary_answers": 760,
+  "distinct_reviewers_per_photo": 2,
+  "active_or_submitted": 0,
+  "self_review_or_integrity_issues": [],
+  "control_answers": 190,
+  "control_correct": 183,
+  "control_accuracy": 0.9631578947368421,
+  "accepted_by_both": 330,
+  "requiring_adjudication": 50,
+  "review_cost_rub": 266,
+  "project_cost_rub": 644,
+  "remaining_budget_rub": 206,
+  "gold_ready": false,
+  "gold_accuracy": null,
+  "adjudicated_photos": 115,
+  "remaining_disputes": [
+    "116540226",
+    "136273568",
+    "390616794",
+    "615002914"
+  ],
+  "remaining_visual_queue_count": 7,
+  "frozen_source_sha256": {
+    "main_bbox_candidates.json": "28fc1de9e8579e7e22f52d0be43862b02dc1babc332f80d4cc592c9d2113e6cd",
+    "main_bbox_assignments_latest.json": "29172b1a0cfce0db473e99420b7204d5066125e2d60fdbf46729b6a225c11fd2",
+    "main_review_assignments_latest.json": "c62bc3057fc920bdd367b23404d7b7720258b6bbc5f19eb6daa17cc7ba1ed617",
+    "main_review_quality.json": "4c0c4283eb703a8d7f6c1cf5cfb9b52a3a975342e1cdb3a941185c2a8170f2d8",
+    "main_review_result_audit.json": "33a78b2284c257084088b0701df4c75cca57a86fe40c30077b93e8aebdc66322",
+    "main_live_check.json": "a7f780a66207669f7fb2fa8dce6a5a8a9b10838eb8466ef622cb6b4434ed509d"
+  },
+  "adjudication_updated_utc": "2026-11-18T14:29:42.906613+00:00"
+}

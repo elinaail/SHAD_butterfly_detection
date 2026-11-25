@@ -1,0 +1,26 @@
+[
+  {
+    "photo_id": 765032073,
+    "image_file": "765032073.jpg",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/765032073/original.jpg",
+    "replaces_photo_id": 615002914,
+    "sha256": "650d434fc412fd4472ebff7a8f4591205eb4ec2fe98a7639a8d97b016fa0018d",
+    "local_path": "inaturalist_dataset/photos/replacements_2026_11_18/765032073.jpg"
+  },
+  {
+    "photo_id": 765036915,
+    "image_file": "765036915.jpg",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/765036915/original.jpg",
+    "replaces_photo_id": 247404664,
+    "sha256": "32dc67fb750a3a9eeab0697dd2c9cbf614452a85c29797caf22c91f9d3ef6ffc",
+    "local_path": "inaturalist_dataset/photos/replacements_2026_11_18/765036915.jpg"
+  },
+  {
+    "photo_id": 764941215,
+    "image_file": "764941215.jpg",
+    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/764941215/original.jpg",
+    "replaces_photo_id": 359179108,
+    "sha256": "d55bec5fe3c326dc82d7c73e512d7edec58505e8f8ffe365a38e2bda9fc29c3e",
+    "local_path": "inaturalist_dataset/photos/replacements_2026_11_18/764941215.jpg"
+  }
+]

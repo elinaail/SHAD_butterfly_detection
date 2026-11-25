@@ -1,0 +1,58 @@
+{
+  "public_name": "Выделите бабочек на фотографии",
+  "public_description": "Найдите взрослых бабочек, включая мотыльков и моль, и выделите каждую рамкой.",
+  "public_instructions": "\n<style>\n        @charset \"UTF-8\";\n        body {\n            font-family: Arial, sans-serif;\n            line-height: 110%;\n            font-size: 15px;\n        }\n        ul, ol {\n            margin-left: 0;\n            padding-left: 0;\n        }\n        summary {\n            color:  blue;\n            cursor: pointer;\n        }\n    </style>\n    \n        \n            <h3>Поиск и выделение бабочек на фото</h3>\n            <p>Вам предстоит находить на фотографиях всех <strong>взрослых бабочек</strong> и выделять их прямоугольными рамками. Если бабочек на фото нет, выберите ответ <strong>«Бабочек нет»</strong>.</p>\n            <p><strong>Бабочкой в этом задании считается любая взрослая бабочка в обычном, бытовом смысле:</strong> дневные бабочки, ночные бабочки (мотыльки) и моль. Все они размечаются одинаково.</p>\n            <p>Гусениц и куколок <strong>не размечаем</strong>.</p>\n        \n        \n            <h3>Порядок выполнения задания</h3>\n            <p>Над фотографией есть вопрос «Что на фото?» с тремя вариантами ответа. Ответ нужно выбрать <strong>в каждом задании</strong>, иначе задание не отправится.</p>\n            <ol><li><strong>Бабочки есть:</strong> выделите рамкой каждую бабочку, затем выберите ответ <strong>«Есть бабочки (выделены рамками)»</strong>.</li><li><strong>Бабочек нет:</strong> не рисуйте рамок и выберите ответ <strong>«Бабочек нет»</strong>.</li><li><strong>Фото не загрузилось:</strong> не рисуйте рамок и выберите ответ <strong>«Ошибка загрузки»</strong>.</li></ol>\n            <p>Если на фото есть бабочки, переходите к их разметке рамками по правилам ниже.</p>\n        \n        \n            <h3>Основные правила разметки</h3>\n            <ol><li>\n                    <strong>Каждая бабочка выделяется отдельной рамкой</strong>, даже если несколько объектов перекрывают друг друга.\n                    \n                        Пример\n                        <img width=\"600\" src=\"https://i.postimg.cc/wj6TB1PG/Screenshot-2026-11-13-040546.png\" />\n                    \n                </li><li>\n                    <strong>Рамка должна плотно охватывать все видимые части объекта</strong>: крылья, тело, усики и лапки.\n                    \n                        Пример\n                        <img width=\"600\" src=\"https://i.postimg.cc/T35P5z0B/Screenshot-2026-11-13-024637.png\" />\n                    \n                </li><li>\n                    <strong>Если бабочка частично закрыта другим объектом или обрезана краем фотографии</strong>, выделяйте только её видимую часть. Скрытые части достраивать не нужно.\n                    \n                        Пример\n                        <img width=\"600\" src=\"https://i.postimg.cc/ZnX1GMNL/Screenshot-2026-11-13-025207.png\" />\n                    \n                </li><li>\n                    <strong>Мотыльков и моль тоже выделяйте рамкой</strong>, так же как дневных бабочек.\n                    \n                        Пример\n                        <img width=\"600\" src=\"https://i.postimg.cc/J0cRQ8vN/Screenshot-2026-11-13-032035.png\" />\n                    \n                </li><li>\n                    <strong>Строго запрещено размечать</strong> гусениц, куколок, других насекомых, отражения и рисунки бабочек. Если кроме них на фото нет бабочек, выберите ответ «Бабочек нет».\n                </li><li>\n                    <strong>Если на фото нет ни одной бабочки</strong>, выберите ответ «Бабочек нет».\n                </li><li>\n                    <strong>Если фото не загрузилось или вместо него ошибка</strong>, выберите ответ «Ошибка загрузки». Не отмечайте такое фото как «Бабочек нет».\n                </li></ol>\n        \n    \n\n<h3>Тонкие лапки, усики и тени</h3>\n<p>Перед отправкой увеличьте изображение и проверьте кончики всех видимых лапок и усиков. Если тонкая лапка выходит за край крыла и тянется к цветку, рамка должна включать и её видимый конец. Рамка только вокруг крыльев в таком случае неверна.</p>\n<p>На примере ниже лапки выступают влево за край крыла. Зелёная рамка включает их целиком. Если сдвинуть её левую сторону к крылу, лапки окажутся снаружи — такую рамку нужно исправить.</p>\n<img width=\"600\" src=\"https://i.postimg.cc/T35P5z0B/Screenshot-2026-11-13-024637.png\" alt=\"Зелёная рамка включает крылья, усик и выступающие влево лапки бабочки\">\n<p>Тень на фоне не является частью бабочки: расширять рамку ради тени не нужно. Цветок, лист или оболочка куколки могут частично попасть внутрь прямоугольника, если иначе нельзя охватить все видимые части бабочки. Отдельную рамку для них не рисуют. Скрытые части тела не достраивайте.</p>",
+  "task_spec": {
+    "input_spec": {
+      "image": {
+        "type": "url",
+        "hidden": false,
+        "required": true
+      },
+      "photo_id": {
+        "type": "string",
+        "hidden": true,
+        "required": true
+      }
+    },
+    "output_spec": {
+      "result": {
+        "type": "array_json",
+        "hidden": false,
+        "required": false
+      },
+      "status": {
+        "type": "string",
+        "hidden": false,
+        "required": true,
+        "allowed_values": [
+          "has_butterflies",
+          "no_butterflies",
+          "load_error"
+        ]
+      }
+    },
+    "view_spec": {
+      "lock": {
+        "core": "1.7.0",
+        "helper.if": "1.0.0",
+        "view.list": "1.0.5",
+        "condition.any": "1.0.0",
+        "plugin.toloka": "1.1.8",
+        "condition.empty": "1.0.0",
+        "condition.equals": "1.0.0",
+        "field.radio-group": "1.1.10",
+        "condition.required": "1.1.5",
+        "field.image-annotation": "1.0.0",
+        "plugin.field.image-annotation.hotkeys": "1.0.0"
+      },
+      "type": "tb",
+      "config": "{\"view\": {\"type\": \"view.list\", \"items\": [{\"type\": \"field.radio-group\", \"label\": \"Что на фото?\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"options\": [{\"label\": \"Есть бабочки (выделены рамками)\", \"value\": \"has_butterflies\"}, {\"label\": \"Бабочек нет\", \"value\": \"no_butterflies\"}, {\"label\": \"Ошибка загрузки\", \"value\": \"load_error\"}], \"validation\": {\"type\": \"condition.required\", \"hint\": \"Выберите вариант ответа\"}}, {\"type\": \"field.image-annotation\", \"label\": \"Выделите каждую взрослую бабочку (включая мотыльков и моль) отдельной рамкой\", \"image\": {\"type\": \"data.input\", \"path\": \"image\"}, \"data\": {\"type\": \"data.output\", \"path\": \"result\"}, \"shapes\": {\"rectangle\": true, \"point\": false, \"polygon\": false}, \"validation\": {\"type\": \"helper.if\", \"condition\": {\"type\": \"condition.any\", \"conditions\": [{\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"no_butterflies\"}, {\"type\": \"condition.equals\", \"data\": {\"type\": \"data.output\", \"path\": \"status\"}, \"to\": \"load_error\"}]}, \"then\": {\"type\": \"condition.empty\", \"hint\": \"Вы выбрали «Бабочек нет» или «Ошибка загрузки» — удалите все рамки\"}, \"else\": {\"type\": \"condition.required\", \"hint\": \"Выделите рамкой хотя бы одну бабочку или выберите «Бабочек нет» / «Ошибка загрузки»\"}}}]}, \"plugins\": [{\"type\": \"plugin.toloka\", \"layout\": {\"kind\": \"pager\"}}, {\"type\": \"plugin.field.image-annotation.hotkeys\", \"modes\": {\"select\": \"q\", \"rectangle\": \"e\"}, \"confirm\": \"a\", \"cancel\": \"s\"}]}",
+      "inputExample": null,
+      "inferDataSpec": false,
+      "localizationConfig": null
+    }
+  },
+  "assignments_issuing_type": "AUTOMATED",
+  "assignments_automerge_enabled": false
+}

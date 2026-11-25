@@ -1,0 +1,1 @@
+{"photo_id": 621817520, "model": "Qwen/Qwen3-VL-2B-Instruct", "schema_version": 1, "status": "error", "error": "KeyError: 'box'", "raw_text": "```json\n[\n\t{\"bbox_2d\": [168, 149, 819, 865], \"label\": \"adult butterfly and moth\"}\n]\n```"}

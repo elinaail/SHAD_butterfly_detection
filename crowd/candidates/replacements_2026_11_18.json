@@ -1,0 +1,68 @@
+[
+  {
+    "photo_id": "764941215",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/764941215/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2025195174870557,
+        "top": 0.1280165182604207,
+        "width": 0.621576296840963,
+        "height": 0.7562266098851465
+      }
+    ],
+    "candidate_id": "bbox-a070a3c08911b139a752750334bb6e41",
+    "candidate_revision": 1,
+    "author_id": "worker_010",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_task_id": "0b83864e-b1a7-41a4-b713-4e7986e45ba1",
+    "source_pool_id": "6870225",
+    "source_assignment_hash": "66d7dbb1b37078e5a275e4036d4797ccbf990648e7189e53c1370d6f6b5dab97",
+    "status": "has_butterflies",
+    "content_hash": "996f2f69d16e72074163e020e4f09680c10dd8f8d712655e89357ca3eba69206"
+  },
+  {
+    "photo_id": "765032073",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/765032073/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2843921928043382,
+        "top": 0.36410754778101717,
+        "width": 0.4024219056573461,
+        "height": 0.2085851762307711
+      }
+    ],
+    "candidate_id": "bbox-796fb17757d07e904238c44de7245555",
+    "candidate_revision": 1,
+    "author_id": "worker_010",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_task_id": "d6bb5f62-8920-4234-a1dc-6881802366ce",
+    "source_pool_id": "6870225",
+    "source_assignment_hash": "66d7dbb1b37078e5a275e4036d4797ccbf990648e7189e53c1370d6f6b5dab97",
+    "status": "has_butterflies",
+    "content_hash": "ebcf1cf2f13788713f66d942c0159bb5bf2bbed434afe0478acb1cb634b90c7a"
+  },
+  {
+    "photo_id": "765036915",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/765036915/original.jpg",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.32171893147502906,
+        "top": 0.17499032133178474,
+        "width": 0.28222996515679444,
+        "height": 0.38250096786682153
+      }
+    ],
+    "candidate_id": "bbox-71327a4c25d4aec4f4429a2fc9395cb4",
+    "candidate_revision": 1,
+    "author_id": "worker_010",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_task_id": "9f2250d5-2b0d-44f7-bf39-4b063fde0ecd",
+    "source_pool_id": "6870225",
+    "source_assignment_hash": "66d7dbb1b37078e5a275e4036d4797ccbf990648e7189e53c1370d6f6b5dab97",
+    "status": "has_butterflies",
+    "content_hash": "f4106a2f6f7be8cc6848273de4ca55150524d4af98a1d12bf8813ffd4d85fe9f"
+  }
+]

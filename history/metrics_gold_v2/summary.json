@@ -1,0 +1,26 @@
+{
+  "photos": 400,
+  "threshold_filter_check": {
+    "dino@0.25": {
+      "curve": 0.733,
+      "file": 0.733
+    },
+    "dino@0.4": {
+      "curve": 0.7854,
+      "file": 0.7854
+    },
+    "owlv2@0.25": {
+      "curve": 0.8099,
+      "file": 0.8099
+    },
+    "owlv2@0.4": {
+      "curve": 0.8305,
+      "file": 0.8305
+    }
+  },
+  "qwen_reprocessed": [
+    12297798,
+    76337845,
+    339831709
+  ]
+}

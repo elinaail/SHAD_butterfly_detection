@@ -1,0 +1,18 @@
+{
+  "currency": "RUB",
+  "fee_rate": 0.4,
+  "limit": 850,
+  "spent": 650.3,
+  "remaining": 199.7,
+  "stages_including_fee": {
+    "bbox_exam": 42,
+    "review_exam": 21,
+    "bbox_pilot": 14,
+    "review_pilot": 14,
+    "bbox_main": 266,
+    "review_main": 266,
+    "dense_frame_attempt": 21,
+    "replacement_bbox": 3.5,
+    "replacement_review": 2.8
+  }
+}

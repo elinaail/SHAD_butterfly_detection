@@ -1,0 +1,6 @@
+# Separate from annotation/collection dependencies; no CUDA-only packages required.
+torch==2.7.0
+torchvision==0.22.0
+transformers==5.20.2
+Pillow==11.2.1
+requests==2.32.4

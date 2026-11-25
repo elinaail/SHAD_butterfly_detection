@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.jsonl -text
+contest/** -text
+models/results/** -text
+*.png binary
+*.jpg binary
+*.jpeg binary

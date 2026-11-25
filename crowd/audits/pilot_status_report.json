@@ -1,0 +1,48 @@
+{
+  "checked_utc": "2026-11-18T00:08:09.942321+00:00",
+  "balance": 759.0,
+  "accepted_expense_rub": "91.00",
+  "max_all_pilot_with_exams_rub": 91,
+  "pools": {
+    "6866117": {
+      "status": "CLOSED",
+      "assignments": {
+        "ACCEPTED": 10,
+        "EXPIRED": 3
+      }
+    },
+    "6866119": {
+      "status": "CLOSED",
+      "assignments": {
+        "ACCEPTED": 10,
+        "EXPIRED": 4
+      }
+    },
+    "6866118": {
+      "status": "CLOSED",
+      "assignments": {
+        "ACCEPTED": 4
+      }
+    },
+    "6866120": {
+      "status": "CLOSED",
+      "assignments": {
+        "ACCEPTED": 10
+      }
+    }
+  },
+  "bbox_candidates": 20,
+  "held": [],
+  "review_decisions": {
+    "manual_review": 4,
+    "accepted_by_review": 16
+  },
+  "technical_issues": [],
+  "control_answers": 10,
+  "control_errors": 0,
+  "workers_requiring_quality_review": [],
+  "full_main_launch_authorized": false,
+  "bbox_visual_review": "bbox_visual_review.json",
+  "content_quality_final": false,
+  "next_step": "Разобрать все fix/разногласия и визуальные замечания; не запускать main400 без разрешения."
+}

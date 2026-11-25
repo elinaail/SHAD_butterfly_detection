@@ -1,0 +1,2531 @@
+[
+  {
+    "photo_id": "122135507",
+    "author": "captain_review",
+    "evidence": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "raw_candidate_hash": "cec82a48ea4f1303ce2a281a646d6a9dd68def91f8244e4885056448789f3e15"
+  },
+  {
+    "photo_id": "12537299",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "raw_candidate_hash": "d97c5c69b4d290e54b50968b45cf8bf1a295cec49df36d9d70e2407dfde1d6fb"
+  },
+  {
+    "photo_id": "14825634",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "raw_candidate_hash": "2fc8ba4becf5970005567e09a3a07d8a3ac7e284d6294dc12b7c7fe049344536"
+  },
+  {
+    "photo_id": "178154218",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "raw_candidate_hash": "69826b31134880e90dd31636317e22bd2ffdc88d48998898fd27457068026377"
+  },
+  {
+    "photo_id": "181204940",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8aad5d23603d676eac4",
+    "raw_candidate_hash": "17633e91f4f156146fa7086d3f80dd230468f076139cbc92d8604795c30abe9b"
+  },
+  {
+    "photo_id": "184619838",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8aad5d23603d676eac4",
+    "raw_candidate_hash": "aec6226888fd3f53e89c398bb46ace4ce864e816dd7e55c3b83fdc270294aa7f"
+  },
+  {
+    "photo_id": "21908014",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "raw_candidate_hash": "fafb9b436b2fa1a5f5371e4a4fcf80cdb49f09a62bf8525a85938653a52b53de"
+  },
+  {
+    "photo_id": "232985845",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "raw_candidate_hash": "bd558b0190676cfe4cf7416ce6efe0f59173fffca3f588b0383854039de63241"
+  },
+  {
+    "photo_id": "243853926",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "raw_candidate_hash": "b7a9cd363d048d148ea5563afe0fdb1646d82b79e2456544161eb42eac99d9c5"
+  },
+  {
+    "photo_id": "257584408",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "raw_candidate_hash": "4ef90d01c76c63b17c0869a71eb3cb102c774084f1b3af6661fd1f1ba7caa90b"
+  },
+  {
+    "photo_id": "311355458",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8aad5d23603d676eac4",
+    "raw_candidate_hash": "3190619e2d0f00b7191319133d5c34b8de01fe48de65514a41ea59e93d44111c"
+  },
+  {
+    "photo_id": "314515123",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "raw_candidate_hash": "b3dc34ef40155741c778d39ff443cf1f20fdf6d5ee67d6411b02ccd68a2db818"
+  },
+  {
+    "photo_id": "440553240",
+    "author": "captain_review",
+    "evidence": "000068c4c6--6afce8aad5d23603d676eac4",
+    "raw_candidate_hash": "15add54b15bcb0c7778fc3250308400c8d7b3888f2f43067068185730f0ba5fc"
+  },
+  {
+    "photo_id": "45944239",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "raw_candidate_hash": "77832319e2cff345b4775e522f6c6860ce2a087b55aa1e87cc51bc5b456e66e2"
+  },
+  {
+    "photo_id": "532187628",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce944ed421b4afbfaca0d",
+    "raw_candidate_hash": "9763a487b32a85ebeea7a3260ecaed9c25ceabccbace76d59f77129dcc55e37a"
+  },
+  {
+    "photo_id": "593147205",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "raw_candidate_hash": "2a30cce2be7b8bd486d7e1b6ec6ca426c0a27414e03a32e24d069afa7cd0d827"
+  },
+  {
+    "photo_id": "60606121",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce94f3537ac5dbb40be48",
+    "raw_candidate_hash": "a6998e11d1b7b9e82a2e7a6ab8bde3d1a2c00d8fb508d30b700f4f0a308bc52d"
+  },
+  {
+    "photo_id": "79275893",
+    "author": "captain_review",
+    "evidence": "000068c4c6--6afce8aad5d23603d676eac4",
+    "raw_candidate_hash": "4af23fba2752f2ca487dc58f846b958fc5b519e4458fe9600141ac0fb2cb8e32"
+  },
+  {
+    "photo_id": "85567419",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "raw_candidate_hash": "0667adc600af5755ac66592e16d6658f1a8a0f4b14fbee190106a8479b8e6249"
+  },
+  {
+    "photo_id": "95401989",
+    "author": "crowd",
+    "evidence": "000068c4c6--6afce8fb3537ac5dbb40b4d6",
+    "raw_candidate_hash": "2269e7ba1ef84896581a2076a62876d186135f68a27f005c64517a0aec00f055"
+  },
+  {
+    "photo_id": "100129291",
+    "author": "captain_review",
+    "reason": "На отдельном увеличении обе передние лапки и длинные задние лапки находятся внутри исходной рамки. Первоначальный флаг не подтвердился.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "0529510455d52d2c86d961aee3127db95c4755f71b587567edcb29c3ec353143"
+  },
+  {
+    "photo_id": "100273319",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf798409e22184efc7bbb",
+    "raw_candidate_hash": "5bba64e27c5050acc755d0e8187fc46ca83cc305e0958db915f2a9e0ac40c4cb"
+  },
+  {
+    "photo_id": "103939671",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaecfe68256bfdc40734",
+    "raw_candidate_hash": "1fc3f7880808eeb3eaec5613d5f7743b27bd004471c81046d425d999e5c9acd5"
+  },
+  {
+    "photo_id": "105339991",
+    "author": "captain_review",
+    "reason": "Верхние усики уже внутри рамки, но под левым задним крылом видна выступающая из-под него изогнутая лапка. Нижняя граница расширена до неё.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "c63113da7082394d66386a3b9cd8ea579ee1b528a4b9851e6a2145312197daa0"
+  },
+  {
+    "photo_id": "107121595",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfba33537ac5dbb426cf2",
+    "raw_candidate_hash": "80f46c724a2f57772c36ce1d6b71ddca6abe7bf953ac09b541bcd22bed83a0fd"
+  },
+  {
+    "photo_id": "107124256",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfdd21fe8560b8a99f47f",
+    "raw_candidate_hash": "b79b5840a93367afe9681e60b6a7d00547f33d21215c0eb54e5e077b7a77583e"
+  },
+  {
+    "photo_id": "107601789",
+    "author": "captain_review",
+    "reason": "Нижняя граница обрезала кончик брюшка. Рамка расширена до видимого кончика.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "2a1f6190f7615d47b8807257806a41d829e7f5de8b651c10c99547dd84950297"
+  },
+  {
+    "photo_id": "108754605",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf56d3537ac5dbb420345",
+    "raw_candidate_hash": "4c66bc2445fdf4193d08c2e9c880e20b3d6038533edb8f8d03f6b9feca673127"
+  },
+  {
+    "photo_id": "110160792",
+    "author": "captain_review",
+    "reason": "Длинные светлые линии справа и слева преимущественно стебли. Различимые части бабочки, включая усики, не выходят за рамку; расширять её на траву не нужно.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "dced6a5b2cc28464458e11b6001ed2ff138f3de79ed75657c7a18d2be044e455"
+  },
+  {
+    "photo_id": "111309724",
+    "author": "captain_review",
+    "reason": "Чёрный участок ниже рамки является тенью крыла на грунте. Край самого крыла и видимые конечности внутри рамки.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "004a39d132af78028d78630da255c14abbc2e93dac5a4eee03524adbd1ae95fb"
+  },
+  {
+    "photo_id": "112665636",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf58cb0dc860f415745e2",
+    "raw_candidate_hash": "ce7b21d58b6d208dc7ed21efda105e66bd6b357df9bbc547872cd6020811a4c9"
+  },
+  {
+    "photo_id": "11273123",
+    "author": "crowd",
+    "evidence": "000068d072--6afcff70b0dc860f4157ec29",
+    "raw_candidate_hash": "204f8b54f60c4dc6a46f058ad3246160d7cdfc753436f3785574aef774e75687"
+  },
+  {
+    "photo_id": "116200677",
+    "author": "captain_review",
+    "reason": "Узкие жилкованные крылья, длинные нитевидные усики и выступающие ротовые придатки соответствуют ручейнику. Пустой ответ сохранён.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "693755068785cc8fec0f9f12e6210f0ca335aa6ef622631f844b04327eb26650"
+  },
+  {
+    "photo_id": "116540226",
+    "author": "Meow",
+    "reviewer": "captain_review",
+    "reason": "Manually reviewed the original and crops. Two overlapping adults confirmed; one box per individual, rear wings separated from the wood. Corrected boxes taken from review.jsonl.",
+    "evidence": "replacements_2026_11_18/meow_review/adjudications.json",
+    "raw_candidate_hash": "5ced033a15280870a6bdb911a6e1f6e5e134dff974bfad1bc190211aeb5f2947"
+  },
+  {
+    "photo_id": "11863507",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf75c1fe8560b8a998548",
+    "raw_candidate_hash": "62fcd8f0821a2f6aab9177f76206495aedc26fd7dec568a97cea6312f7c9da89"
+  },
+  {
+    "photo_id": "118894236",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf90cfe68256bfdc3e63c",
+    "raw_candidate_hash": "e43e7394e8a6cae0e3393266cd20851b584b2845acdb9cf602c7af6994fe710f"
+  },
+  {
+    "photo_id": "120009761",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6e8ed421b4afbfbdc05",
+    "raw_candidate_hash": "31d6b4d059d693a94a7d1af0cad6b46a64e07f5955f421ed29fbae33450179a9"
+  },
+  {
+    "photo_id": "121131438",
+    "author": "captain_review",
+    "reason": "Четыре бабочки уже выделены отдельно. Предполагаемая пятая на заднем плане при увеличении оказалась сухим свёрнутым листом. Прежний флаг о пропуске отменён; не добавляем ложную рамку.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d7f724822884deddb1133de7054f40362d07fcc456b1850d12406d3f7220e1db"
+  },
+  {
+    "photo_id": "121199539",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый мотылёк: видны перекрывающиеся чешуйчатые крылья и опушённая грудь. Рамка включает лапки и усики, но не тени.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "deaab8f72d07aa0924f857375985ca0565429b6f6ea8657220e66119f7ee367c"
+  },
+  {
+    "photo_id": "12144407",
+    "author": "captain_review",
+    "reason": "Пропущен прозрачнокрылый взрослый мотылёк; левое крыло обрезано краем фото, скрытая часть не достраивается.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "56a3758890a4025a728bbc869cfc8aa20d17bb7466cb56ab887523b6b69b406f"
+  },
+  {
+    "photo_id": "12297798",
+    "author": "crowd",
+    "evidence": "000068d072--6afd005afe68256bfdc45df6",
+    "raw_candidate_hash": "31bf44dfeee974650afb3c8e1d3c6e3577e1b9bcaff18ad6c7593822e42d0780"
+  },
+  {
+    "photo_id": "123418501",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf798409e22184efc7bbb",
+    "raw_candidate_hash": "2ba335daf5db0aa1fdcffe87650081dcb6951e4deb69f42eeb86e49ec23c7b4f"
+  },
+  {
+    "photo_id": "123904692",
+    "author": "captain_review",
+    "reason": "Две бабочки уже выделены. У правой верхний и нижний кончики крыльев слегка выступают за рамку; она расширена. Рамка левой особи сохранена.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "e0edad951e260bf6c2d65b6afd28c5781987649623ded77624b1dc10d8b42232"
+  },
+  {
+    "photo_id": "12540177",
+    "author": "crowd",
+    "evidence": "000068d072--6afd00d255eb9f701dc31a10",
+    "raw_candidate_hash": "ed44386862fbfb174e7de5c47f6d19e0f0a0d1d319c486a0c38074ea395a769c"
+  },
+  {
+    "photo_id": "127558214",
+    "author": "captain_review",
+    "reason": "Три особи размечены раздельно. У правой бабочки усик выступает вправо за рамку; остальные рамки сохранены, скрытые части задней особи не достраиваются.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "7ca6aa2cd759ae70da06e54dd4f81323302a302c992ab3e874efe8d3ba708c6a"
+  },
+  {
+    "photo_id": "127649238",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf66aed421b4afbfbd08d",
+    "raw_candidate_hash": "425cb9f6351f2943748621b62b4a90e571cd38574a8dc1f0e138f84f46ee3b4f"
+  },
+  {
+    "photo_id": "127804484",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый мотылёк с прозрачными крыльями. Усики уходят за верхнюю границу фото; размечена видимая часть.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "adc10cc6461a24a13241388ba6af0e842ceed87d4f6c11232d620b462dcf2df5"
+  },
+  {
+    "photo_id": "129369364",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf52b6fd8607c6c6381c9",
+    "raw_candidate_hash": "88ec28b9fc88215e92c7b0dda57e074adb11ff43aa9fb9698ca5c305a85ca61c"
+  },
+  {
+    "photo_id": "130739411",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01bdee5596557a6a41ad",
+    "raw_candidate_hash": "c2f40fcee4b695d8978c64dbfcd4826b89ccb6841fcc36ba5b3e3b87d9dfc612"
+  },
+  {
+    "photo_id": "131089005",
+    "author": "crowd",
+    "evidence": "000068d072--6afd15df3537ac5dbb445b10",
+    "raw_candidate_hash": "19153ac9039e0fbbefc0934678a6001e1f3f99260276640c894ebe8f61fc7520"
+  },
+  {
+    "photo_id": "132284283",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfec2ebb1521ae801f827",
+    "raw_candidate_hash": "8e7079f5e735388128456df1ed8bd32fc3f94fecc8a67fad561fc8759b66fa6f"
+  },
+  {
+    "photo_id": "13230466",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf64005a3672b2028eddd",
+    "raw_candidate_hash": "4b7a19238be9ad7bf98f147188a79f133e4b5162339d35dac877eded92276b4e"
+  },
+  {
+    "photo_id": "132364135",
+    "author": "captain_review",
+    "reason": "Справа за рамкой видны усики и лапки. Граница расширена до видимых частей; цветок отдельно не включается.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "d91c06ea0c0b6f223414914b027f743386befc7b2ca674afc00843c5bf8eb70a"
+  },
+  {
+    "photo_id": "132784192",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf66aed421b4afbfbd08d",
+    "raw_candidate_hash": "22cba31c4546425df9d66232e3cc987768b8b5f45538ea0f37d5cdcf4250edd1"
+  },
+  {
+    "photo_id": "136031817",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6b5b0dc860f4157575b",
+    "raw_candidate_hash": "f379647de5c2e5f62f89a59249f798336834a4855f3aedb29a4ea76d1e264486"
+  },
+  {
+    "photo_id": "136259314",
+    "author": "crowd",
+    "evidence": "000068d072--6afcffb655eb9f701dc3059b",
+    "raw_candidate_hash": "90bf0e507f3951ec53796fdcb79c31a6001ef34e58b2e3125abd8c6ebd671034"
+  },
+  {
+    "photo_id": "136273568",
+    "author": "Meow",
+    "reviewer": "captain_review",
+    "reason": "Manually reviewed the original and all six overlapping crops. Six separate adults confirmed; one box per individual, shared/overlapping wings assigned to their own body, no wing counted as a separate butterfly.",
+    "evidence": "replacements_2026_11_18/meow_review/adjudications.json",
+    "raw_candidate_hash": "066e59e692f393b8a6e529886d2ef51d2a50da5070f512428126d084d66885dd"
+  },
+  {
+    "photo_id": "137831879",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14e3b0dc860f4159b305",
+    "raw_candidate_hash": "dfe2f6261e7d21ff5fcdc3b3fd59570cd49311c3d7bca45e4789598b5819d129"
+  },
+  {
+    "photo_id": "137833811",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfec2ebb1521ae801f827",
+    "raw_candidate_hash": "da74df10817c4704b0d8ba1adacbc2c2d4d138e584d1f1e6f4c588aaa7bd4e7d"
+  },
+  {
+    "photo_id": "138562164",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01eeed421b4afbfc7aa0",
+    "raw_candidate_hash": "27addd32387fcbee5bc3e8e2bd5e24a1eb396c93b6330b0b8cfccfb46a639fd0"
+  },
+  {
+    "photo_id": "13940133",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfdd21fe8560b8a99f47f",
+    "raw_candidate_hash": "ab31e2f0bb819711c0e012c712dbb3c4e94abcd20995ba41a7c35e4f28adf8e9"
+  },
+  {
+    "photo_id": "142504083",
+    "author": "captain_review",
+    "reason": "Левый усик выходит за прежнюю границу. Расширена только рамка объекта, без включения тени и всего цветка.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "4549a473d476af6480e0b811957c5f4d51c45d8a1e4139df45fce9dab885fec7"
+  },
+  {
+    "photo_id": "145615013",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf90cfe68256bfdc3e63c",
+    "raw_candidate_hash": "2d5182ee1bc2552aa26d14a506783d90ea880402a25de0c684ad4e8c09c25521"
+  },
+  {
+    "photo_id": "146032684",
+    "author": "captain_review",
+    "reason": "Концы двух тонких усиков немного выходят за левую границу. Добавлены видимые кончики; рамка не расширяется на фоновые лепестки.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "cb8b482c3d1a0fd711a88ae51407d3a6420a413dd5a608b0c6ad4905f2c49bf6"
+  },
+  {
+    "photo_id": "146688328",
+    "author": "Meow",
+    "reviewer": "captain_review",
+    "reason": "Manually reviewed the original and all six overlapping crops. Seven adults confirmed; the small preliminary boxes were reassigned to the correct individuals so wings are not counted as separate butterflies.",
+    "evidence": "replacements_2026_11_18/meow_review/adjudications.json",
+    "raw_candidate_hash": "26b4db1f3fba8f81952ed0d98f2bfe34a9fda2d6a61ee6c5185a5ed8cc82e60c"
+  },
+  {
+    "photo_id": "147196977",
+    "author": "captain_review",
+    "reason": "Два взрослых мотылька соединены концами брюшек; видны две головы и две пары усиков. Общая рамка заменена двумя по видимым частям.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "39c38b6535e344d7080caf25dfb0bd0345603c5dee4cef605702ea7cc8e79850"
+  },
+  {
+    "photo_id": "14825615",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc1bebb1521ae801ced3",
+    "raw_candidate_hash": "bb9a0ef27f085cf3a7569b8b59e6fdee684b948cf9c3ea0416b655279525a8fd"
+  },
+  {
+    "photo_id": "148921445",
+    "author": "captain_review",
+    "reason": "Виден ручейник с длинными кольчатыми усиками и прозрачными жилкованными крыльями. Пустой ответ соответствует инструкции.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "1e82760323e38b6e2b411c5fefdbad506519f55b732e78d8f2ba7d544389ed3f"
+  },
+  {
+    "photo_id": "149790850",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7cfebb1521ae801781b",
+    "raw_candidate_hash": "4a315d031804cc690d955f437c86801fbf8b7c0f9cb3328947d1d378983478e1"
+  },
+  {
+    "photo_id": "152197051",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6b5b0dc860f4157575b",
+    "raw_candidate_hash": "4fd330f5c731dd8ad6d2d3dc630395daf9058208614c5e112988f9d81baec3d4"
+  },
+  {
+    "photo_id": "154452586",
+    "author": "captain_review",
+    "reason": "Одна бабочка, исходная рамка включает кончики усиков, лапки и хвостики крыльев; отдельный объект не обнаружен.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "a05277bf54d82dcc6a5f875ba7eca94dcf0dc3e7cafedc4627234954e565bc21"
+  },
+  {
+    "photo_id": "154589781",
+    "author": "captain_review",
+    "reason": "Изображена куколка с просвечивающими зачатками крыльев. Взрослой бабочки вне оболочки нет; пустой ответ верен.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "d23e191ff983891fa40ba42f909b3ee0c617443b5e1ac2d8edebb267044fce67"
+  },
+  {
+    "photo_id": "155762126",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb6afe68256bfdc4150a",
+    "raw_candidate_hash": "1c85efb7411fa862b43e9511990b0ea2f5b41eb803e42ab9286c3316a7b612ef"
+  },
+  {
+    "photo_id": "155884656",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8031fe8560b8a999002",
+    "raw_candidate_hash": "2ac84af44b8a03239e8c7d4f6b694daa4026601664fccfd6e5cb5bfadcddab8d"
+  },
+  {
+    "photo_id": "157191791",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa2ced421b4afbfc0c6c",
+    "raw_candidate_hash": "31d6da5389ccaf0174803a9e4002580883d6354c9eaa750ad5f716cb0d1b9ba4"
+  },
+  {
+    "photo_id": "157413282",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14e3b0dc860f4159b305",
+    "raw_candidate_hash": "d8247e7ea1c46796342c1d58cd0ef6bb15f7b61d61b6c9f33b9fc8fbd077f90c"
+  },
+  {
+    "photo_id": "159125324",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4a11fe8560b8a9953e0",
+    "raw_candidate_hash": "c661611fe92199b30f944b7e0f2f5fd42cb982cb8ad5fa48fcce30d05da6ba16"
+  },
+  {
+    "photo_id": "162747182",
+    "author": "captain_review",
+    "reason": "Верхняя граница немного расширена до конца правого усика. Все крылья и хвостики уже были включены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "08c8fa8a96fb572e1df57484c08c6b61cc1f210f858622f028436ee0c73bc8c1"
+  },
+  {
+    "photo_id": "16391324",
+    "author": "captain_review",
+    "reason": "После независимой проверки исправлена принадлежность к целевому классу: ручейники.",
+    "evidence": "corrections_v3.json",
+    "raw_candidate_hash": "2c7a53a9e047bd60da51dbc448a66101640adc633c88f911895031c35137bed9"
+  },
+  {
+    "photo_id": "166673932",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf95e55eb9f701dc28c02",
+    "raw_candidate_hash": "0de5f6fa69a76b7a11f2f2e24a17db047d0b285f850294d3fcf73e178e25585a"
+  },
+  {
+    "photo_id": "169360078",
+    "author": "captain_review",
+    "reason": "Пустой ответ заменён 15 отдельными рамками. При увеличении средней левой группы видны две разные головы и два комплекта крыльев; также учтены частично видимые особи у правого и нижнего левого края. Скрытые листьями части не достраиваются.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d87c9a8b95e9733599c7c01c400038210f4b355db65b547de667f322c3601088"
+  },
+  {
+    "photo_id": "170626058",
+    "author": "crowd",
+    "evidence": "000068d072--6afd00d255eb9f701dc31a10",
+    "raw_candidate_hash": "34546bcd30f90cc1c5d3e3cea63fcdf62a364bcb041155eead25d09dd4674b58"
+  },
+  {
+    "photo_id": "171412946",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd20b0dc860f4157caea",
+    "raw_candidate_hash": "624bc50fd9dbb6d7049c4be50e245e27deefe696629f8c68b7b7214972fa7363"
+  },
+  {
+    "photo_id": "173059172",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe0bee5596557a6a052f",
+    "raw_candidate_hash": "77bae133fd309719afc9a08c6e09896132b402900ce3bac687f1a73f6baacb9a"
+  },
+  {
+    "photo_id": "173485660",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0100fe68256bfdc46815",
+    "raw_candidate_hash": "0690121e04c875bf2df66e311815e8f17724afa95d2ca0cdf2bcb8684c4e740f"
+  },
+  {
+    "photo_id": "173676095",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf831d5d23603d6788325",
+    "raw_candidate_hash": "b0eb98e70741ee216b0398feed42a1909ae2c42f22c03a4f78b480765624eb89"
+  },
+  {
+    "photo_id": "173910746",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfab26fd8607c6c63e3ff",
+    "raw_candidate_hash": "8aa1498833a94354fd90fc7e77afc308368f61c1bb23936a7a446fe91fa85f3b"
+  },
+  {
+    "photo_id": "174252628",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0016b0dc860f4157f5c8",
+    "raw_candidate_hash": "0e14ea6be1adb565c57d7f0029bebf7cece785740a219379d52d58777cda9912"
+  },
+  {
+    "photo_id": "177899755",
+    "author": "captain_review",
+    "reason": "Нижние края задних крыльев слегка выступают за прежнюю рамку; добавлена видимая бахрома, тень не размечается.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "09ff8d1e4a47e2c17d68423545d20bfc331c72c8b72719e59a800f05d42742be"
+  },
+  {
+    "photo_id": "179069693",
+    "author": "captain_review",
+    "reason": "Длинный правый усик продолжается немного выше исходной рамки. Добавлен видимый кончик без достраивания скрытых частей.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "e0397c737e8cfd74c28276bdcd30a4ce5422d87de7fce4695e2417e90ba464e6"
+  },
+  {
+    "photo_id": "179969763",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14551fe8560b8a9baa8c",
+    "raw_candidate_hash": "b7c2e11f56672ed0061b1dbc3c1308876fd2d3ca5bd48c2a045ea0902f73b279"
+  },
+  {
+    "photo_id": "182513736",
+    "author": "captain_review",
+    "reason": "Обе особи выделены отдельно, усики и лапки помещаются в рамках с точностью до края линии. Существенного дефекта после увеличения нет.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "cd9ae9a39b390a3448d85a1e755b3b465c1a7b511d1f3d27b712fa8f44df1d3a"
+  },
+  {
+    "photo_id": "182514040",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe183537ac5dbb428e41",
+    "raw_candidate_hash": "1632aaaa360379f19b29659ca7a6d24b0d9f7a02ce965e305b34ba8d91576fd6"
+  },
+  {
+    "photo_id": "1830082",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfba33537ac5dbb426cf2",
+    "raw_candidate_hash": "980998fc7a60830d1a1a323ccfa37bb336c7db2c88c7b9710df7cc5f602bd47e"
+  },
+  {
+    "photo_id": "18465437",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf64005a3672b2028eddd",
+    "raw_candidate_hash": "d20b01fd4b8b83ba6c2367ce04552c64883d62cda4e85b2617245f539752533e"
+  },
+  {
+    "photo_id": "1851913",
+    "author": "captain_review",
+    "reason": "Верхняя граница обрезала длинную переднюю лапку; лапка продолжается до верхнего края фото.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "27acd2b5458c9ef7b6ce8b733deac61dd8e6ccda66cd005dd3ca35fbc662e69e"
+  },
+  {
+    "photo_id": "185856788",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb1eebb1521ae801b9f3",
+    "raw_candidate_hash": "5223c7d711c2b1658587aa65ccc5c5bb769f438105ce2e86729eeeb9b9e8c865"
+  },
+  {
+    "photo_id": "186785420",
+    "author": "captain_review",
+    "reason": "Увеличение отделяет серое тело бабочки от пушистого сухого соцветия справа. Выступающий за рамку участок связан со стеблем, а не с телом; рамка сохранена.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "a1ab191dbda5594ee054a68eb09299e66615b636479a336291be1eaeb8d1b2ad"
+  },
+  {
+    "photo_id": "190648641",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7cfebb1521ae801781b",
+    "raw_candidate_hash": "6a731a56293d7e8a0c8a25eafd4b3726fd06988a8af21680a2c201970e49b1d9"
+  },
+  {
+    "photo_id": "195585331",
+    "author": "captain_review",
+    "reason": "После увеличения обнаружены четыре особи, а не шесть: маленькая верхняя правая рамка и соседняя центральная охватывали крылья одной бабочки; две нижние правые рамки также делили одну особь. Эти пары объединены, остальные две особи сохранены с учётом видимых частей.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "ec3327a940c571cb353ba881af5bfdf788580df26228f735839b31436a79abdc"
+  },
+  {
+    "photo_id": "196016062",
+    "author": "captain_review",
+    "reason": "Усики направлены вниз и выступают за прежнюю нижнюю границу. Первоначальное предположение о верхней границе уточнено по фото.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "e3c0d3a5ede19397c7d3929e1dec462adcd9693d4bed66bc17d6294e383c6fbc"
+  },
+  {
+    "photo_id": "19610738",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd99ed421b4afbfc401e",
+    "raw_candidate_hash": "e62ab14ded5bda601d3bc5bfd343a9fd17cc6bf181b73b641cb072aeccd4ebf4"
+  },
+  {
+    "photo_id": "19652915",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4e7b0dc860f41572061",
+    "raw_candidate_hash": "aabc14fee919f5cf6d289ece7060c52ef4ddb63a4588da090820a019b266cbeb"
+  },
+  {
+    "photo_id": "198537155",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaec409e22184efcb9a0",
+    "raw_candidate_hash": "0c63c913c8361d5cd9a1b9308b25ed2b433052e9a467be2460f0be1ffd526db2"
+  },
+  {
+    "photo_id": "200797972",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02d6d5d23603d67930ae",
+    "raw_candidate_hash": "85fefc616175507e48212f68cc9c3879168a92f0e55be86b511d42293866205f"
+  },
+  {
+    "photo_id": "201693483",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8c055eb9f701dc281eb",
+    "raw_candidate_hash": "40afcb2e61c95c706a7d307d2d1f9abc627c26549a466ccd20b2e756758e976f"
+  },
+  {
+    "photo_id": "202296356",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02633537ac5dbb42d002",
+    "raw_candidate_hash": "fdee159fecc8ffad0902730a964963d97988b0c15c282287866a0002641e182b"
+  },
+  {
+    "photo_id": "203173678",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9356fd8607c6c63ca99",
+    "raw_candidate_hash": "b8f3a07817c3a56a3ed432cf910ede1b5066a1c6a557d50542dfb07558ab8a84"
+  },
+  {
+    "photo_id": "204347021",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf798409e22184efc7bbb",
+    "raw_candidate_hash": "417ae2fecd5818ec4f26727f7df9b693b533c102c93265548a9121642bc6a121"
+  },
+  {
+    "photo_id": "205561195",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01463537ac5dbb42bcd1",
+    "raw_candidate_hash": "ac040363edcea892bc680111b4ef9d5b78da4c8c1050fe124cd24da8b20f92da"
+  },
+  {
+    "photo_id": "206216525",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfec2ebb1521ae801f827",
+    "raw_candidate_hash": "61fe0425fa47f140fee9b49f248d66b8771a78265c2419e17f87ebe13d69683a"
+  },
+  {
+    "photo_id": "212190059",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4a11fe8560b8a9953e0",
+    "raw_candidate_hash": "c836ea7b2bfb0fc729178a58b5b26dfaa9efca81465c26aeecdb9dde6db980cf"
+  },
+  {
+    "photo_id": "213096233",
+    "author": "captain_review",
+    "reason": "На фото стрекоза с крупными глазами, длинным тонким брюшком и жилкованными крыльями, а не бабочка. Ложная рамка удалена.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "2993b73a1031e3d602544a11c0471586fcd43050c61000ad0efae447b9fa4937"
+  },
+  {
+    "photo_id": "213923343",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfca21fe8560b8a99e177",
+    "raw_candidate_hash": "09dada06284173254b94c46b0d57cff9a095567ffa59813baed57fe6affd1c07"
+  },
+  {
+    "photo_id": "215769389",
+    "author": "captain_review",
+    "reason": "Тонкая нижняя лапка продолжается ниже исходной рамки. Нижняя граница расширена до кончика.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "64c31bd6cf4c3cdf7f96a4f8745d43ef078b10a7353f625c73848c0b6b061425"
+  },
+  {
+    "photo_id": "216866429",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8031fe8560b8a999002",
+    "raw_candidate_hash": "1e4eb76a607ee3a5efed85ad6411f2a901f5157d827542f1a1aba973f00d1ee9"
+  },
+  {
+    "photo_id": "217235849",
+    "author": "captain_review",
+    "reason": "Оба усика заканчиваются внутри рамки. Чёрный фрагмент левее и ниже принадлежит растению, расширение на него не нужно.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "68c80fb9568f1f2adadbee9378ac122f18a46b8108542db0e89abb476cb780ee"
+  },
+  {
+    "photo_id": "217741091",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6e8ed421b4afbfbdc05",
+    "raw_candidate_hash": "c00ca88868f7578d36877a1b1c073848268049a14c6d2f7a18f4357046283423"
+  },
+  {
+    "photo_id": "217748574",
+    "author": "crowd",
+    "evidence": "000068d072--6afd1564409e22184efecd80",
+    "raw_candidate_hash": "bd020c4a1d4caed39db01daede65534b2998d20c1fff3ada6cd00cbeccf8ac0a"
+  },
+  {
+    "photo_id": "218981628",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01bdee5596557a6a41ad",
+    "raw_candidate_hash": "b3f688470513b75d16fe1b38702b0284d889fa205bc37649a61a86b0f46f9903"
+  },
+  {
+    "photo_id": "220045583",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaecfe68256bfdc40734",
+    "raw_candidate_hash": "5232d0f4087c09bc5b610c62beebb179c4578686d487e4e57bc442a87e0cf821"
+  },
+  {
+    "photo_id": "221866334",
+    "author": "captain_review",
+    "reason": "Левый усик выступает за рамку; края крыльев уже внутри. Добавлен видимый усик.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "130c61f0867ca8f0afa19f1c41dcb8a43a9436546c873b9acce97aa414e91810"
+  },
+  {
+    "photo_id": "221897833",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5ef55eb9f701dc24c8a",
+    "raw_candidate_hash": "c47d60f9b030beb5dcffc77103acb847b3f648adf6185cf63f8591b83b19edda"
+  },
+  {
+    "photo_id": "222469592",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd99ed421b4afbfc401e",
+    "raw_candidate_hash": "4cdb34dff94e20aa6619e5897ccb1cd98f9ba886e85b1ecdf81944aae409a1ea"
+  },
+  {
+    "photo_id": "222673993",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfca21fe8560b8a99e177",
+    "raw_candidate_hash": "3d93d4dd2992337c7cd706624325288847187b1014f2a2b818716b73a5d2470e"
+  },
+  {
+    "photo_id": "222768842",
+    "author": "captain_review",
+    "reason": "Правые лапки выходят за исходную границу на лепестки цветка. Граница расширена до лапок, не до всего цветка.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "7c1de0a6143914d46c71eae2419b39d2ddb09d59c7336cb7484575dca929f843"
+  },
+  {
+    "photo_id": "223920267",
+    "author": "captain_review",
+    "reason": "Виден ручейник с узкими жилкованными крыльями и длинными нитевидными усиками. Взрослой бабочки не обнаружено; пустой ответ сохранён.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "ede392750751e56d466313b6985b6adfc45620d1be1585a027eb03af0d9d9a46"
+  },
+  {
+    "photo_id": "224385644",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf90cfe68256bfdc3e63c",
+    "raw_candidate_hash": "417abda9af2d00def31c0758a8f0791fe4d088f12c940ff367d9a939561bba4a"
+  },
+  {
+    "photo_id": "224757298",
+    "author": "crowd",
+    "evidence": "000068d072--6afcffb655eb9f701dc3059b",
+    "raw_candidate_hash": "facc2f1d5b0669fa3a9b3c9dbfb8c534bd503a1d231935fe562875c30ec5dc34"
+  },
+  {
+    "photo_id": "227550419",
+    "author": "captain_review",
+    "reason": "Две отдельные особи. Верхние придатки левой обрезаны краем фото; её верхняя граница доведена до края. Вторая рамка сохранена.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "f9cf44fbdc3966c385549864fd3ba813dbc5fa4cc95ac7ef52753c07a2f5941a"
+  },
+  {
+    "photo_id": "227967444",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8031fe8560b8a999002",
+    "raw_candidate_hash": "19345bc65c088040d8a0349868973a72e9f7cf145df463d5a1cdb96074fefb6d"
+  },
+  {
+    "photo_id": "227967551",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa7dfe68256bfdc3ff28",
+    "raw_candidate_hash": "fa988cc37408dc6e1069bf518a881445e26d83f955cff95cb9d8f3610b763ff2"
+  },
+  {
+    "photo_id": "22817125",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf66aed421b4afbfbd08d",
+    "raw_candidate_hash": "87e3fcedbdf2c1a202de3932566462c77617beb18325f14d8d2229a4f795dc27"
+  },
+  {
+    "photo_id": "228216090",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01463537ac5dbb42bcd1",
+    "raw_candidate_hash": "8fa2b68a533575677fc52df87cdd95820ce04d97e1b90f383093ebc8f5f55590"
+  },
+  {
+    "photo_id": "22838418",
+    "author": "crowd",
+    "evidence": "000068d072--6afd003505a3672b2029a889",
+    "raw_candidate_hash": "59ecf9014f83d838ef8542354f84a184b0ac67baaeff29ff71cf473ec66243ef"
+  },
+  {
+    "photo_id": "22838470",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf66aed421b4afbfbd08d",
+    "raw_candidate_hash": "c9c146cc8a7a4bd665b8064c9d6dfea31c4cedba0948d018cf6765ba5affe1a0"
+  },
+  {
+    "photo_id": "230354750",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe0bee5596557a6a052f",
+    "raw_candidate_hash": "0f65462abc552c6ab3c4005d52f9af5e7d36680a5e44add5cfbb0286a5e3bad6"
+  },
+  {
+    "photo_id": "230628953",
+    "author": "captain_review",
+    "reason": "Концы усиков находятся у верхней границы, но не выступают за неё. Стебли и паутина не включаются в объект.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d8fddaabc65cf8c994be5202d2d4da0e86614fb951d9a29ce5f8ae47f067bee7"
+  },
+  {
+    "photo_id": "231202707",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9356fd8607c6c63ca99",
+    "raw_candidate_hash": "2feef7f57eb75a39188acf3a6739f4dc078a350256e0bf1da6cebff9b7360935"
+  },
+  {
+    "photo_id": "234282430",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01eeed421b4afbfc7aa0",
+    "raw_candidate_hash": "d53296f166d7484d735f89fda797cc4f79e010f5a42136105714d618acc79e31"
+  },
+  {
+    "photo_id": "234459186",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02453537ac5dbb42ce38",
+    "raw_candidate_hash": "6509af6ebee9337d166750044b63ef11c38a1c86ba819bc440570f4be6e139bf"
+  },
+  {
+    "photo_id": "235358656",
+    "author": "captain_review",
+    "reason": "Правый усик заканчивается у самой правой границы; остальные части внутри. Первоначальное подозрение на обрезание не подтвердилось.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "36ac5923427b304df0d9d34ff0f9f90583aa8084ef650115c6bee61c2745040a"
+  },
+  {
+    "photo_id": "235862091",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9e955eb9f701dc2a04c",
+    "raw_candidate_hash": "97b8a3636ffa17cf89e2ddbc46ec604699e34f83dbfb07e204a371e286da96b3"
+  },
+  {
+    "photo_id": "235862365",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14e3b0dc860f4159b305",
+    "raw_candidate_hash": "7b6541d0d2d126b953dc47a3bc773f1efbd5e2ef678f7e599dab895f4893493c"
+  },
+  {
+    "photo_id": "237859236",
+    "author": "captain_review",
+    "reason": "Справа пропущена вторая взрослая особь — самка с редуцированными крыльями. Добавлена отдельная рамка по видимому телу, ногам и усикам; рамка левого самца сохранена.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "388f0b8373d04cdd27ad9df63bd1c8c7f9da95cad3e0ecf2df7a78b107a25740"
+  },
+  {
+    "photo_id": "237954348",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7cfebb1521ae801781b",
+    "raw_candidate_hash": "7344a899828d305aa980a24703bbf6e168f82cf49bcc3201caf34657a05d2892"
+  },
+  {
+    "photo_id": "239831031",
+    "author": "captain_review",
+    "reason": "Передние лапки выходят вверх за исходную рамку и обрезаны краем снимка. Верхняя граница доведена до края фото; тени не размечаются.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "943524e937272265e78903c53a93bf890a6ed92d59334962fbff7f16a3f8a032"
+  },
+  {
+    "photo_id": "239832403",
+    "author": "captain_review",
+    "reason": "Верхний усик заканчивается у рамки, нижние усики и лапки также включены. Продолжение на фоне не является видимой частью объекта.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d6da1b17ea68ee08c792addf21844cff86edd40ba4129a7afa4823974a7b0b30"
+  },
+  {
+    "photo_id": "241536295",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc1bebb1521ae801ced3",
+    "raw_candidate_hash": "ec0b3959aa0b58ddea036e3992a63b0583c5c174d5903b2b111da6a7ce102c56"
+  },
+  {
+    "photo_id": "243865548",
+    "author": "crowd",
+    "evidence": "000068d072--6afcffb655eb9f701dc3059b",
+    "raw_candidate_hash": "bca72964d51acc462a917ced850b228f22037036e77f90ed1b93587cfaacdb52"
+  },
+  {
+    "photo_id": "244441153",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfba33537ac5dbb426cf2",
+    "raw_candidate_hash": "e15d84642d7ba532d6bc00c9bb9bb75aa3923b6927475052b5e44dd1eacce91b"
+  },
+  {
+    "photo_id": "245809417",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfff7ee5596557a6a22e2",
+    "raw_candidate_hash": "dc1e2b1e91962363050adb217bdc4dea573f269292be4ccec4f5a8bcdfdc7068"
+  },
+  {
+    "photo_id": "247039046",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfee0409e22184efcff2d",
+    "raw_candidate_hash": "15010dbbb33d33efe5c9bcc42577aad303a90bd6e68d52bd50d8e42841e18cf0"
+  },
+  {
+    "photo_id": "247255731",
+    "author": "captain_review",
+    "reason": "Жёлтые пятна сами по себе не делают насекомое мотыльком. Виден ручейник с длинными кольчатыми усиками и шиповатыми ногами; исходный отрицательный ответ сохранён.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "e34f09b5c32fe5cc72ff0a5d7960033fc41f364c8b4155ee7f69e412e28500ed"
+  },
+  {
+    "photo_id": "247717803",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf75c1fe8560b8a998548",
+    "raw_candidate_hash": "b2c47921d1105b4ab327519932f336dbf46ff88b0b2dcfa93416d099d415d0e6"
+  },
+  {
+    "photo_id": "248510905",
+    "author": "captain_review",
+    "reason": "Левая лапка достигает границы рамки, но не обрезана; оба длинных усика включены. Тень крыла снизу не размечается.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d677064d50775e202b0d58fa3f71a49659691782e11e6a4d07b948472b4d3f7a"
+  },
+  {
+    "photo_id": "252598512",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd20b0dc860f4157caea",
+    "raw_candidate_hash": "b2a25ad63c0315d7790f32d611b05089095e7da4ba8a4e84614fec2d47ed36b4"
+  },
+  {
+    "photo_id": "252736387",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf56d3537ac5dbb420345",
+    "raw_candidate_hash": "ff5fe0c9e2e2e57c2643c868c90876130c69adf0537697b2ab33bbc8fd4e8f67"
+  },
+  {
+    "photo_id": "252949448",
+    "author": "captain_review",
+    "reason": "На увеличении левый усик заканчивается у левой границы. Существенного пропуска видимых частей не обнаружено.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "6b4fcc31087f4d1c0703704f22cdd5eacf615841e5a396e0f4169c09bb9e34c5"
+  },
+  {
+    "photo_id": "254152334",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14551fe8560b8a9baa8c",
+    "raw_candidate_hash": "63dc1973c17d53fd7abd784bf3065c52d2f99c5151a9af02d89111f957facc0f"
+  },
+  {
+    "photo_id": "255062925",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd586fd8607c6c641a10",
+    "raw_candidate_hash": "fc604b15cf390720d616f29906dbf72201e7a9f2598cb726089d551c0b0773de"
+  },
+  {
+    "photo_id": "255705337",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02d6d5d23603d67930ae",
+    "raw_candidate_hash": "1f85ad2d5cec96b21f66927b74030fd4a34a304ef45aceea6d031d4be44a2597"
+  },
+  {
+    "photo_id": "255983887",
+    "author": "crowd",
+    "evidence": "000068d072--6afd4cd8fe68256bfdcd55fe",
+    "raw_candidate_hash": "835f3b4c4963eef7374ec1f14240aa0a50a0a5046e330dee9a9f70193e0bcb8d"
+  },
+  {
+    "photo_id": "2560535",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14e3b0dc860f4159b305",
+    "raw_candidate_hash": "4747a22dd90942e60cf32114db69490a7f54b37fa7a6fee4d3e3b7a5fafa4874"
+  },
+  {
+    "photo_id": "256647",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf872ebb1521ae8018417",
+    "raw_candidate_hash": "7180e7d93feb1cf04ebd29fdc4d0c3db241a3101bba3d34d7d946a856eff0cc0"
+  },
+  {
+    "photo_id": "2596616",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf909b0dc860f41577f54",
+    "raw_candidate_hash": "501f46dde6894b30dfa12791d0220c9dacd12103f1810f9305babf8c0c1e8228"
+  },
+  {
+    "photo_id": "260638719",
+    "author": "captain_review",
+    "reason": "Исходная рамка обрезает правые выступающие части, включая усик и лапку. Рамка расширена вправо; верхняя лапка заканчивается внутри кадра и не достраивается до края фотографии.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "843e270889a1382227383168155e889ba03b92185f1c196e6deb5e2d7d3dae83"
+  },
+  {
+    "photo_id": "261120694",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf909b0dc860f41577f54",
+    "raw_candidate_hash": "c9ed32b67b7befa484cadac92a78d008ad42171de69eb008d15febd9eb5d16ba"
+  },
+  {
+    "photo_id": "261700042",
+    "author": "captain_review",
+    "reason": "Гребенчатые усики полностью входят в рамку; верхняя бахрома касается границы, но не обрезана.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "febf83678b5877f47cb31697e7370712d9aa3954105a897ea51e16f802c7f122"
+  },
+  {
+    "photo_id": "262824095",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfdd21fe8560b8a99f47f",
+    "raw_candidate_hash": "9897194e4ca64e14a754e123018b512debbfb74eaa07b3487f6c483f13a3a18e"
+  },
+  {
+    "photo_id": "266434967",
+    "author": "captain_review",
+    "reason": "Добавлен нижний кончик усика; верхняя граница уточнена до верхнего усика, тень не включается.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "931e0549888f22a7deb15a7cfc720e1aa4c2845c0f59a591220092afcef036ab"
+  },
+  {
+    "photo_id": "268088502",
+    "author": "captain_review",
+    "reason": "Длинная тонкая задняя лапка видна справа снизу за пределами крыла. Также добавлен верхний тонкий кончик. Рамка расширена по этим частям.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "0115858d7791d2c4f0b87e26bce556d66f4d8e6f522804daffd0fbdb7b2aad5c"
+  },
+  {
+    "photo_id": "268459712",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb6afe68256bfdc4150a",
+    "raw_candidate_hash": "e9a24de347f8b5b6e3ef607ef871e24e670dce910f204d43a628f97c6c99488e"
+  },
+  {
+    "photo_id": "269263543",
+    "author": "captain_review",
+    "reason": "Хвостик крыла уже внутри. При увеличении обнаружена тонкая лапка от нижней части груди влево к цветку, выступающая за левую границу.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "8bb4ead418523ee4d97b4d41e83fd2c9157bab2b2b02f14764ef78980abee964"
+  },
+  {
+    "photo_id": "272153305",
+    "author": "crowd",
+    "evidence": "000068d072--6afd1564409e22184efecd80",
+    "raw_candidate_hash": "181c917c9a69c4f16112ad0caa7ba6143f4cc43dd66811a9037f123ee28de107"
+  },
+  {
+    "photo_id": "273862875",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7cfebb1521ae801781b",
+    "raw_candidate_hash": "b0c77cf2bda9aa951198f97accca8ef26bf7da12b8aa2d4bebd80c2d96de8ee7"
+  },
+  {
+    "photo_id": "276443917",
+    "author": "captain_review",
+    "reason": "На фото ручейник, а не бабочка: узкие сложенные кровлей крылья с жилкованием, длинные нитевидные усики. Удалена ложная рамка.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "bfa3a5c1df19201a3a22bbbd7864eb67d57732e0104f700b2714347b25d40137"
+  },
+  {
+    "photo_id": "282895051",
+    "author": "captain_review",
+    "reason": "На тёмном фоне видна передняя конечность, направленная влево вниз от головы. Добавлена её видимая часть; тень и фон не размечаются.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "58f3bee2b5dad4ff14bb0399d837699b6b2b587d426ee2a8d4715b88839aa79d"
+  },
+  {
+    "photo_id": "285818158",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый прозрачнокрылый мотылёк. Рамка охватывает крылья, усики, видимые лапки и кончик брюшка; это не пчела.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "a5687a2f1291a25ed183da7b17b87c7f63936274eaec495b5d17fac20fa284e5"
+  },
+  {
+    "photo_id": "287359152",
+    "author": "crowd",
+    "evidence": "000068d072--6afd1564409e22184efecd80",
+    "raw_candidate_hash": "02709fb2ac92c6855ba0880637b138691bd90774e19e673489d0ed3ecff117b9"
+  },
+  {
+    "photo_id": "290163902",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf66aed421b4afbfbd08d",
+    "raw_candidate_hash": "c65a46e5d99f9a35fea51800862c5e9179e43e33f1ef9d5ffc008e27b76517a7"
+  },
+  {
+    "photo_id": "290726088",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa7dfe68256bfdc3ff28",
+    "raw_candidate_hash": "4ca03366d6ab214d83900f5ce2d12bf677fadbc1c829bfd8ffcd296b9eb18951"
+  },
+  {
+    "photo_id": "292486097",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9356fd8607c6c63ca99",
+    "raw_candidate_hash": "c6b42780924d54a9b72d29c5ecf79ac0076246cbae934ebd686826bca3682ba7"
+  },
+  {
+    "photo_id": "295032058",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc55ee5596557a69ecea",
+    "raw_candidate_hash": "00fe1000a2225d77eda4431804d5a1d23682129304718d983c2da55e75e6944f"
+  },
+  {
+    "photo_id": "295217115",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0100fe68256bfdc46815",
+    "raw_candidate_hash": "525df6935018b9dd4c744ed7b95dd1318170166878c47e6ce68a7566d306a91d"
+  },
+  {
+    "photo_id": "296047853",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd1c55eb9f701dc2de53",
+    "raw_candidate_hash": "a4d6979b4cec2170f5de5299a2ee2f16fea3bfc45783cc596cf7536d45bf3759"
+  },
+  {
+    "photo_id": "297079628",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5c46fd8607c6c638ad6",
+    "raw_candidate_hash": "2bd7358711f3f65e51cbb2a220603c68134fd3f517f12ba511aae9985bb52ed8"
+  },
+  {
+    "photo_id": "29807771",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb1eebb1521ae801b9f3",
+    "raw_candidate_hash": "aed5a04634bb468ad67e774a52cb433ec96f15915a3ed0476e34826f8d248aae"
+  },
+  {
+    "photo_id": "298791276",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfab26fd8607c6c63e3ff",
+    "raw_candidate_hash": "cd1e1879145af23833673012780eba87f8e9ca5c034869c776a42feae7786c26"
+  },
+  {
+    "photo_id": "299138364",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4e7b0dc860f41572061",
+    "raw_candidate_hash": "7a7b86d94fbb445037b2a7352da2e2165caf52b1b5df7b699a574d3cb149520e"
+  },
+  {
+    "photo_id": "303205249",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfba33537ac5dbb426cf2",
+    "raw_candidate_hash": "dd8fec0ae6faf068e9bfcc9dc6db2a13b830acd1189b86cd50f6b487067a5aa5"
+  },
+  {
+    "photo_id": "303527689",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый мотылёк с чешуйчатыми сложенными крыльями. Добавлена рамка по видимым крыльям, лапкам и усикам.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "6702f233daecf007363fca2f079de47079e90d6cf2a10acd5b215698d9bd9789"
+  },
+  {
+    "photo_id": "303642323",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0305ed421b4afbfc8b11",
+    "raw_candidate_hash": "74dc5148bad8854b245969e13c6ee52c293a8d408b29954beba67b5c9b075388"
+  },
+  {
+    "photo_id": "305485065",
+    "author": "captain_review",
+    "reason": "Три самостоятельные бабочки уже выделены. На увеличении видимые усики и границы принадлежат соответствующим рамкам; оснований объединять или добавлять объект нет.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "71c23418de96f872a7ed224f9e47a917cb9021d0356cc270338e891642a056f7"
+  },
+  {
+    "photo_id": "307416135",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf58cb0dc860f415745e2",
+    "raw_candidate_hash": "fe575d0b2160db8f8e66790ea615a8f4a4fb800af186a047fb91b333d79da91e"
+  },
+  {
+    "photo_id": "30754935",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9e955eb9f701dc2a04c",
+    "raw_candidate_hash": "9b3f434e60551ec523b87b54605d0986759131c3054f63499cb32c982b37a1eb"
+  },
+  {
+    "photo_id": "308798454",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6e8ed421b4afbfbdc05",
+    "raw_candidate_hash": "33d6dbfd90648595d31f5cebd4d16ac8e33638379a0691b9f09dd3da694c421e"
+  },
+  {
+    "photo_id": "309952288",
+    "author": "captain_review",
+    "reason": "Две верхние лапки выступают над рамкой. Граница расширена до их кончиков, вертикальный стебель выше не включён.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "43c273028c0156d59480fd60d5763240ac996b74a79b091d7ea1e2fb4f2af533"
+  },
+  {
+    "photo_id": "310940280",
+    "author": "captain_review",
+    "reason": "В кадре два взрослых спаривающихся мотылька, оба пропущены. Каждая особь получает отдельную рамку с видимыми усиками, лапками и крыльями.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "78f2b52ab0056631d13cba7fd647db0fdcde5c961fd7b804bbc53898989fbc54"
+  },
+  {
+    "photo_id": "31241896",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8031fe8560b8a999002",
+    "raw_candidate_hash": "cf963455dcf1cc1ac2bce2ddfa12bbce83c6807a64dabd314e6444648ae2e56d"
+  },
+  {
+    "photo_id": "31286520",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf64005a3672b2028eddd",
+    "raw_candidate_hash": "29927e2a6a555ac3811e4db0cc57a1b360867ce7f03cc50da374295edfa2fca6"
+  },
+  {
+    "photo_id": "31393268",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd586fd8607c6c641a10",
+    "raw_candidate_hash": "9a9c58f569cd8ca47ed4ce2f5513d3558e9bcb5df0bf290d6a2c43705b13b15d"
+  },
+  {
+    "photo_id": "314614426",
+    "author": "captain_review",
+    "reason": "Белые части ниже рамки относятся к цветку, а не к бабочке. Видимые крылья, голова и усики внутри рамки.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "88381afa0506e2b331741d2543dc5e7ed8d5ab93724a28ab580fd00385528ef1"
+  },
+  {
+    "photo_id": "315389384",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7e6d5d23603d6787e41",
+    "raw_candidate_hash": "7bf468f200363fb2e0090a2afeb74ae4624b6d1e974984970361bc498159607d"
+  },
+  {
+    "photo_id": "316270369",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf52b6fd8607c6c6381c9",
+    "raw_candidate_hash": "8fe0191320cce9b99abe1bd0bf0a5a61d41673c9abbbfcd40634eba467532d93"
+  },
+  {
+    "photo_id": "317471029",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5df409e22184efc5cfb",
+    "raw_candidate_hash": "5c947e1334295b54175eb70c6e709ea885ab7f992e0c01d8d45576d5eebb4c6e"
+  },
+  {
+    "photo_id": "321304703",
+    "author": "captain_review",
+    "reason": "Правый усик достигает верхнего края изображения. Рамка расширена до края без достраивания скрытой части.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "8b0e609c9d92fca573ed3447f8046f7622823ac4df0f2c96a77fcc075fc84f12"
+  },
+  {
+    "photo_id": "32279278",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0190d5d23603d6791956",
+    "raw_candidate_hash": "8263d30a2234665daceb34d8da5479232ee1affe51a2e5b6fe259c99c03b7471"
+  },
+  {
+    "photo_id": "32428310",
+    "author": "crowd",
+    "evidence": "000068d072--6afcff21ee5596557a6a1830",
+    "raw_candidate_hash": "9d558f9c820928dd618e8c4aa541c407ede9991dca508b00c0704a48eb494d22"
+  },
+  {
+    "photo_id": "324898934",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf831d5d23603d6788325",
+    "raw_candidate_hash": "9a8793415d1f6167d6a048f4b508ee33772473e83ba2453d9a20619b14b999d9"
+  },
+  {
+    "photo_id": "32741254",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe4d409e22184efcf692",
+    "raw_candidate_hash": "3eb4ab41218cd852d962f1a7830ab1db45510a933bf80046d396d8f1592df898"
+  },
+  {
+    "photo_id": "327700215",
+    "author": "captain_review",
+    "reason": "Левый усик заканчивается у границы рамки. Обе части крыльев и хвостики включены, явного обрезания нет.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "1a6eb8a16b138a2ea715becec0d174a2369d2264ab0d8a5828616e74717a4104"
+  },
+  {
+    "photo_id": "332238815",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfca21fe8560b8a99e177",
+    "raw_candidate_hash": "8566b043e8c54103ef44e34cd94bfcb3ab2d6c4da9c634798fa54c5c17c8abe3"
+  },
+  {
+    "photo_id": "333060882",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0190d5d23603d6791956",
+    "raw_candidate_hash": "21e1a0515195dd82e6e754ff8bedd7f8ce8c80d5522d1e02871ff87a2e06a2b2"
+  },
+  {
+    "photo_id": "335360939",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf95e55eb9f701dc28c02",
+    "raw_candidate_hash": "7d40f490509a0bc6242235958cae278f03fed8a8da1faa625ac2abda3ca951a1"
+  },
+  {
+    "photo_id": "336529250",
+    "author": "captain_review",
+    "reason": "Это рисунок бабочки. Инструкция прямо исключает рисунки, поэтому пустой ответ верен независимо от исходной категории датасета.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d4a953aedfc06676c9c5983cb7363c8a3c53244461b73f4e8a5a14e9e1e0ce7f"
+  },
+  {
+    "photo_id": "337560059",
+    "author": "captain_review",
+    "reason": "Усик справа заканчивается на границе, видимые лапки и оба крыла внутри. Существенного обрезания не найдено.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "c593ebeb98011fdf8424754a458a31b1b35931885d719ddadf4a2013b3abda47"
+  },
+  {
+    "photo_id": "337563508",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5df409e22184efc5cfb",
+    "raw_candidate_hash": "c4e4f9f1bdf5e16da9e5bc86562c57fc9694f6290bea7c0e8ce357f32b4e399c"
+  },
+  {
+    "photo_id": "337785239",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf7e6d5d23603d6787e41",
+    "raw_candidate_hash": "78782a4f18c6089eb00ede149c95f3e5d72ab2cba7b9f500b93808d1d3e647c9"
+  },
+  {
+    "photo_id": "338504146",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbe7ebb1521ae801cae2",
+    "raw_candidate_hash": "2dc9e7cac8208f3832d47eb72bf0416d3e9155eb2351032876fd439b0db55b9b"
+  },
+  {
+    "photo_id": "339831709",
+    "author": "captain_review",
+    "reason": "Все семь мотыльков выделены. На увеличении длинные дуги, ошибочно приписанные нижнему левому мотыльку, принадлежат соседнему центральному. Существенного пропуска, требующего переноса границ, не подтверждено; рамки сохранены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "7abf0bf4ab802b673e75c614b6421b3af9b9f38a7dfbc13fae8c4342ffc95912"
+  },
+  {
+    "photo_id": "339979352",
+    "author": "crowd",
+    "evidence": "000068d072--6afd14551fe8560b8a9baa8c",
+    "raw_candidate_hash": "e82ada350c202373da867074fc2041bde5180088a6627dc6c6bf2c66d74ea0ba"
+  },
+  {
+    "photo_id": "340504805",
+    "author": "captain_review",
+    "reason": "Длинный правый усик полностью включён до края рамки. Изменение не требуется.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "2a35b59b0882d7e9fa1ee2907fcdec10c125a8e02697abb2e6b0472c334b4bd7"
+  },
+  {
+    "photo_id": "340762532",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6b5b0dc860f4157575b",
+    "raw_candidate_hash": "28d6278cc91e241a8001ffdfb79b95effa3eb4d7c715abd5372da45b02aea8fc"
+  },
+  {
+    "photo_id": "340887886",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02633537ac5dbb42d002",
+    "raw_candidate_hash": "b9ec6a9541944e6730c8be67636a69554b4e1347ab59e324fedbb04eec089bbd"
+  },
+  {
+    "photo_id": "341192784",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb6afe68256bfdc4150a",
+    "raw_candidate_hash": "8ab381d2acb53bf42bcd98004cfca8e4bb0a3fae7df0795051e5b7d08250161f"
+  },
+  {
+    "photo_id": "341606825",
+    "author": "captain_review",
+    "reason": "Второй, нижний мотылёк пропущен. Верхняя исходная рамка сохранена, нижнему добавлена отдельная с усиками.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "ae83a3b9e971f3abb4378759c360f0f901389808305d5a4e62f134127f71e97e"
+  },
+  {
+    "photo_id": "341649609",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbffb0dc860f4157b97f",
+    "raw_candidate_hash": "28f3e280fc35901176147688e932ad6e752b838b8b8f031f171c88a9084b105f"
+  },
+  {
+    "photo_id": "351570656",
+    "author": "captain_review",
+    "reason": "Один взрослый бражник; исходная рамка охватывает видимые крылья, усики и конец брюшка. Палец и растение не являются отдельными объектами.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "da7633d0ca5d7bbccf99f9e0f14d0430dc0ccbb2951214dc326d43d93ef07335"
+  },
+  {
+    "photo_id": "3535513",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02086fd8607c6c646904",
+    "raw_candidate_hash": "24fcaa8e16d03b69405bc74cadf7196a3f4c861dbf0cbffacbd626928052b0fa"
+  },
+  {
+    "photo_id": "354309298",
+    "author": "captain_review",
+    "reason": "На стволе две бабочки. Сохранена верхняя исходная рамка, добавлена нижняя бабочка вместе с видимыми выступающими частями.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "9135f2c88560975367e5e075ad75858d59f89cfa47db4b008d86b83ad4e79482"
+  },
+  {
+    "photo_id": "35524450",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe183537ac5dbb428e41",
+    "raw_candidate_hash": "acdafe1035bf6d52dc1296c9dbcf0e4c319a4b289e0fe2b45505bc1130efbc29"
+  },
+  {
+    "photo_id": "35524502",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf90cfe68256bfdc3e63c",
+    "raw_candidate_hash": "84705806eaa2655583fe63f680ccf2fcd35e2f6f1ff443ae179bc80799de79b5"
+  },
+  {
+    "photo_id": "357852705",
+    "author": "captain_review",
+    "reason": "Схематический рисунок, а не фотография взрослой бабочки. Пустой ответ соответствует инструкции.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "c60ba191e99fc652da7f151809d7034f902914b4f9f68d225ed97783fd4c6c95"
+  },
+  {
+    "photo_id": "361858548",
+    "author": "captain_review",
+    "reason": "Над головой видны части усиков выше прежней рамки. Верхняя граница расширена; отдельная тёмная отметина на стене ещё выше не включается.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "3f167223e687c80a313e6fd4c0b461256dc625df42a58f21b9b1d13602a4f5d1"
+  },
+  {
+    "photo_id": "36241171",
+    "author": "crowd",
+    "evidence": "000068d072--6afcff21ee5596557a6a1830",
+    "raw_candidate_hash": "60636a64427b0eb8a798f319bab0b987bd07314910c2ed24835be9083d828e50"
+  },
+  {
+    "photo_id": "362693400",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9e955eb9f701dc2a04c",
+    "raw_candidate_hash": "c3f6157ae2833682f6054f6e19a9ab33482d0029c80ccef3f781e398b04659a6"
+  },
+  {
+    "photo_id": "363334237",
+    "author": "captain_review",
+    "reason": "В кадре нет видимой взрослой бабочки: объект похож на водную личинку/чехлик. Точный таксон для решения не требуется. Исходный пустой ответ сохранён несмотря на один fix.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "40d5638956bd8a88b13fa770a52f6dabf92f66c96a7b5f5945db30ff54f0c019"
+  },
+  {
+    "photo_id": "366292372",
+    "author": "captain_review",
+    "reason": "Светлая бахрома крыла и лапки внутри рамки. Нижний тёмный выступ за рамкой относится к стеблю/опоре, а не отдельной конечности.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "41a4916b7e5ee5415439352a1c7baad7313708cdec38eeb0d6c6d9f8bf569574"
+  },
+  {
+    "photo_id": "367199026",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe0bee5596557a6a052f",
+    "raw_candidate_hash": "f752b005c2b49cd9dbe08cfa8123ae72cf49adf04b26e52f956ae7d6dd4b0109"
+  },
+  {
+    "photo_id": "368656752",
+    "author": "crowd",
+    "evidence": "000068d072--6afd005afe68256bfdc45df6",
+    "raw_candidate_hash": "7756b7e83cd0894100273f420e64fc7f37bd650cb8a1524f150ebb1d0b84628f"
+  },
+  {
+    "photo_id": "369762312",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbffb0dc860f4157b97f",
+    "raw_candidate_hash": "a06ca54d36022f24d6239a37e9fa6eee27c05583c58c528578742ea8249622fe"
+  },
+  {
+    "photo_id": "370293561",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf831d5d23603d6788325",
+    "raw_candidate_hash": "9c38a21c2cae08312663345e243dd57e82782865b4279424a1bec08f9d39ea08"
+  },
+  {
+    "photo_id": "374538295",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf798409e22184efc7bbb",
+    "raw_candidate_hash": "04fddb98700c63e9533f18456d339a6ffcb43c3319b29dfa8796820e1dca9abc"
+  },
+  {
+    "photo_id": "377923310",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc1bebb1521ae801ced3",
+    "raw_candidate_hash": "4d90b8a8c1bd18212e95ad6c3dc086c3b1bb3127263ad13bec913d206893f2dd"
+  },
+  {
+    "photo_id": "380262167",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfab26fd8607c6c63e3ff",
+    "raw_candidate_hash": "e613a36f2c23060ab82af2caf7479714e820850261e4dc4d60f48bd9b8227d44"
+  },
+  {
+    "photo_id": "380870577",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf99afe68256bfdc3ef81",
+    "raw_candidate_hash": "739673ead6c4f93bbf2448267f2b38dd7c06580321d020837461a7960fc80a68"
+  },
+  {
+    "photo_id": "383338174",
+    "author": "captain_review",
+    "reason": "На фото одна бабочка со сложенными под углом крыльями. Исходная рамка включает видимые усики и хвостики; второй особи не обнаружено.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "bf832ef460a9cb5752b3d277d931dacbde761a3b509e7be7dedf53f17582cf7b"
+  },
+  {
+    "photo_id": "384020256",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfec2ebb1521ae801f827",
+    "raw_candidate_hash": "980ec1892a2bd5902713e18de87dc380919c1467eee8e03d18d8d3328a78f9f1"
+  },
+  {
+    "photo_id": "38875693",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfba33537ac5dbb426cf2",
+    "raw_candidate_hash": "7f1b6e3eb945d5718d4b340626d4feae56277e0c82126882a6e4085ce2a5e1af"
+  },
+  {
+    "photo_id": "38877657",
+    "author": "captain_review",
+    "reason": "Усик сверху выходит за исходную рамку. Рамка уточнена по крыльям и усикам; тёмная полоса ниже крыльев является тенью и не включается.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "6c9f62389f3a1a7e05b9f355cc9cc4758cff4ba740a9b318272ff123d37f5409"
+  },
+  {
+    "photo_id": "389637511",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4e7b0dc860f41572061",
+    "raw_candidate_hash": "d2e95a154570d6ae125a9255d31e25b27f4b9e7cdf1fe1457aadc14829f44e23"
+  },
+  {
+    "photo_id": "390616794",
+    "author": "Meow",
+    "reviewer": "captain_review",
+    "reason": "Manually reviewed the original and all six overlapping crops. Seven visible adults traced with one box per individual; no wing-level duplicate boxes. Counting follows the manual inspection, not the preliminary split.",
+    "evidence": "replacements_2026_11_18/meow_review/adjudications.json",
+    "raw_candidate_hash": "4c6e494f0c585168ae569bd09ac24793b9ea908ab81db43cb07156fc96cb9b78"
+  },
+  {
+    "photo_id": "39152584",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5c46fd8607c6c638ad6",
+    "raw_candidate_hash": "b658e4268a4f9f4b1235f4ac8cfef9a3a7a2ef7bd55615c2b0bcdf28ad226f79"
+  },
+  {
+    "photo_id": "399712064",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf43005a3672b20287c65",
+    "raw_candidate_hash": "cb1a201073e779cba9b5d75b40a3cf5bf3af397582595ccb0dd690b31f0505f4"
+  },
+  {
+    "photo_id": "400172481",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe86fe68256bfdc4446a",
+    "raw_candidate_hash": "619b97995b21faf8dd7644cafee2966a82d9314b95879c496f6782f36d33127a"
+  },
+  {
+    "photo_id": "400751415",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfdd21fe8560b8a99f47f",
+    "raw_candidate_hash": "6bbc2700eba37248732a6e0c178c469020abed7de52a686828ac5d2197b6e29d"
+  },
+  {
+    "photo_id": "40190423",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0100fe68256bfdc46815",
+    "raw_candidate_hash": "46638c0e201c4626afe08c6439c3ecbf13e9c4706b52ea2c630886e6b27d7227"
+  },
+  {
+    "photo_id": "409802490",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe183537ac5dbb428e41",
+    "raw_candidate_hash": "27938421de03ee4aa426d501b2ca0cd1953d0f22d8e9eebcbab9245368594638"
+  },
+  {
+    "photo_id": "410243686",
+    "author": "captain_review",
+    "reason": "Усики заканчиваются внутри рамки; выступающий над ней светлый участок является растением. Хвостики и нижняя лапка включены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "75711eabfecc4a6a1cc11f4358dc74b6735f507a44af741a87b21a47bca5be92"
+  },
+  {
+    "photo_id": "4104349",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaec409e22184efcb9a0",
+    "raw_candidate_hash": "15ad3049b2dc98d63b80b8ba5a5a5eb2362fdb66df0dc2923fc3aa7f8d4ab195"
+  },
+  {
+    "photo_id": "411659889",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0016b0dc860f4157f5c8",
+    "raw_candidate_hash": "44a9a4ef0ca3b631441a0e1fb1e6c2d38eaa3b20b8d605a6a6735b21c5c15b9e"
+  },
+  {
+    "photo_id": "411813",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02453537ac5dbb42ce38",
+    "raw_candidate_hash": "5006f83bac5ab151407675874452c7e12a4fd4b45378c53ceb0cff284dcac1c2"
+  },
+  {
+    "photo_id": "411858",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf58cb0dc860f415745e2",
+    "raw_candidate_hash": "a0782fecd1dd5d30d09a8ae2367e34eee0cc77ed99db824afe5652266ccbdb0c"
+  },
+  {
+    "photo_id": "414106724",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5df409e22184efc5cfb",
+    "raw_candidate_hash": "3034045e0e38517abfa94c3b1b1490b35248b798a75bdf5607ca18bea22f7d32"
+  },
+  {
+    "photo_id": "4141122",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01463537ac5dbb42bcd1",
+    "raw_candidate_hash": "b34c632e2207151f0c7e13c406fe27d373da042023d7ce6b7c0a9519de4cf5af"
+  },
+  {
+    "photo_id": "415310235",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbe7ebb1521ae801cae2",
+    "raw_candidate_hash": "118c5fd1aa2f21b50ab2dd4bbb9e16cc40a4f104d5f4cfa4b5b6795cab16fcd8"
+  },
+  {
+    "photo_id": "415332017",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf909b0dc860f41577f54",
+    "raw_candidate_hash": "5bb1ae4d2878cbb260c6b2edb241c4f7b5bd7899166eb1259819650ecaa58a9a"
+  },
+  {
+    "photo_id": "417087330",
+    "author": "crowd",
+    "evidence": "000068d072--6afd00d255eb9f701dc31a10",
+    "raw_candidate_hash": "1107b73e177f3cd4126e4c8ccd79b06cce108cad795969dd39e58b1a9b0b9463"
+  },
+  {
+    "photo_id": "417451223",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbffb0dc860f4157b97f",
+    "raw_candidate_hash": "a7acea6db62822faccac4c268a2c29ffd7a4d3ebf753cfeacd528e9788166479"
+  },
+  {
+    "photo_id": "417960218",
+    "author": "captain_review",
+    "reason": "На фото ручейник с длинными нитевидными усиками и узкими жилкованными крыльями. Ложноположительная рамка удалена.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "42bcc3c881a18a408cb1be14abbc2606a2d0e55a1ed9db9893b66ace36b9a126"
+  },
+  {
+    "photo_id": "4184029",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0016b0dc860f4157f5c8",
+    "raw_candidate_hash": "0310ff5735fd97a7334f2eb6b5d3ef5989878e15b63f80e7575eadadd842a2f5"
+  },
+  {
+    "photo_id": "420083619",
+    "author": "crowd",
+    "evidence": "000068d072--6afd4cd8fe68256bfdcd55fe",
+    "raw_candidate_hash": "0d8ee8ef2a35e0a5b396a2b2cb121ed713065c3d3a2cfaa58195af1abdc103b3"
+  },
+  {
+    "photo_id": "420251482",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaecfe68256bfdc40734",
+    "raw_candidate_hash": "9416fc37b213a59fb16f3ecedb2bbfe64fc7e9c2dfc7a3e72ff2321f6b7a7041"
+  },
+  {
+    "photo_id": "422472991",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf9e955eb9f701dc2a04c",
+    "raw_candidate_hash": "473113281c47db0509040023222add7c8d703877b9e054a1b7dbdd4b47f4a655"
+  },
+  {
+    "photo_id": "423583466",
+    "author": "captain_review",
+    "reason": "Хвостики крыла доходят до левой границы рамки и не обрезаны; остальная видимая часть также внутри.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "e6ff0066b39afa825912f11988098edb8b587d213157b8eff9433795809d9aa9"
+  },
+  {
+    "photo_id": "440059963",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe183537ac5dbb428e41",
+    "raw_candidate_hash": "7c76a982350e6a9d91efbc77f15b0abf794cda0f6ee7fd36d379fe9576011d3b"
+  },
+  {
+    "photo_id": "443995463",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf872ebb1521ae8018417",
+    "raw_candidate_hash": "b771b14810e88d734a529840aff4903e26727bea4f4735a7a1ed0a4752ae983c"
+  },
+  {
+    "photo_id": "444072024",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01bdee5596557a6a41ad",
+    "raw_candidate_hash": "e6238636b2348b66d93f53f0f2bf2899ec6f00e9cac941080b3abb6755895146"
+  },
+  {
+    "photo_id": "446726674",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0190d5d23603d6791956",
+    "raw_candidate_hash": "87d956b768097acac530d742884b52f782a18a4587a350bc07313d3fae978025"
+  },
+  {
+    "photo_id": "446820278",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfcd2409e22184efcde9a",
+    "raw_candidate_hash": "8392da2500d42649d363eec2f4a02007392d4caa9505eb7049f70788b6469107"
+  },
+  {
+    "photo_id": "447238736",
+    "author": "captain_review",
+    "reason": "Левый усик и тонкие лапки включены. Первоначальное подозрение на обрезание не подтвердилось.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "e6d38d81fd901ed2fd6050eb23a727bfa8856ccfa2b75a6ea3b2e699fcb9a6ab"
+  },
+  {
+    "photo_id": "448869030",
+    "author": "captain_review",
+    "reason": "Ручейник: узкие кровлеобразно сложенные жилкованные крылья и длинные нитевидные усики. Ложная рамка удалена.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "94ca9fde722eed9103be743df273b4a45adf9041b4e72d7345da43c7a64ee8cf"
+  },
+  {
+    "photo_id": "454761012",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaecfe68256bfdc40734",
+    "raw_candidate_hash": "7c7975c503254440148ef6d33d973b440f8937e9ec4a516a804b7b61664f3418"
+  },
+  {
+    "photo_id": "45530370",
+    "author": "captain_review",
+    "reason": "Коричневые дуги слева принадлежат растению. Усики бабочки направлены вверх и находятся внутри рамки; расширять её на растение не нужно.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "38801e327a389b8f86083ea9563445b5d2ace8aa0cda40f4e17e80c9df41f269"
+  },
+  {
+    "photo_id": "457446627",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0289ed421b4afbfc84b6",
+    "raw_candidate_hash": "593f86f55d4432bcf0db38608f485cfb1b46b861a4ed63ff60160edecd54b70a"
+  },
+  {
+    "photo_id": "458797889",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd20b0dc860f4157caea",
+    "raw_candidate_hash": "d8e2744d84ada18b95d2a108df1ba9978c3a2556d4532df88820dd6c495d2d7c"
+  },
+  {
+    "photo_id": "458830342",
+    "author": "captain_review",
+    "reason": "Кончик левого усика находится на границе рамки; нижние хвостики и лапки внутри.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "40952ef1ce0589c28016c322175a274714ffd198a2908ab7b25654a6a158744e"
+  },
+  {
+    "photo_id": "459595780",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01eeed421b4afbfc7aa0",
+    "raw_candidate_hash": "0a9393fa61bf2944da5bb599e72aec04cff2dfa2301a7d8e9b2c42eecf29a6c2"
+  },
+  {
+    "photo_id": "460008614",
+    "author": "captain_review",
+    "reason": "Правые лапки доходят до края рамки, но видимая часть не обрезана. Верхние усики и хвостики также включены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "662be3d720e3361e9d8fe06eb4a45ed4415e6bdfed31a3ef77c76b8fbc7c50d9"
+  },
+  {
+    "photo_id": "46284",
+    "author": "crowd",
+    "evidence": "000068d072--6afd4cd8fe68256bfdcd55fe",
+    "raw_candidate_hash": "b304f5a6a2318969a72618fe3345cf4ea95827ffe586aea5c9bd1acb2fd9befd"
+  },
+  {
+    "photo_id": "46547792",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc1bebb1521ae801ced3",
+    "raw_candidate_hash": "f6c4d0e0eb78f6b0bf52e2243e3c4345a1268265b6e3fe1138ade135794e6dd7"
+  },
+  {
+    "photo_id": "469007041",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf99afe68256bfdc3ef81",
+    "raw_candidate_hash": "6f49f6f47579da880a7e84773d5a123d19524303a0be4b5ce146a11b614ba3e1"
+  },
+  {
+    "photo_id": "47073098",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfca21fe8560b8a99e177",
+    "raw_candidate_hash": "393678d15ea2ef2ed6ef60d99275925c5783a748d590a8e8c5b3c6de843e1bdc"
+  },
+  {
+    "photo_id": "475074903",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfc55ee5596557a69ecea",
+    "raw_candidate_hash": "1fbdcc20ea1d332904116816ef897789b4ae407a14de5ef7dc60541ef2150d23"
+  },
+  {
+    "photo_id": "477844175",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd1c55eb9f701dc2de53",
+    "raw_candidate_hash": "f4439c3ee7b1e81d1c385e4e5449035b3fdad2611aa78c8ee0940b0cac7cdbb7"
+  },
+  {
+    "photo_id": "480910138",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf95e55eb9f701dc28c02",
+    "raw_candidate_hash": "77c8bc8c3d2ee9ee191991a62e3c90370753bf25115fb2302988193340d00a56"
+  },
+  {
+    "photo_id": "49093530",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf8c055eb9f701dc281eb",
+    "raw_candidate_hash": "57098b2d15d9ffe4bcfa0eeaa6abb0bc3311e621bea0ad97bb0fd022fa5388bf"
+  },
+  {
+    "photo_id": "49310224",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6e8ed421b4afbfbdc05",
+    "raw_candidate_hash": "fe31ef47a929a08a8a6bda47d984c92e8034c181137fcc2e0552b9be359bc0fd"
+  },
+  {
+    "photo_id": "501262987",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe86fe68256bfdc4446a",
+    "raw_candidate_hash": "38249cc19b7b7c470149cad8a290644464b0a2174ad7ffcda7e91a764fd34bde"
+  },
+  {
+    "photo_id": "50219608",
+    "author": "captain_review",
+    "reason": "Тонкий тёмный усик у головы идёт влево за исходную рамку, под коричневым стеблем. Рамка расширена до видимого кончика, остальные границы сохранены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "a005e34ef53d1d219e044df3265967285b40ff9c9cd7596e57ca73d70c15b917"
+  },
+  {
+    "photo_id": "503575077",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfff7ee5596557a6a22e2",
+    "raw_candidate_hash": "d79d90ccf39e8c771b354f5726f42ca48117d7d37caec3f8f43f2df3bfb90b85"
+  },
+  {
+    "photo_id": "505880280",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd586fd8607c6c641a10",
+    "raw_candidate_hash": "3508f38b3172222f1d7b76931d98d29cfb4aadb287eedaed02a2b0f58f8cc331"
+  },
+  {
+    "photo_id": "505882184",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe4d409e22184efcf692",
+    "raw_candidate_hash": "a7621d28e099dc6fda1cda9bebdfe00bc9c1d5c9fd021619fdf7731f743b75db"
+  },
+  {
+    "photo_id": "51063052",
+    "author": "captain_review",
+    "reason": "Передняя лапка выступает выше рамки, левая боковая конечность достигает края кадра. Рамка расширена по видимым частям.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "13c626d582c37ca0136bcb8a20ce778d6d40974f73df2932d96cf8ce0f66d734"
+  },
+  {
+    "photo_id": "513733585",
+    "author": "crowd",
+    "evidence": "000068d072--6afd005afe68256bfdc45df6",
+    "raw_candidate_hash": "db8f0afdb7ed30df8fa61fe9256f7003e79d8ed8a07a4ab7544f9f36c27b5b0a"
+  },
+  {
+    "photo_id": "515279058",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfe183537ac5dbb428e41",
+    "raw_candidate_hash": "3c0be1a4763b3f7e4eeef4a124d80de085d40c0af7134b02c749657233b16b03"
+  },
+  {
+    "photo_id": "516703532",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый синий мотылёк. Добавлена рамка, включая длинную тонкую лапку ниже брюшка.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "6b74a916a9eb62126f763a8294c6440f3b5b9fef8e7d1710d2989f7718dad95e"
+  },
+  {
+    "photo_id": "516742556",
+    "author": "crowd",
+    "evidence": "000068d072--6afd1564409e22184efecd80",
+    "raw_candidate_hash": "abf571e5e42e685a794c5d224e86ea56adfd50e4f680a865c99c77a8b160c929"
+  },
+  {
+    "photo_id": "521011933",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01463537ac5dbb42bcd1",
+    "raw_candidate_hash": "1c8596e117ef39e206cee59b7ec01aea871cb6c5efb2ed5264d357d6f8167096"
+  },
+  {
+    "photo_id": "524567905",
+    "author": "captain_review",
+    "reason": "Светлая бабочка на цветах в центре кадра была пропущена. Добавлена рамка по крыльям и различимым выступающим частям.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "d187d26b8c091d82416092cc62c2177d8d39e084a2b514609a240ead9c5089c8"
+  },
+  {
+    "photo_id": "524715919",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02453537ac5dbb42ce38",
+    "raw_candidate_hash": "c94e58f15b4aaf3c854a696db66f9a8ccf9b33b09a705580b3d0c1eabbb001bb"
+  },
+  {
+    "photo_id": "52520976",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0190d5d23603d6791956",
+    "raw_candidate_hash": "24ad2f612380a20bf53b3a7e5c9365243476a26e3a5c32f6433ff7806af61196"
+  },
+  {
+    "photo_id": "527606305",
+    "author": "crowd",
+    "evidence": "000068d072--6afcff70b0dc860f4157ec29",
+    "raw_candidate_hash": "f535946f12528944153480700ace1695ac0e10d9167596337cafa6dcb3e3f40e"
+  },
+  {
+    "photo_id": "53098995",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5df409e22184efc5cfb",
+    "raw_candidate_hash": "c3eb3cce4e0ccdf11fa15a7ad8efc9b635a9d4e32d851203aaf96f5b82cc2d7e"
+  },
+  {
+    "photo_id": "531382307",
+    "author": "captain_review",
+    "reason": "Тонкий усик и лапка у головы продолжаются вправо за прежнюю рамку. Правая граница расширена.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "77c37a2061e5b1100a245041075e61348b40f1f8be0c4fcdc81c9206cd9e7d43"
+  },
+  {
+    "photo_id": "534668549",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf90cfe68256bfdc3e63c",
+    "raw_candidate_hash": "9e09ff191c259d97369ba27b28d9359acb027c0e4dcf5a768c058ca561433546"
+  },
+  {
+    "photo_id": "534782584",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaec409e22184efcb9a0",
+    "raw_candidate_hash": "788627641f12399ff0cacad09572ddebfc4713c48c7c50b4c266c10c0e016ca0"
+  },
+  {
+    "photo_id": "535334535",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd99ed421b4afbfc401e",
+    "raw_candidate_hash": "5c171454002ce8350e2b5d3059eeb5399686e8747667251a93a52772dfa7a9e5"
+  },
+  {
+    "photo_id": "54203294",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02453537ac5dbb42ce38",
+    "raw_candidate_hash": "a9bd05811d5968c366eae2c1bad9584f4a7ffc1d3932d9c063f87b6a4c651bb5"
+  },
+  {
+    "photo_id": "55039934",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf99afe68256bfdc3ef81",
+    "raw_candidate_hash": "f8dee8f7e65d54503497cc4c76e7fc142089d3f112c49072b9b4ac9b4be94755"
+  },
+  {
+    "photo_id": "551812051",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfcd2409e22184efcde9a",
+    "raw_candidate_hash": "031e7d70076ffad99d3b38073b65c871526f2061db25c26361da80a6f1760119"
+  },
+  {
+    "photo_id": "559509693",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4a11fe8560b8a9953e0",
+    "raw_candidate_hash": "2e78ae9561a238aefb2e7be1ca1136c432df90764b4ff4f781ebc0f4ca325cf1"
+  },
+  {
+    "photo_id": "562917680",
+    "author": "crowd",
+    "evidence": "000068d072--6afd4cd8fe68256bfdcd55fe",
+    "raw_candidate_hash": "39b157adfbc7a5ef65dca5d828aba58bbd1bfd0af2e17b1c2957b0c3b27d9a53"
+  },
+  {
+    "photo_id": "565860481",
+    "author": "crowd",
+    "evidence": "000068d072--6afcffb655eb9f701dc3059b",
+    "raw_candidate_hash": "dac9ef2eb97fa8936b5690b2a7fb8d5538a6d327aab0b218a94217cf388ea1ff"
+  },
+  {
+    "photo_id": "56745147",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfaec409e22184efcb9a0",
+    "raw_candidate_hash": "8d7fe0f94000f3732c7d2550580d1bebfd4d2729127b0c110853e88baf9e93c4"
+  },
+  {
+    "photo_id": "57206707",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf56d3537ac5dbb420345",
+    "raw_candidate_hash": "4bc4b89340e4abcbbc1993f4e620884b3c1988c5e0db0e7d778642588aa23158"
+  },
+  {
+    "photo_id": "573309184",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02d6d5d23603d67930ae",
+    "raw_candidate_hash": "268787e66ac3cc45f8531080031e29a07ad7428624a4ace52ea43e10cb09aca8"
+  },
+  {
+    "photo_id": "577886267",
+    "author": "crowd",
+    "evidence": "000068d072--6afd15df3537ac5dbb445b10",
+    "raw_candidate_hash": "3f934c15006c0ab366286166a1332655541ee411d5f6a975797072ef90fdec64"
+  },
+  {
+    "photo_id": "580352094",
+    "author": "captain_review",
+    "reason": "Две тонкие антенны находятся у верхней границы, но существенного обрезания не обнаружено. Фоновые стебли отдельно не включаются.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d2adc95f052a733bb5ac4b137393f765c385514bf8c84c72f65296504b04ca67"
+  },
+  {
+    "photo_id": "58220010",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb6afe68256bfdc4150a",
+    "raw_candidate_hash": "257060cce18d7281fa8ecf8422a61bb82dcbea9a7f3e4f4bf92af81b4d414849"
+  },
+  {
+    "photo_id": "582963620",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbe7ebb1521ae801cae2",
+    "raw_candidate_hash": "5883603050b821d5bbc047d070786b9f64748cab70b751725eebe0063e925617"
+  },
+  {
+    "photo_id": "586207460",
+    "author": "captain_review",
+    "reason": "На увеличении одна небольшая бабочка, видимая часть и различимые придатки внутри рамки. Дополнительных объектов не обнаружено.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "45fe014b9365ce861e3f50dbc4e632f333d6060675728abbe7bbcbd872d4df0d"
+  },
+  {
+    "photo_id": "586431482",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01eeed421b4afbfc7aa0",
+    "raw_candidate_hash": "cd7931df5f9589249d000ef6554466e4bf22028a0d6634c41575ea0431c6f3c9"
+  },
+  {
+    "photo_id": "588103612",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf52b6fd8607c6c6381c9",
+    "raw_candidate_hash": "9be60baa1bbe4078b11961bd586e64cd657089d00f34dbc3d13f24e64efa2904"
+  },
+  {
+    "photo_id": "58865565",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02086fd8607c6c646904",
+    "raw_candidate_hash": "afe93c556900156d5d0d3583af6e7ad5760354275d3dc4e658411fec025f7c68"
+  },
+  {
+    "photo_id": "58960902",
+    "author": "captain_review",
+    "reason": "На коре группа волосатых гусениц. Ни одна взрослая бабочка не видна. Нарисованный круг не меняет класс объектов; пустой ответ сохранён.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "572e7d8064cc0a8d4e3ef85a9649822415824e9deb421e7774f980ffb0dfc713"
+  },
+  {
+    "photo_id": "59063170",
+    "author": "captain_review",
+    "reason": "На тёмном снимке одна бабочка. Видимые крылья, тело и конечности внутри исходной рамки; соседние линии являются ветками.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "6e6a6845fb4dfd2601964297ae982f2466caf71a3da1a6314a3b3633aaef24ef"
+  },
+  {
+    "photo_id": "59637832",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa7dfe68256bfdc3ff28",
+    "raw_candidate_hash": "f570b08b0e4e8f459ecc024a034ed4763d4efdb6bb4e5f5918caf585a1d9de00"
+  },
+  {
+    "photo_id": "60062525",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5ef55eb9f701dc24c8a",
+    "raw_candidate_hash": "12e2f040fa3e87512352c2abccad04980ccc67a3fda31341b35f96c300e0c29e"
+  },
+  {
+    "photo_id": "600951120",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf4a11fe8560b8a9953e0",
+    "raw_candidate_hash": "3a8e8ca2d51eb0549d60bcd59ee87e6d33b19a428f1bce92e62b3885ff129b6d"
+  },
+  {
+    "photo_id": "609227454",
+    "author": "crowd",
+    "evidence": "000068d072--6afcff21ee5596557a6a1830",
+    "raw_candidate_hash": "429221563080bd07d68fd9daaaf14046cb8bf5f71fe4f9f8579b8cec60ca77a0"
+  },
+  {
+    "photo_id": "619106793",
+    "author": "captain_review",
+    "reason": "Правый усик доходит до правой границы, лапки и второй усик включены. Оснований расширять нет.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "065be9661f43289bd4f41e838cba640554328b3e950d196ec341b1c79e4647a4"
+  },
+  {
+    "photo_id": "621817520",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf75c1fe8560b8a998548",
+    "raw_candidate_hash": "a5ec24a9e8fdc9904dcaf13ee602846fc92875dd2073aaa8c05fd6a3feec67e8"
+  },
+  {
+    "photo_id": "62760714",
+    "author": "captain_review",
+    "reason": "Пропущен прозрачнокрылый взрослый мотылёк. Добавлена рамка с нижними усиками и боковыми лапками.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "be6e5af5e1333958e5f7fbbbbb2b7177e5779882281342cd1420a1794707a415"
+  },
+  {
+    "photo_id": "62858804",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfff7ee5596557a6a22e2",
+    "raw_candidate_hash": "410682f04f38ab20d4f1d9ea7ef359ca80379e983c7fe1b78d6f64bb0aff6d77"
+  },
+  {
+    "photo_id": "62976721",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02d6d5d23603d67930ae",
+    "raw_candidate_hash": "6ec46225d3cb46b8dca56a7baf262295be42d8ecd5a2f3443b74fb825ab578ff"
+  },
+  {
+    "photo_id": "634467167",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0100fe68256bfdc46815",
+    "raw_candidate_hash": "41bce03dc497f04e7acccf7c2a94e1b4b9bd2a0e0e8f85aba0e7765af6610fa5"
+  },
+  {
+    "photo_id": "635018448",
+    "author": "captain_review",
+    "reason": "Одна бабочка с четырьмя поднятыми частями крыльев, одной головой и одним телом. Разделение на две особи не обосновано.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "0341a7889daba1381ccea7a7666c5087e12786c349e60f4c2c882f71922414b5"
+  },
+  {
+    "photo_id": "6398640",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf5c46fd8607c6c638ad6",
+    "raw_candidate_hash": "9047588c86d5acc6365fb829687bda3f0a341e9a12a237f02ef505a0e1c7ac8b"
+  },
+  {
+    "photo_id": "647685138",
+    "author": "captain_review",
+    "reason": "Крупный план частично обрезанного мотылька. Исходная рамка включает выступающую диагональную конечность и видимые крылья, нижняя граница совпадает с краем кадра.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "57e6043525950dec65f1e77b0265b9286614ab8f4ad1a25fb2c20f42ab828672"
+  },
+  {
+    "photo_id": "652638756",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfb1eebb1521ae801b9f3",
+    "raw_candidate_hash": "de2c5f9c5e0868e6affa998c3264fbd92f535b3db4eee065029a722476486082"
+  },
+  {
+    "photo_id": "6588144",
+    "author": "captain_review",
+    "reason": "В кадре спаривающаяся пара с двумя головами и противоположно направленными усиками. Общая рамка разделена на две; длинные светлые дуги травы не включаются.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "d9fe711edd80540605a0679912f9eb3537a2e010fae9dd44496bfd01bc002177"
+  },
+  {
+    "photo_id": "663145705",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf64005a3672b2028eddd",
+    "raw_candidate_hash": "45673c067bd432427894adb5eee68277951fcb9a8e76cd5d5eb7b9a8cc80af9e"
+  },
+  {
+    "photo_id": "66480246",
+    "author": "captain_review",
+    "reason": "Виден мотылёк с чешуйчатыми крыльями и бахромой, а не ручейник. Видимые усики и лапки уже включены в рамку.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "ad155756436046ce8cdc290a8f2946e626345e5d8b8fb4038fa44da2d6307459"
+  },
+  {
+    "photo_id": "66903298",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfff7ee5596557a6a22e2",
+    "raw_candidate_hash": "166eea9a9664426fb636511a9932e4808a3d942f9fdf8267b4a5546f4f5c6b92"
+  },
+  {
+    "photo_id": "677960364",
+    "author": "captain_review",
+    "reason": "Это фотография чешуек и края настоящего крыла взрослой бабочки, а не рисунок. По правилу размечать видимую часть обрезанного объекта добавлена одна рамка: крыло пересекает все четыре края кадра. Случай отмечен для явного описания в протоколе оценки.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "9f6f541b00ceb140232a1c18c3d656e39ac80d11ecddfde7e2c679a5efbc7e64"
+  },
+  {
+    "photo_id": "68167772",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbffb0dc860f4157b97f",
+    "raw_candidate_hash": "375b908cd2184bd25c8ba76b61cca9ac3350d1f2347d474d909fff02ee21604a"
+  },
+  {
+    "photo_id": "682853315",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd20b0dc860f4157caea",
+    "raw_candidate_hash": "515130146e5bb397c591aa64551eebe54e9cfa6e7438ca800fce74284b196ded"
+  },
+  {
+    "photo_id": "68308289",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfd586fd8607c6c641a10",
+    "raw_candidate_hash": "9934c37abc598fbb41e996040143d16c3c6723b965db7855646332dda2a9fc97"
+  },
+  {
+    "photo_id": "683099431",
+    "author": "captain_review",
+    "reason": "Видимый объект — ручейник с жилкованными сложенными крыльями и длинными усиками. Удалена ложноположительная рамка.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "857390b4fecf79d621ad2876c2659989a1c8e800fed0e1c33d43d3ff2c1deb7f"
+  },
+  {
+    "photo_id": "707709412",
+    "author": "captain_review",
+    "reason": "Видимая часть белянки выделена; усик справа заканчивается у границы. Жёлтые лепестки не являются частью бабочки.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "2a3cb3e7d38a1c7e8835de38e8f9365e70d384c0e1436ed8e3808d7177931d30"
+  },
+  {
+    "photo_id": "712753679",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf64005a3672b2028eddd",
+    "raw_candidate_hash": "10d883ef722e1f337fc70a594c46cb6ea6cc8ed9984c36a1d343ae92944ea86d"
+  },
+  {
+    "photo_id": "71493689",
+    "author": "captain_review",
+    "reason": "После увеличения видимые крылья и пушистая часть тела находятся в исходной рамке. Левее находятся цветы; расширять на них не нужно.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "f981a1066318ce354de7aef203284a92923b9630ee8d424f70da073b983102bb"
+  },
+  {
+    "photo_id": "722007136",
+    "author": "captain_review",
+    "reason": "Различия цвета передних и задних крыльев не доказывают наличие двух особей. Видны четыре части крыльев одного объекта; оснований делить исходную рамку нет.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "23cf75f8ce9d3c9814c9d574931f1e8631edc7aedcd5c6eec90fb70c306be4a9"
+  },
+  {
+    "photo_id": "722381651",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02d6d5d23603d67930ae",
+    "raw_candidate_hash": "06c48954c7b00c7b090f95989609e55b730dad25c80a1f5fd9e686511689562b"
+  },
+  {
+    "photo_id": "72437412",
+    "author": "captain_review",
+    "reason": "Верхняя бабочка реальна, нижнее изображение — её отражение в поверхности. По условиям отражение не является второй особью; исходная рамка сохранена.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "fe8848faf903892882a28da5f0e2dae8807f3a1616d3d493da42825c57356d6f"
+  },
+  {
+    "photo_id": "725432766",
+    "author": "captain_review",
+    "reason": "Видимые конечности и усики внутри рамки. Тёмная область справа — тень на стене, отдельной рамки или расширения не требует.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "65dfadc33ef2dd370f1e211f0c72d897ad3448aff4c3c978282eae5b2c66f853"
+  },
+  {
+    "photo_id": "726174843",
+    "author": "captain_review",
+    "reason": "Оболочка куколки сама не является объектом, но верхний усик взрослой бабочки достигает текущей верхней границы. Уменьшение рамки обрезало бы усик; сохранена одна рамка взрослой особи.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "b2a76a7ece8c119887a59d7d2773b82059be666155f844f57284460cba779345"
+  },
+  {
+    "photo_id": "728257632",
+    "author": "captain_review",
+    "reason": "Два хвостика крыла достигают левой границы, но не обрезаны. Усики и лапки также включены.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "47abb89c62c07b2aec1f3ad3e1ac6df0e16946375dbf23ab5f7bd2234cc8a2d9"
+  },
+  {
+    "photo_id": "731550771",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfab26fd8607c6c63e3ff",
+    "raw_candidate_hash": "df47d3edd3fb228c6244f8e2ec16af11f39da9dffb5a1b35d0f2518301b407a1"
+  },
+  {
+    "photo_id": "745426619",
+    "author": "crowd",
+    "evidence": "000068d072--6afd02086fd8607c6c646904",
+    "raw_candidate_hash": "5bf79aeee2501f420bdb072d1a22e8f16eee1907062f5ab3df9119d655396db0"
+  },
+  {
+    "photo_id": "74633964",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf831d5d23603d6788325",
+    "raw_candidate_hash": "9abca82c944244e55db7649deeb6993fd952a0a43c3f80c3125a7bb52cbf3a19"
+  },
+  {
+    "photo_id": "748181110",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf43005a3672b20287c65",
+    "raw_candidate_hash": "fbafcad21f89005ed6bb1673313d4a85fa6a0ea4d40d5f2952f6de1be8bbc98c"
+  },
+  {
+    "photo_id": "758722326",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfee0409e22184efcff2d",
+    "raw_candidate_hash": "1a3175359eeb55558f4b2b77123c1f7e3beee48fd55e6ec1f7c320912856a970"
+  },
+  {
+    "photo_id": "76337845",
+    "author": "captain_review",
+    "reason": "Восемь отдельных объектов подтверждены увеличенными фрагментами оригинала. Размытый летящий объект также один, его след движения не делится на несколько бабочек. Явных дополнительных объектов при обходе полного кадра не найдено.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "969bc8571f2125f8e257c1491aed4be79976a03277dcc09929976fa9d9a1c48f"
+  },
+  {
+    "photo_id": "77205850",
+    "author": "crowd",
+    "evidence": "000068d072--6afd00d255eb9f701dc31a10",
+    "raw_candidate_hash": "e29214bb571abcb52062303f35bfecc1048f79849ac7d62e55b96afdc06eeb44"
+  },
+  {
+    "photo_id": "77451033",
+    "author": "captain_review",
+    "reason": "Ручейник с чёрными жилкованными крыльями, красными глазами и длинными усиками ошибочно размечен как бабочка. Оба review требуют исправления.",
+    "evidence": "adjudication/batch01/adjudications.json",
+    "raw_candidate_hash": "3aa87b8721448933ed7205429f89adaa3f210147d7b673592cffc3cb4308b1aa"
+  },
+  {
+    "photo_id": "7775492",
+    "author": "captain_review",
+    "reason": "После независимой проверки исправлена принадлежность к целевому классу: ручейники.",
+    "evidence": "corrections_v3.json",
+    "raw_candidate_hash": "12a58a189c9cacff543dff5b44b7e1bb9515b00080618713755ccf10c7000eb0"
+  },
+  {
+    "photo_id": "79499017",
+    "author": "crowd",
+    "evidence": "000068d072--6afd003505a3672b2029a889",
+    "raw_candidate_hash": "f97c3a12af9e71ede176b2e6e6fccfd77f8fac19d1782a56a6c7c8855f4f9f86"
+  },
+  {
+    "photo_id": "79519816",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa2ced421b4afbfc0c6c",
+    "raw_candidate_hash": "c44d0e6ead5880be30aac6b633858bd5d431e5c2928239be3763fdc5d7f7e050"
+  },
+  {
+    "photo_id": "82363062",
+    "author": "captain_review",
+    "reason": "Взрослая бабочка остаётся объектом разметки. Рамка расширена вверх до видимых усиков; длинная нить паутины слева снизу не является частью бабочки.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "fe12e053d21d072ba4b307f19004e183d42f94f6e9ac8ecd95a18a444437c379"
+  },
+  {
+    "photo_id": "84220021",
+    "author": "crowd",
+    "evidence": "000068d072--6afd01bdee5596557a6a41ad",
+    "raw_candidate_hash": "88a1203f0218ddbb97223f35db18e32dd3822043fa286cbacbb5c4439fda456c"
+  },
+  {
+    "photo_id": "84753291",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbe7ebb1521ae801cae2",
+    "raw_candidate_hash": "989dc8aa18f51dd95080624d55e4126d42cdd7cded70d655057a4c69f9769c49"
+  },
+  {
+    "photo_id": "8544593",
+    "author": "captain_review",
+    "reason": "Нижняя особь в спаривающейся паре была пропущена. Добавлена рамка по её видимому телу и крыльям; исходная рамка верхней особи сохранена.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "1cf62840ed494ba2ea34b3094470830832955c385e11d145d731b53ac21fc052"
+  },
+  {
+    "photo_id": "85495768",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfbe7ebb1521ae801cae2",
+    "raw_candidate_hash": "c6169a8c0cc165a0cbf50ffd60b26a5231dcced9775faeaa9e5f782797be902a"
+  },
+  {
+    "photo_id": "87611920",
+    "author": "captain_review",
+    "reason": "Одна небольшая бабочка; крылья и тело внутри рамки. Цветы ниже не требуют расширения.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "893a05474006c918a78789bb6e823f1d6d0b4e1d52eb4c9851e949c0ffd033b5"
+  },
+  {
+    "photo_id": "87757962",
+    "author": "captain_review",
+    "reason": "Виден ручейник с длинными кольчатыми усиками и кровлеобразными крыльями. Оснований добавлять бабочку нет; пустой ответ сохранён.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "65b306e13db107d27676b3397044731e8e709d51ee9705219ccd2c63043a7b08"
+  },
+  {
+    "photo_id": "88075652",
+    "author": "captain_review",
+    "reason": "Левый усик немного выступает выше прежней рамки. Верхняя граница уточнена; диагональная тёмная трещина справа не включается.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "f01a42ebef5aa81ddc2980c74b1c742b28bea9eb1c4ae39797ef4e0c91db68c4"
+  },
+  {
+    "photo_id": "88130944",
+    "author": "captain_review",
+    "reason": "Усики выступают над прежней верхней границей. Рамка расширена вверх; цветы и стебли отдельно не включаются.",
+    "evidence": "adjudication/batch02/adjudications.json",
+    "raw_candidate_hash": "29bc0dd892b823b02ff8cdb345b91680c05e4fb66c8904597286a32e6b2ed518"
+  },
+  {
+    "photo_id": "89257398",
+    "author": "crowd",
+    "evidence": "000068d072--6afd0305ed421b4afbfc8b11",
+    "raw_candidate_hash": "884f7263273eecb29f4403c1cfc7a94cb54098792bed9eec2a34d0c311260405"
+  },
+  {
+    "photo_id": "8975522",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfa2ced421b4afbfc0c6c",
+    "raw_candidate_hash": "ef7a18a13c6af68e806a2beeece0b275d128cf6d97af0a6a2e13a163b70aa477"
+  },
+  {
+    "photo_id": "89997846",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf6b5b0dc860f4157575b",
+    "raw_candidate_hash": "b5ce646afcbfa47a7bea5045d2027805724f8b817f75ef871f93287a474365c3"
+  },
+  {
+    "photo_id": "90334204",
+    "author": "crowd",
+    "evidence": "000068d072--6afcfab26fd8607c6c63e3ff",
+    "raw_candidate_hash": "b06717aee7751447634592dacaae6db86e910a9ecc173d6c16d025e5df440f0d"
+  },
+  {
+    "photo_id": "92242369",
+    "author": "captain_review",
+    "reason": "Пропущен взрослый мотылёк с гребенчатыми усиками. Добавлена рамка по крыльям, усикам и лапкам, без тени снизу.",
+    "evidence": "adjudication/batch03/adjudications.json",
+    "raw_candidate_hash": "4ffb04bb7bba50477d0d5e71c09cc928d29c70e3f6c7dc379c29ee0cf2f18cd3"
+  },
+  {
+    "photo_id": "93734467",
+    "author": "crowd",
+    "evidence": "000068d072--6afcf798409e22184efc7bbb",
+    "raw_candidate_hash": "b8fdd3957066b7527668efef4b647824be9780da68e03bf3b09b1f29220e233b"
+  },
+  {
+    "photo_id": "97414068",
+    "author": "captain_review",
+    "reason": "Участок левее рамки — тень крыла. Само крыло начинается у границы; расширять на тень не нужно.",
+    "evidence": "adjudication/batch04/adjudications.json",
+    "raw_candidate_hash": "4d2b14447035cd7cbf505633ac88fbf3c08b50d923e6e1a4d8f616b1e86997fd"
+  },
+  {
+    "photo_id": "764941215",
+    "author": "crowd",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_pool_id": "6870225",
+    "candidate_hash": "996f2f69d16e72074163e020e4f09680c10dd8f8d712655e89357ca3eba69206",
+    "review_evidence": "review_audit.json"
+  },
+  {
+    "photo_id": "765032073",
+    "author": "crowd",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_pool_id": "6870225",
+    "candidate_hash": "ebcf1cf2f13788713f66d942c0159bb5bf2bbed434afe0478acb1cb634b90c7a",
+    "review_evidence": "review_audit.json"
+  },
+  {
+    "photo_id": "765036915",
+    "author": "crowd",
+    "source_assignment_id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "source_pool_id": "6870225",
+    "candidate_hash": "f4106a2f6f7be8cc6848273de4ca55150524d4af98a1d12bf8813ffd4d85fe9f",
+    "review_evidence": "review_audit.json"
+  }
+]

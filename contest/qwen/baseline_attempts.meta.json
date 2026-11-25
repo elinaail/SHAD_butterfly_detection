@@ -1,0 +1,28 @@
+{
+  "config": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "7fb229164dcf158d5e5de67d0d71b090c344472b6382b9a4958e1a08f3b3d981",
+    "threshold": 0.1,
+    "nms_iou": 0.5,
+    "device": "mps",
+    "prompt": "Locate every adult butterfly and moth in the image, including small moths. Do not include caterpillars, pupae, other insects, flowers or leaves. Return only a JSON array of boxes: [[x_min, y_min, x_max, y_max], ...]. Coordinates must be integers from 0 to 1000, relative to the whole image. Use tight bounding boxes covering the entire visible insect. Return [] if none are present. No labels or explanations.",
+    "revision_requested": "89644892e4d85e24eaac8bacfd4f463576704203",
+    "max_new_tokens": 512,
+    "qwen_max_image_side": 768,
+    "qwen_processor_backend": "torchvision",
+    "attention_implementation": "sdpa"
+  },
+  "resolved_revision": "89644892e4d85e24eaac8bacfd4f463576704203",
+  "load_seconds": 10.982201667036861,
+  "python": "3.12.5",
+  "platform": "macOS-15.6.1-arm64-arm-64bit",
+  "versions": {
+    "torch": "2.15.0",
+    "transformers": "5.20.2",
+    "Pillow": "11.2.1",
+    "torchvision": "0.29.2"
+  },
+  "timing": "RGB image ready -> preprocessing + model + postprocessing + device synchronization; excludes download and model loading",
+  "truncated_response_policy": "At a verified max_new_tokens limit, retain only complete JSON array items and mark status=truncated. Preserve duplicate boxes and the full raw answer.",
+  "note": "All baseline attempts, including explicitly marked inference errors retained for retry provenance."
+}

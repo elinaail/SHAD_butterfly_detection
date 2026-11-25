@@ -1,0 +1,81 @@
+{
+  "photo_count": 400,
+  "manifest_sha256": "311806f590f0e49b4bdbd4a3aa250d90051766604a5fddd8b48afefe286e51f2",
+  "base_commit": "d38c7ca3b2e40717eb17aa42c524f2afb9460339",
+  "models": {
+    "dino": {
+      "rows": 400,
+      "statuses": {
+        "ok": 400
+      },
+      "truncated_photo_ids": [],
+      "files": [
+        {
+          "file": "results/dino/predictions_t0.15.jsonl",
+          "rows": 400,
+          "sha256": "0f2812a30716003d8cade4e8ef27348ff8f1481425d0f133c2af788e68ad2a9e"
+        },
+        {
+          "file": "results/dino/predictions_t0.25.jsonl",
+          "rows": 400,
+          "sha256": "ebf1851f0ec0c73abe02929d45d6a8285615a598a5dd197a66a91623242da6c7"
+        },
+        {
+          "file": "results/dino/predictions_t0.40.jsonl",
+          "rows": 400,
+          "sha256": "0988146ede28fca38821a4842db93efad9bb5f7d9d7989e063edd5f2f1e45a30"
+        }
+      ]
+    },
+    "owlv2": {
+      "rows": 400,
+      "statuses": {
+        "ok": 400
+      },
+      "truncated_photo_ids": [],
+      "files": [
+        {
+          "file": "results/owlv2/predictions_t0.15.jsonl",
+          "rows": 400,
+          "sha256": "3235c3d1aad886701db70debd93115ffee3ddda941fa24780519e9221bf6c8f9"
+        },
+        {
+          "file": "results/owlv2/predictions_t0.25.jsonl",
+          "rows": 400,
+          "sha256": "b27c155cece64bba094d86eecc3da878cef94bd26eb4058de83247df8e64052a"
+        },
+        {
+          "file": "results/owlv2/predictions_t0.40.jsonl",
+          "rows": 400,
+          "sha256": "4320960c982120d8cab1001de2577b86bee0f644c739a5444d8f97b214bc47b2"
+        }
+      ]
+    },
+    "qwen": {
+      "rows": 400,
+      "statuses": {
+        "ok": 400
+      },
+      "truncated_photo_ids": [],
+      "files": [
+        {
+          "file": "results/qwen/predictions.jsonl",
+          "rows": 400,
+          "sha256": "0acc29aaf41db95828f7723a39f1315e92d21200e3bda5db945059fac79bd7ae"
+        }
+      ],
+      "original_complete_answers_unchanged": 395,
+      "retried_photo_ids": [
+        615002914,
+        12297798,
+        247404664,
+        76337845,
+        339831709
+      ],
+      "tiled_photo_ids": [
+        247404664
+      ]
+    }
+  },
+  "tests": "8 passed"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "000068d4d1--6afde6c5a6287e79d3cd4593",
+    "task_suite_id": "000068d4d1--6afde5e2a6287e79d3cd2503",
+    "pool_id": "6870225",
+    "user_id": "worker_010",
+    "status": "ACCEPTED",
+    "reward": 2.5,
+    "tasks": [
+      {
+        "id": "d6bb5f62-8920-4234-a1dc-6881802366ce",
+        "input_values": {
+          "photo_id": "765032073",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/765032073/original.jpg"
+        }
+      },
+      {
+        "id": "9f2250d5-2b0d-44f7-bf39-4b063fde0ecd",
+        "input_values": {
+          "photo_id": "765036915",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/765036915/original.jpg"
+        }
+      },
+      {
+        "id": "0b83864e-b1a7-41a4-b713-4e7986e45ba1",
+        "input_values": {
+          "photo_id": "764941215",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/764941215/original.jpg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.2843921928043382,
+              "top": 0.36410754778101717,
+              "width": 0.4024219056573461,
+              "height": 0.2085851762307711
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.32171893147502906,
+              "top": 0.17499032133178474,
+              "width": 0.28222996515679444,
+              "height": 0.38250096786682153
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      },
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.2025195174870557,
+              "top": 0.1280165182604207,
+              "width": 0.621576296840963,
+              "height": 0.7562266098851465
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-18T17:56:21.771",
+    "submitted": "2026-11-18T17:58:37.144",
+    "accepted": "2026-11-18T17:58:37.144"
+  }
+]

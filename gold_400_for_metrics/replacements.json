@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "selected": [
+    {
+      "replaces": "615002914",
+      "photo_id": 765032073,
+      "observation_id": 415465859,
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/765032073/original.jpg",
+      "ext": "jpg",
+      "license": "cc0",
+      "attribution": "no rights reserved",
+      "observation_url": "https://www.inaturalist.org/observations/415465859",
+      "taxon_name": "Euptoieta claudia",
+      "taxon_id": 68244,
+      "category": "butterfly_nymphalidae",
+      "split": "main",
+      "expected_positive": true,
+      "width": 1536,
+      "height": 2048,
+      "sha256": "650d434fc412fd4472ebff7a8f4591205eb4ec2fe98a7639a8d97b016fa0018d",
+      "local_path": "replacements_2026_11_18/photos/765032073.jpg"
+    },
+    {
+      "replaces": "247404664",
+      "photo_id": 765036915,
+      "observation_id": 415468367,
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/765036915/original.jpg",
+      "ext": "jpg",
+      "license": "cc0",
+      "attribution": "no rights reserved",
+      "observation_url": "https://www.inaturalist.org/observations/415468367",
+      "taxon_name": "Colias",
+      "taxon_id": 58533,
+      "category": "butterfly_pieridae",
+      "split": "main",
+      "expected_positive": true,
+      "width": 2048,
+      "height": 1536,
+      "sha256": "32dc67fb750a3a9eeab0697dd2c9cbf614452a85c29797caf22c91f9d3ef6ffc",
+      "local_path": "replacements_2026_11_18/photos/765036915.jpg"
+    },
+    {
+      "replaces": "359179108",
+      "photo_id": 764941215,
+      "observation_id": 415420330,
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/764941215/original.jpg",
+      "ext": "jpg",
+      "license": "cc0",
+      "attribution": "no rights reserved",
+      "observation_url": "https://www.inaturalist.org/observations/415420330",
+      "taxon_name": "Porthetria",
+      "taxon_id": 1552378,
+      "category": "moth_erebidae",
+      "split": "main",
+      "expected_positive": true,
+      "width": 1251,
+      "height": 894,
+      "sha256": "d55bec5fe3c326dc82d7c73e512d7edec58505e8f8ffe365a38e2bda9fc29c3e",
+      "local_path": "replacements_2026_11_18/photos/764941215.jpg"
+    }
+  ],
+  "removed_photo_ids": [
+    "247404664",
+    "359179108",
+    "615002914"
+  ],
+  "new_photo_ids": [
+    "765032073",
+    "765036915",
+    "764941215"
+  ],
+  "original_metadata_sha256": "8d6ece421c34794def3133828413f283e7fac0b415ba275ece7ab01937d75b28",
+  "reason": "Two dense colonies lack reliable individual boundaries; extreme anatomy macro cannot be confidently interpreted under current image-only protocol. Teacher permitted justified replacement, user authorized all three.",
+  "selection": "First eligible visually annotatable photo per family from latest CC0 observations; no model predictions or scores consulted.",
+  "visual_precheck_by": "captain_review",
+  "visual_precheck": "One identifiable adult per image, normal detail/occlusion, decodable unchanged source, all visible parts can be boxed.",
+  "final_gold_ready": false,
+  "checked_utc": "2026-11-18T17:49:31.448782+00:00"
+}

@@ -1,0 +1,4 @@
+At 268 completed photos: Mac on Battery Power; battery Low Power Mode enabled (pmset lowpowermode=1).
+Temporary caffeinate -i -s assertion applied until the pipeline exits.
+User connected AC power; at 289 completed photos pmset confirmed AC Power and charging. AC lowpowermode=0.
+No model settings changed. Per-photo timings span both power modes and should not be treated as a uniform-speed benchmark.

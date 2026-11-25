@@ -1,0 +1,62 @@
+{
+  "config": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "311806f590f0e49b4bdbd4a3aa250d90051766604a5fddd8b48afefe286e51f2",
+    "threshold": 0.1,
+    "pipeline": "baseline_then_retry_unfinished"
+  },
+  "resolved_revision": "89644892e4d85e24eaac8bacfd4f463576704203",
+  "baseline_configuration": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "311806f590f0e49b4bdbd4a3aa250d90051766604a5fddd8b48afefe286e51f2",
+    "threshold": 0.1,
+    "nms_iou": 0.5,
+    "device": "mps",
+    "prompt": "Locate every adult butterfly and moth in the image, including small moths. Do not include caterpillars, pupae, other insects, flowers or leaves. Return only a JSON array of boxes: [[x_min, y_min, x_max, y_max], ...]. Coordinates must be integers from 0 to 1000, relative to the whole image. Use tight bounding boxes covering the entire visible insect. Return [] if none are present. No labels or explanations.",
+    "revision_requested": null,
+    "max_new_tokens": 512,
+    "qwen_max_image_side": 768,
+    "qwen_processor_backend": "torchvision",
+    "attention_implementation": "sdpa"
+  },
+  "retry_configuration": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "311806f590f0e49b4bdbd4a3aa250d90051766604a5fddd8b48afefe286e51f2",
+    "threshold": 0.1,
+    "nms_iou": 0.5,
+    "device": "mps",
+    "prompt": "Detect the distinct adult butterflies and moths visible in this image. Include small moths. Do not detect caterpillars, pupae, other insects, flowers or leaves.\nReturn one tight bounding box for each visible target that you can distinguish. Do not duplicate an insect. Do not continue an invented pattern or grid of boxes. Finish the response once you have listed the visible targets.\nReturn only a finite JSON array in this format: [{\"bbox_2d\": [x_min, y_min, x_max, y_max]}]. Use integer coordinates from 0 to 1000 relative to the whole image. No labels, prose or markdown. Return [] if there are no targets.",
+    "revision_requested": null,
+    "max_new_tokens": 4096,
+    "qwen_max_image_side": 1024,
+    "qwen_processor_backend": "torchvision",
+    "attention_implementation": "sdpa",
+    "repetition_penalty": 1.1,
+    "require_complete": true
+  },
+  "versions": {
+    "torch": "2.15.0",
+    "transformers": "5.20.2",
+    "Pillow": "11.2.1",
+    "torchvision": "0.29.2"
+  },
+  "retry_versions": {
+    "torch": "2.15.0",
+    "transformers": "5.20.2",
+    "Pillow": "11.2.1",
+    "torchvision": "0.29.2"
+  },
+  "retried_photo_ids": [
+    615002914,
+    12297798,
+    247404664,
+    76337845,
+    339831709
+  ],
+  "timing": "For retried photos, elapsed_seconds includes initial inference plus successful retry (sum of crop calls for tiled recovery). Both components are retained. Failed full-image retry time is unavailable and excluded; do not use these rows for baseline speed comparison.",
+  "tiled_photo_ids": [
+    247404664
+  ],
+  "tile_protocol": "4x4 cells expanded 10% of cell width per side; map crop boxes to original coordinates; NMS IoU 0.5 prioritizes distance from crop edges, not model confidence. Crop metadata and all raw answers are preserved.",
+  "note": "The 395 originally complete predictions are unchanged. Original truncated outputs remain in candidates.jsonl. No human boxes or gold labels were used."
+}

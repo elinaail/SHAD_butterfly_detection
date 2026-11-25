@@ -1,0 +1,3811 @@
+[
+  {
+    "photo_id": "100129291",
+    "candidate_id": "bbox-4108c6aa6b0bdf6c124c9d951bf5bc8a",
+    "source_revision": 1,
+    "source_candidate_hash": "0529510455d52d2c86d961aee3127db95c4755f71b587567edcb29c3ec353143",
+    "source_assignment_id": "000068d072--6afcfcd2409e22184efcde9a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.035121361865927715,
+        "top": 0.0893042575285566,
+        "width": 0.9272039532604917,
+        "height": 0.8348909657320871
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7c14ebb1521ae814eaea"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd910d743be06b82299cd9"
+      }
+    ],
+    "action": "keep",
+    "reason": "На отдельном увеличении обе передние лапки и длинные задние лапки находятся внутри исходной рамки. Первоначальный флаг не подтвердился.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.035121361865927715,
+        "top": 0.0893042575285566,
+        "width": 0.9272039532604917,
+        "height": 0.8348909657320871
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "155a9b1690491409c91961c7f328198dc681d773b774d74fdb38ed787fd87581",
+    "checked_utc": "2026-11-18T14:27:07.518543+00:00",
+    "final_gold": false,
+    "content_hash": "c420ad15b39aad11ae8466c348bd4a4395fb5fa763c7d588ac3d593fa4177955"
+  },
+  {
+    "photo_id": "105339991",
+    "candidate_id": "bbox-2c4a3dfa4bddb33ee5d76d648ca71fc6",
+    "source_revision": 1,
+    "source_candidate_hash": "c63113da7082394d66386a3b9cd8ea579ee1b528a4b9851e6a2145312197daa0",
+    "source_assignment_id": "000068d072--6afcfcd2409e22184efcde9a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10904339466510903,
+        "top": 0.1723779854620976,
+        "width": 0.782722449376947,
+        "height": 0.57736240913811
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd892a034bf37177647e8a"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9ceb743be06b822baa5e"
+      }
+    ],
+    "action": "resize",
+    "reason": "Верхние усики уже внутри рамки, но под левым задним крылом видна выступающая из-под него изогнутая лапка. Нижняя граница расширена до неё.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.109,
+        "top": 0.17107093184979139,
+        "width": 0.783,
+        "height": 0.6189151599443672
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "2975c07f63709a2082e5d2bddfc72ebb40a619bc5a3a73c687e72dd59b98d37e",
+    "checked_utc": "2026-11-18T14:27:07.624625+00:00",
+    "final_gold": false,
+    "content_hash": "69d84b38e876c1040a7cdbdc0cad0eba9da8006b7e998b5f6671a067552c6e87"
+  },
+  {
+    "photo_id": "110160792",
+    "candidate_id": "bbox-d61fbf744945f33fe4a5dbb028a82755",
+    "source_revision": 1,
+    "source_candidate_hash": "dced6a5b2cc28464458e11b6001ed2ff138f3de79ed75657c7a18d2be044e455",
+    "source_assignment_id": "000068d072--6afcfc55ee5596557a69ecea",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.185721801533396,
+        "top": 0.14537902388369678,
+        "width": 0.7348123451973494,
+        "height": 0.7414330218068534
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd85d5d5d23603d68be78a"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9b9a034bf371776833d8"
+      }
+    ],
+    "action": "keep",
+    "reason": "Длинные светлые линии справа и слева преимущественно стебли. Различимые части бабочки, включая усики, не выходят за рамку; расширять её на траву не нужно.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.185721801533396,
+        "top": 0.14537902388369678,
+        "width": 0.7348123451973494,
+        "height": 0.7414330218068534
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "1b5a663f54ea273f23ffff34c96da93fa9409c2745e6992991fac3bd28236105",
+    "checked_utc": "2026-11-18T14:27:07.772069+00:00",
+    "final_gold": false,
+    "content_hash": "0ca9329f6c7bab916a9be7cc5c2e9f4fcdc756a852116dfeef1c47e763b44836"
+  },
+  {
+    "photo_id": "111309724",
+    "candidate_id": "bbox-28f813cab881cee4310fa0bcbca8ac39",
+    "source_revision": 1,
+    "source_candidate_hash": "004a39d132af78028d78630da255c14abbc2e93dac5a4eee03524adbd1ae95fb",
+    "source_assignment_id": "000068d072--6afcf52b6fd8607c6c6381c9",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21147739680059302,
+        "top": 0.23052959501557632,
+        "width": 0.7703819454878744,
+        "height": 0.5212876427829699
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd85d5d5d23603d68be78a"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9b9a034bf371776833d8"
+      }
+    ],
+    "action": "keep",
+    "reason": "Чёрный участок ниже рамки является тенью крыла на грунте. Край самого крыла и видимые конечности внутри рамки.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21147739680059302,
+        "top": 0.23052959501557632,
+        "width": 0.7703819454878744,
+        "height": 0.5212876427829699
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "1d7c037f504e7b13c709614b8a51cbf97da0d2ec26e949a27e0735575aac0311",
+    "checked_utc": "2026-11-18T14:27:07.810524+00:00",
+    "final_gold": false,
+    "content_hash": "35ed09133c4384756180eda8a603c5d342d48bcd543a42b313810e40b6d71cd6"
+  },
+  {
+    "photo_id": "116200677",
+    "candidate_id": "bbox-116fb82c6f72ee306daa4b68be3ac59f",
+    "source_revision": 1,
+    "source_candidate_hash": "693755068785cc8fec0f9f12e6210f0ca335aa6ef622631f844b04327eb26650",
+    "source_assignment_id": "000068d072--6afd02633537ac5dbb42d002",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8ca316a8b159047b7f19"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9930f7cf255f9806776c"
+      }
+    ],
+    "action": "keep",
+    "reason": "Узкие жилкованные крылья, длинные нитевидные усики и выступающие ротовые придатки соответствуют ручейнику. Пустой ответ сохранён.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "f101516ab226eb141ae320f94c31879912c882251916fb6c55a920639d3d21fd",
+    "checked_utc": "2026-11-18T14:27:07.857561+00:00",
+    "final_gold": false,
+    "content_hash": "a1b15f1912487cbafc37b48e6b649e4f1dd9ecffd6eb5b7c4e4b1d41c7112d2f"
+  },
+  {
+    "photo_id": "127558214",
+    "candidate_id": "bbox-578a3ac62fe77e8e63612e2bccfcf910",
+    "source_revision": 1,
+    "source_candidate_hash": "7ca6aa2cd759ae70da06e54dd4f81323302a302c992ab3e874efe8d3ba708c6a",
+    "source_assignment_id": "000068d072--6afd005afe68256bfdc45df6",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.31052253699376947,
+        "top": 0.2824506749740395,
+        "width": 0.15613845080477673,
+        "height": 0.3260643821391485
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.15438408618899271,
+        "top": 0.3634475597092419,
+        "width": 0.47894154010903434,
+        "height": 0.5254413291796469
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5420986662772586,
+        "top": 0.34890965732087226,
+        "width": 0.21052375389408096,
+        "height": 0.5275181723779854
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8a6cf8344f4f4b46cc54"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda68ff5ff8931d16d8bd4"
+      }
+    ],
+    "action": "resize",
+    "reason": "Три особи размечены раздельно. У правой бабочки усик выступает вправо за рамку; остальные рамки сохранены, скрытые части задней особи не достраиваются.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.31052253699376947,
+        "top": 0.2824506749740395,
+        "width": 0.15613845080477676,
+        "height": 0.32606438213914846
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.15438408618899271,
+        "top": 0.3634475597092419,
+        "width": 0.47894154010903434,
+        "height": 0.5254413291796469
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.542,
+        "top": 0.3479289940828402,
+        "width": 0.237,
+        "height": 0.5301775147928994
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "8a243547d68fc91ea1ba7a6ad4ce86eeb410bef51d487b9058592de7b19038f1",
+    "checked_utc": "2026-11-18T14:27:07.916890+00:00",
+    "final_gold": false,
+    "content_hash": "2f9ee11b39560d4351dc991254498789b30884bff3c9f5952fc8206b571187e7"
+  },
+  {
+    "photo_id": "142504083",
+    "candidate_id": "bbox-eabbe59685defbe53027a6f4c24d3eb6",
+    "source_revision": 1,
+    "source_candidate_hash": "4549a473d476af6480e0b811957c5f4d51c45d8a1e4139df45fce9dab885fec7",
+    "source_assignment_id": "000068d072--6afcfca21fe8560b8a99e177",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.41249878309968846,
+        "top": 0.1142263759086189,
+        "width": 0.40973033489096566,
+        "height": 0.6438213914849429
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7ec86fd8607c6c764d5f"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd901af5ff8931d1694827"
+      }
+    ],
+    "action": "resize",
+    "reason": "Левый усик выходит за прежнюю границу. Расширена только рамка объекта, без включения тени и всего цветка.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.395,
+        "top": 0.11394302848575712,
+        "width": 0.429,
+        "height": 0.6461769115442278
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "5a7f3a1eab9dbcc10bb6fb6c39c5f4b172beba1118a8df1bc717939120097f3b",
+    "checked_utc": "2026-11-18T14:27:08.237424+00:00",
+    "final_gold": false,
+    "content_hash": "c1565221ae11d1927d1e8c595a9c482796ddbbe9c81249baf44d27ce73da0d82"
+  },
+  {
+    "photo_id": "146032684",
+    "candidate_id": "bbox-448e917ce63ec59dcb284aa4041eb32e",
+    "source_revision": 1,
+    "source_candidate_hash": "cb8b482c3d1a0fd711a88ae51407d3a6420a413dd5a608b0c6ad4905f2c49bf6",
+    "source_assignment_id": "000068d072--6afcf75c1fe8560b8a998548",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.20400108680683496,
+        "top": 0.22637590861889928,
+        "width": 0.5933161379649171,
+        "height": 0.5898234683281411
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7ec86fd8607c6c764d5f"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd901af5ff8931d1694827"
+      }
+    ],
+    "action": "resize",
+    "reason": "Концы двух тонких усиков немного выходят за левую границу. Добавлены видимые кончики; рамка не расширяется на фоновые лепестки.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.197,
+        "top": 0.22533333333333333,
+        "width": 0.601,
+        "height": 0.592
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "9bab62cffea81c0c8bcf2f19c299096c8a9babd581691468250da01a3ae5ae58",
+    "checked_utc": "2026-11-18T14:27:08.468160+00:00",
+    "final_gold": false,
+    "content_hash": "5cbc21f33952cafc0e0ef3b4c7fa6ff291bd7fa00aecc3638aa7c67f990e1a6e"
+  },
+  {
+    "photo_id": "147196977",
+    "candidate_id": "bbox-a09bf444c66bc920dddc7bd9b0ac9ae6",
+    "source_revision": 1,
+    "source_candidate_hash": "39c38b6535e344d7080caf25dfb0bd0345603c5dee4cef605702ea7cc8e79850",
+    "source_assignment_id": "000068d072--6afcf7e6d5d23603d6787e41",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4799167556342543,
+        "top": 0.2663479846459079,
+        "width": 0.15671266400341943,
+        "height": 0.32435000891092325
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8bc4f8344f4f4b4709be"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9a97743be06b822b4987"
+      }
+    ],
+    "action": "split",
+    "reason": "Два взрослых мотылька соединены концами брюшек; видны две головы и две пары усиков. Общая рамка заменена двумя по видимым частям.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4850863422291994,
+        "top": 0.2647058823529412,
+        "width": 0.14913657770800628,
+        "height": 0.20823529411764705
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4945054945054945,
+        "top": 0.4294117647058823,
+        "width": 0.14285714285714285,
+        "height": 0.15764705882352942
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "8c4681bdff793e57d868ef43880d6b243584acd8d6e451cb8f975f1256fa194a",
+    "checked_utc": "2026-11-18T14:27:08.619624+00:00",
+    "final_gold": false,
+    "content_hash": "4bb6db1a6694bf1306e362cf46472b0597e637c16c254bf5a77329e9c2f216e1"
+  },
+  {
+    "photo_id": "148921445",
+    "candidate_id": "bbox-979a40c84cc88b0f2bca6558bc38187d",
+    "source_revision": 1,
+    "source_candidate_hash": "1e82760323e38b6e2b411c5fefdbad506519f55b732e78d8f2ba7d544389ed3f",
+    "source_assignment_id": "000068d072--6afd02453537ac5dbb42ce38",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8e18e0a9eb7937d6abe5"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9c7c743be06b822b971f"
+      }
+    ],
+    "action": "keep",
+    "reason": "Виден ручейник с длинными кольчатыми усиками и прозрачными жилкованными крыльями. Пустой ответ соответствует инструкции.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "7b5983aba55ce221a723dd83cd909fa143d4d8cef5c691437742c59e0e6a579d",
+    "checked_utc": "2026-11-18T14:27:08.768815+00:00",
+    "final_gold": false,
+    "content_hash": "9ee78c31556bf8b818a5e0d3d57d03cb60d0d3ff1ab87f0a3710b89a614b12ba"
+  },
+  {
+    "photo_id": "162747182",
+    "candidate_id": "bbox-ea7033751894aa7ef5e9310a834e2044",
+    "source_revision": 1,
+    "source_candidate_hash": "08c8fa8a96fb572e1df57484c08c6b61cc1f210f858622f028436ee0c73bc8c1",
+    "source_assignment_id": "000068d072--6afcfee0409e22184efcff2d",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.037383177570093455,
+        "top": 0.19106957424714432,
+        "width": 0.6121495327102804,
+        "height": 0.5628245067497404
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8d44fd79e27cb3033e56"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda70a034bf371776a44e0"
+      }
+    ],
+    "action": "resize",
+    "reason": "Верхняя граница немного расширена до конца правого усика. Все крылья и хвостики уже были включены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.036,
+        "top": 0.18266666666666667,
+        "width": 0.614,
+        "height": 0.5746666666666667
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "13b2594f05ca85c0a40ce424ac52e9696c0f5bad31384e0d0e84db9027eeab36",
+    "checked_utc": "2026-11-18T14:27:08.906228+00:00",
+    "final_gold": false,
+    "content_hash": "4088806d4ac83958822a7e831b3d981b5d091d0948ec58541bf54609b30821a1"
+  },
+  {
+    "photo_id": "179069693",
+    "candidate_id": "bbox-3353fda373d0f04450b1b2a401bb74f7",
+    "source_revision": 1,
+    "source_candidate_hash": "e0397c737e8cfd74c28276bdcd30a4ce5422d87de7fce4695e2417e90ba464e6",
+    "source_assignment_id": "000068d072--6afcf58cb0dc860f415745e2",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1896387022975078,
+        "top": 0.029075804776739354,
+        "width": 0.6325904156931463,
+        "height": 0.7601246105919003
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8aa0034bf3717764d070"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd93d7fd79e27cb3047ff2"
+      }
+    ],
+    "action": "resize",
+    "reason": "Длинный правый усик продолжается немного выше исходной рамки. Добавлен видимый кончик без достраивания скрытых частей.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.189,
+        "top": 0.014992503748125937,
+        "width": 0.635,
+        "height": 0.7766116941529235
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "4a553694ae61ee854e2cd7f608ab969b06e51fe8cee5287508849d835a62da0b",
+    "checked_utc": "2026-11-18T14:27:09.080381+00:00",
+    "final_gold": false,
+    "content_hash": "966f9cced9feddfc8a4d7ddea88c143900032796d2f1c2755848c6c7301c2074"
+  },
+  {
+    "photo_id": "182513736",
+    "candidate_id": "bbox-110986d05c1049db2fb1c9fac7769328",
+    "source_revision": 1,
+    "source_candidate_hash": "cd9ae9a39b390a3448d85a1e755b3b465c1a7b511d1f3d27b712fa8f44df1d3a",
+    "source_assignment_id": "000068d072--6afcff21ee5596557a6a1830",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.022466007917964693,
+        "top": 0.04361370716510903,
+        "width": 0.4150299357476635,
+        "height": 0.7975077881619937
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.49188733125649015,
+        "top": 0.12668743509865005,
+        "width": 0.5037115459501558,
+        "height": 0.8265835929387331
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8aa0034bf3717764d070"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd93d7fd79e27cb3047ff2"
+      }
+    ],
+    "action": "keep",
+    "reason": "Обе особи выделены отдельно, усики и лапки помещаются в рамках с точностью до края линии. Существенного дефекта после увеличения нет.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.022466007917964693,
+        "top": 0.04361370716510903,
+        "width": 0.4150299357476635,
+        "height": 0.7975077881619937
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.49188733125649015,
+        "top": 0.12668743509865005,
+        "width": 0.5037115459501558,
+        "height": 0.8265835929387331
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "eb57dff682de60040886e3b7d44b7ffa04b8ae14be3ceb23772ae2f1693317a4",
+    "checked_utc": "2026-11-18T14:27:09.251968+00:00",
+    "final_gold": false,
+    "content_hash": "12eb776296ebe2aeb8fd0ab57f17aad9fb56c0dcdb27bfe41bf31def657d6ea2"
+  },
+  {
+    "photo_id": "215769389",
+    "candidate_id": "bbox-857eafa2a03774a08bdbcb289c5e17df",
+    "source_revision": 1,
+    "source_candidate_hash": "64c31bd6cf4c3cdf7f96a4f8745d43ef078b10a7353f625c73848c0b6b061425",
+    "source_assignment_id": "000068d072--6afcf5ef55eb9f701dc24c8a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2243206473243005,
+        "top": 0.2949117341640706,
+        "width": 0.4740797185719753,
+        "height": 0.47975077881619926
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7e8e05a3672b203c5244"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd96a9c203f934144e00f0"
+      }
+    ],
+    "action": "resize",
+    "reason": "Тонкая нижняя лапка продолжается ниже исходной рамки. Нижняя граница расширена до кончика.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.22280471821756226,
+        "top": 0.29294117647058826,
+        "width": 0.47706422018348627,
+        "height": 0.5105882352941177
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "7ebdd93ebccfde80c219ab38e3f0cf701e2e2b4c9a47cccfc1c6fb308fca9bf4",
+    "checked_utc": "2026-11-18T14:27:09.441660+00:00",
+    "final_gold": false,
+    "content_hash": "b0afd2a29e8345db6fe1d0999dea0f4705e5839bd64190482a2c5bb448b98646"
+  },
+  {
+    "photo_id": "217235849",
+    "candidate_id": "bbox-44183a27a5bf036c07a6d237695db960",
+    "source_revision": 1,
+    "source_candidate_hash": "68c80fb9568f1f2adadbee9378ac122f18a46b8108542db0e89abb476cb780ee",
+    "source_assignment_id": "000068d072--6afcfd99ed421b4afbfc401e",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21506548468283612,
+        "top": 0.1723779854620976,
+        "width": 0.5588026268682237,
+        "height": 0.7185877466251298
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7e8e05a3672b203c5244"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd96a9c203f934144e00f0"
+      }
+    ],
+    "action": "keep",
+    "reason": "Оба усика заканчиваются внутри рамки. Чёрный фрагмент левее и ниже принадлежит растению, расширение на него не нужно.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21506548468283612,
+        "top": 0.1723779854620976,
+        "width": 0.5588026268682237,
+        "height": 0.7185877466251298
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "50b623e75ad3bdb3706aedd779afa21a25dd7dd78ea9d10ac887b9ea98931373",
+    "checked_utc": "2026-11-18T14:27:09.538846+00:00",
+    "final_gold": false,
+    "content_hash": "b86c6de3042c4f530a67665536a23cd353ae18398ad2c78a08c95527ce19be36"
+  },
+  {
+    "photo_id": "221866334",
+    "candidate_id": "bbox-55558e9259fe8c4d60cbee8c52a21bda",
+    "source_revision": 1,
+    "source_candidate_hash": "130c61f0867ca8f0afa19f1c41dcb8a43a9436546c873b9acce97aa414e91810",
+    "source_assignment_id": "000068d072--6afcf8c055eb9f701dc281eb",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.5253896109164071,
+        "top": 0.2533748701973001,
+        "width": 0.23011787707684317,
+        "height": 0.3800623052959502
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8860dbc6782d1476e535"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd94acf7cf255f9805a495"
+      }
+    ],
+    "action": "resize",
+    "reason": "Левый усик выступает за рамку; края крыльев уже внутри. Добавлен видимый усик.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.491,
+        "top": 0.2518740629685157,
+        "width": 0.265,
+        "height": 0.383808095952024
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "f1f6666065bfe01f4172340b38a5902b13076093d6ab764f1a332020ce947912",
+    "checked_utc": "2026-11-18T14:27:09.654277+00:00",
+    "final_gold": false,
+    "content_hash": "d9eaf7959acc94607671cda9e8e87c6fa60cd14086252fb7091872ea37d44fdb"
+  },
+  {
+    "photo_id": "222768842",
+    "candidate_id": "bbox-8f401b483c90db17ebaf488e80631b03",
+    "source_revision": 1,
+    "source_candidate_hash": "7c1de0a6143914d46c71eae2419b39d2ddb09d59c7336cb7484575dca929f843",
+    "source_assignment_id": "000068d072--6afcfe0bee5596557a6a052f",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1655501606308411,
+        "top": 0.1142263759086189,
+        "width": 0.4799282434449636,
+        "height": 0.7185877466251298
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8a0d034bf3717764bb4d"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda6ea16a8b15904801cc3"
+      }
+    ],
+    "action": "resize",
+    "reason": "Правые лапки выходят за исходную границу на лепестки цветка. Граница расширена до лапок, не до всего цветка.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.165,
+        "top": 0.11180124223602485,
+        "width": 0.503,
+        "height": 0.7217391304347827
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "0232f99dd8cfc4367b961d2545eee7d69ecf73093335ab2368671fe8a216802e",
+    "checked_utc": "2026-11-18T14:27:09.919874+00:00",
+    "final_gold": false,
+    "content_hash": "de72c0c83c36a6090d1d826c75cb3a2b33aa47335ff92166f106a449a07cf63d"
+  },
+  {
+    "photo_id": "227550419",
+    "candidate_id": "bbox-1333f317c84c369726eb17f24344b83f",
+    "source_revision": 1,
+    "source_candidate_hash": "f9cf44fbdc3966c385549864fd3ba813dbc5fa4cc95ac7ef52753c07a2f5941a",
+    "source_assignment_id": "000068d072--6afd0305ed421b4afbfc8b11",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.053984740070093455,
+        "top": 0.006230529595015576,
+        "width": 0.534310504283489,
+        "height": 0.9241952232606437
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.44572016160436134,
+        "top": 0.07476635514018691,
+        "width": 0.4747888677959501,
+        "height": 0.9241952232606436
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8895dbc6782d1476edb2"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9c20e0a9eb7937d8fbee"
+      }
+    ],
+    "action": "resize",
+    "reason": "Две отдельные особи. Верхние придатки левой обрезаны краем фото; её верхняя граница доведена до края. Вторая рамка сохранена.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.053,
+        "top": 0.0,
+        "width": 0.536,
+        "height": 0.9325337331334332
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.44572016160436134,
+        "top": 0.07476635514018691,
+        "width": 0.4747888677959501,
+        "height": 0.9241952232606437
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "e5e983be26f266056402556a42429ae2c2466ee63da10fbc0c89acdf16edd191",
+    "checked_utc": "2026-11-18T14:27:10.149746+00:00",
+    "final_gold": false,
+    "content_hash": "7a987da689e02bea7c9539fdff0092bc8661f81bb721aa0175ad1ad5743e2c54"
+  },
+  {
+    "photo_id": "230628953",
+    "candidate_id": "bbox-9ae4327e3dc562f7016acdb88f2525ba",
+    "source_revision": 1,
+    "source_candidate_hash": "d8fddaabc65cf8c994be5202d2d4da0e86614fb951d9a29ce5f8ae47f067bee7",
+    "source_assignment_id": "000068d072--6afcfec2ebb1521ae801f827",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3655244029075804,
+        "top": 0.3302180685358255,
+        "width": 0.3406022845275181,
+        "height": 0.3925233644859813
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9132f7cf255f9804fbf7"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda57ff5ff8931d16d5c96"
+      }
+    ],
+    "action": "keep",
+    "reason": "Концы усиков находятся у верхней границы, но не выступают за неё. Стебли и паутина не включаются в объект.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3655244029075804,
+        "top": 0.3302180685358255,
+        "width": 0.3406022845275181,
+        "height": 0.3925233644859813
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "ef243491dca34b4fc78eef50e89a5b4e192b3112b03de482cd23dc146697b822",
+    "checked_utc": "2026-11-18T14:27:10.285468+00:00",
+    "final_gold": false,
+    "content_hash": "ad50651c30c12cc695ef95c284619fe9250bb0b3a0fac27ee9710b2196fdc382"
+  },
+  {
+    "photo_id": "235358656",
+    "candidate_id": "bbox-4666b870c4ba6e827209a4023f2cbd6e",
+    "source_revision": 1,
+    "source_candidate_hash": "36ac5923427b304df0d9d34ff0f9f90583aa8084ef650115c6bee61c2745040a",
+    "source_assignment_id": "000068d072--6afcfe4d409e22184efcf692",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1383341851635514,
+        "top": 0.05815160955347871,
+        "width": 0.6034578222352025,
+        "height": 0.6749740394600207
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd827005a3672b203d09c6"
+      },
+      {
+        "worker_id": "worker_006",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd82e455eb9f701dd6f826"
+      }
+    ],
+    "action": "keep",
+    "reason": "Правый усик заканчивается у самой правой границы; остальные части внутри. Первоначальное подозрение на обрезание не подтвердилось.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1383341851635514,
+        "top": 0.05815160955347871,
+        "width": 0.6034578222352025,
+        "height": 0.6749740394600207
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "136d288f5e4172fe8d774bb4596219dccfeca7d5040b63c75b476f5fc8371810",
+    "checked_utc": "2026-11-18T14:27:10.354479+00:00",
+    "final_gold": false,
+    "content_hash": "fbc7afd03f0c46de85cab0d01bf69c7601f574e483c69928f1a547c6efc05e0a"
+  },
+  {
+    "photo_id": "239832403",
+    "candidate_id": "bbox-dec0fba12303d9933171e84618c7734c",
+    "source_revision": 1,
+    "source_candidate_hash": "d6da1b17ea68ee08c792addf21844cff86edd40ba4129a7afa4823974a7b0b30",
+    "source_assignment_id": "000068d072--6afcfd99ed421b4afbfc401e",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1328855140186916,
+        "top": 0.07892004153686397,
+        "width": 0.7364072235202492,
+        "height": 0.9158878504672897
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8ec3e0a9eb7937d6cb6b"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda856743be06b822dee2e"
+      }
+    ],
+    "action": "keep",
+    "reason": "Верхний усик заканчивается у рамки, нижние усики и лапки также включены. Продолжение на фоне не является видимой частью объекта.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1328855140186916,
+        "top": 0.07892004153686397,
+        "width": 0.7364072235202492,
+        "height": 0.9158878504672897
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "2c84dc7283283ca0028375d61df4dcfd8b0b697236c27cd948c39e58062758aa",
+    "checked_utc": "2026-11-18T14:27:10.436611+00:00",
+    "final_gold": false,
+    "content_hash": "8b5380addf8a004b179c31f5bb404279098b0c5c9a034649bf34e3465bf94a4b"
+  },
+  {
+    "photo_id": "247255731",
+    "candidate_id": "bbox-7dc8ec475d2f1f6f03fd4aca1ff1f5f3",
+    "source_revision": 1,
+    "source_candidate_hash": "e34f09b5c32fe5cc72ff0a5d7960033fc41f364c8b4155ee7f69e412e28500ed",
+    "source_assignment_id": "000068d072--6afcfe4d409e22184efcf692",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8c27743be06b8228bcd8"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9641f8344f4f4b48ffd8"
+      }
+    ],
+    "action": "keep",
+    "reason": "Жёлтые пятна сами по себе не делают насекомое мотыльком. Виден ручейник с длинными кольчатыми усиками и шиповатыми ногами; исходный отрицательный ответ сохранён.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "b56f2cf57e1741d7d4e51c8d31665bb6653f66b5e7c8e5c29469229a51d59f2e",
+    "checked_utc": "2026-11-18T14:27:10.557550+00:00",
+    "final_gold": false,
+    "content_hash": "cbc06637fa6d0519821ec0f359cb3203283a14f41d393245e298d4bfd59b5335"
+  },
+  {
+    "photo_id": "248510905",
+    "candidate_id": "bbox-bc8136933b64d14126f7d2b48fbb1c26",
+    "source_revision": 1,
+    "source_candidate_hash": "d677064d50775e202b0d58fa3f71a49659691782e11e6a4d07b948472b4d3f7a",
+    "source_assignment_id": "000068d072--6afd0305ed421b4afbfc8b11",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24223921826323985,
+        "top": 0.07892004153686397,
+        "width": 0.46648352316978187,
+        "height": 0.7912772585669782
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8c27743be06b8228bcd8"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9641f8344f4f4b48ffd8"
+      }
+    ],
+    "action": "keep",
+    "reason": "Левая лапка достигает границы рамки, но не обрезана; оба длинных усика включены. Тень крыла снизу не размечается.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24223921826323985,
+        "top": 0.07892004153686397,
+        "width": 0.46648352316978187,
+        "height": 0.7912772585669782
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "3e4112c98f1b171e60801a10e87551de8e786ba8c9077845e1dd0993e37d1412",
+    "checked_utc": "2026-11-18T14:27:10.679061+00:00",
+    "final_gold": false,
+    "content_hash": "d87d890f38d5d5e4644eefc47fd19828d5b37b4a12473d06e2fd2ff9072d8551"
+  },
+  {
+    "photo_id": "252949448",
+    "candidate_id": "bbox-37752bb32805f30f5e9370b3a067fc87",
+    "source_revision": 1,
+    "source_candidate_hash": "6b4fcc31087f4d1c0703704f22cdd5eacf615841e5a396e0f4169c09bb9e34c5",
+    "source_assignment_id": "000068d072--6afd14551fe8560b8a9baa8c",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4380245853208149,
+        "top": 0.22749530309428412,
+        "width": 0.18626865378596458,
+        "height": 0.27002815191661317
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_006",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8312d5d23603d68b5e20"
+      },
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd84ffb0dc860f416bc525"
+      }
+    ],
+    "action": "keep",
+    "reason": "На увеличении левый усик заканчивается у левой границы. Существенного пропуска видимых частей не обнаружено.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4380245853208149,
+        "top": 0.22749530309428412,
+        "width": 0.18626865378596458,
+        "height": 0.27002815191661317
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "5a23583220326d3491ccce9c8683301eb280a31816fa1af535625af34ee2ce47",
+    "checked_utc": "2026-11-18T14:27:10.801768+00:00",
+    "final_gold": false,
+    "content_hash": "aa920ec15adb03ed6d2ee5d37812c287f278a79ce6604ddee40d9a9de0e6c843"
+  },
+  {
+    "photo_id": "261700042",
+    "candidate_id": "bbox-a0046393b6c182526fb854f3feba5f40",
+    "source_revision": 1,
+    "source_candidate_hash": "febf83678b5877f47cb31697e7370712d9aa3954105a897ea51e16f802c7f122",
+    "source_assignment_id": "000068d072--6afcff21ee5596557a6a1830",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10389286409657321,
+        "top": 0.10799584631360332,
+        "width": 0.7771186234423676,
+        "height": 0.7372793354101765
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8675c203f934144aef4f"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda653f8344f4f4b4bca5b"
+      }
+    ],
+    "action": "keep",
+    "reason": "Гребенчатые усики полностью входят в рамку; верхняя бахрома касается границы, но не обрезана.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.10389286409657321,
+        "top": 0.10799584631360332,
+        "width": 0.7771186234423676,
+        "height": 0.7372793354101765
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "60f4d4d7d9ce63d6d43951fb74cbb2f57ac4827fe396562b9ef636ce43f3f6af",
+    "checked_utc": "2026-11-18T14:27:10.936852+00:00",
+    "final_gold": false,
+    "content_hash": "d4aba531d247b9074cf6a7dfebe4a856b6e6047fb95f18f48b3d60914c798586"
+  },
+  {
+    "photo_id": "268088502",
+    "candidate_id": "bbox-d902d65abbe1873ecfbbd5e5977db5cc",
+    "source_revision": 1,
+    "source_candidate_hash": "0115858d7791d2c4f0b87e26bce556d66f4d8e6f522804daffd0fbdb7b2aad5c",
+    "source_assignment_id": "000068d072--6afcf9356fd8607c6c63ca99",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.29921151993571626,
+        "top": 0.24091381100726894,
+        "width": 0.3573915377009944,
+        "height": 0.38213914849428865
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8675c203f934144aef4f"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda653f8344f4f4b4bca5b"
+      }
+    ],
+    "action": "resize",
+    "reason": "Длинная тонкая задняя лапка видна справа снизу за пределами крыла. Также добавлен верхний тонкий кончик. Рамка расширена по этим частям.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.29764705882352943,
+        "top": 0.2164705882352941,
+        "width": 0.42823529411764705,
+        "height": 0.5035294117647059
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "92a859667e29ca4099e90b176ae77ecb7370e9932e916faee4b0e6d9eaf410e9",
+    "checked_utc": "2026-11-18T14:27:11.040287+00:00",
+    "final_gold": false,
+    "content_hash": "6fd4a4b4ffead6a0761d5e648769c61b6bc913080a8769786e915a9c017def6c"
+  },
+  {
+    "photo_id": "269263543",
+    "candidate_id": "bbox-fe9ee1c1b652a627cd66994ea292fd12",
+    "source_revision": 1,
+    "source_candidate_hash": "8bb4ead418523ee4d97b4d41e83fd2c9157bab2b2b02f14764ef78980abee964",
+    "source_assignment_id": "000068d072--6afcfa2ced421b4afbfc0c6c",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4188449182242991,
+        "top": 0.328141225337487,
+        "width": 0.48034198955088264,
+        "height": 0.604361370716511
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9312f5ff8931d169de1a"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda540fd79e27cb307bb52"
+      }
+    ],
+    "action": "resize",
+    "reason": "Хвостик крыла уже внутри. При увеличении обнаружена тонкая лапка от нижней части груди влево к цветку, выступающая за левую границу.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.337,
+        "top": 0.3275,
+        "width": 0.563,
+        "height": 0.6075
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "24f7220db02b203b223e7c91db88d2abcad79791c17f0bf9259348877ee56382",
+    "checked_utc": "2026-11-18T14:27:11.149110+00:00",
+    "final_gold": false,
+    "content_hash": "8c4ae831e3fdcd40a01b4bb299be615148ef7994f330f3de1a0f7cec6efd0edf"
+  },
+  {
+    "photo_id": "282895051",
+    "candidate_id": "bbox-fe6e223a60e04f327049a617b31081cf",
+    "source_revision": 1,
+    "source_candidate_hash": "58f3bee2b5dad4ff14bb0399d837699b6b2b587d426ee2a8d4715b88839aa79d",
+    "source_assignment_id": "000068d072--6afd003505a3672b2029a889",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.23339742341640704,
+        "top": 0.13499480789200416,
+        "width": 0.5412529205607477,
+        "height": 0.600207684319834
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9312f5ff8931d169de1a"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda540fd79e27cb307bb52"
+      }
+    ],
+    "action": "resize",
+    "reason": "На тёмном фоне видна передняя конечность, направленная влево вниз от головы. Добавлена её видимая часть; тень и фон не размечаются.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.155,
+        "top": 0.13497822931785197,
+        "width": 0.623,
+        "height": 0.5979680696661829
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d101c1a10a5f5891cb43543e50ea2d0c58bda957628e6a5583c5cf32a54df718",
+    "checked_utc": "2026-11-18T14:27:11.264776+00:00",
+    "final_gold": false,
+    "content_hash": "d28147b586ed250d10392a920be31a8629c4ec7acfb8c1f788ab6b54daa73130"
+  },
+  {
+    "photo_id": "305485065",
+    "candidate_id": "bbox-70063dc09bfed27a11eff3b27d16ca68",
+    "source_revision": 1,
+    "source_candidate_hash": "71c23418de96f872a7ed224f9e47a917cb9021d0356cc270338e891642a056f7",
+    "source_assignment_id": "000068d072--6afcf8c055eb9f701dc281eb",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.045171339563862926,
+        "top": 0.2803738317757009,
+        "width": 0.5576323987538941,
+        "height": 0.64797507788162
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.35358255451713394,
+        "top": 0.018691588785046728,
+        "width": 0.46261682242990654,
+        "height": 0.44029075804776735
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5529595015576324,
+        "top": 0.32398753894080995,
+        "width": 0.3769470404984424,
+        "height": 0.4735202492211838
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8f0df7cf255f980499f4"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda8efdbc6782d147d8ff1"
+      }
+    ],
+    "action": "keep",
+    "reason": "Три самостоятельные бабочки уже выделены. На увеличении видимые усики и границы принадлежат соответствующим рамкам; оснований объединять или добавлять объект нет.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.045171339563862926,
+        "top": 0.2803738317757009,
+        "width": 0.5576323987538941,
+        "height": 0.64797507788162
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.35358255451713394,
+        "top": 0.018691588785046728,
+        "width": 0.46261682242990654,
+        "height": 0.44029075804776735
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5529595015576324,
+        "top": 0.32398753894080995,
+        "width": 0.3769470404984424,
+        "height": 0.4735202492211838
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "eea49c2914b4c22d4e249dc6a8bff13bac9544b8b1856d46b09f9dd96a9a9b71",
+    "checked_utc": "2026-11-18T14:27:11.364926+00:00",
+    "final_gold": false,
+    "content_hash": "c8cedd25fd47e6672ddbb7c6332040685ef7c32378487c68bd194a2608ff1e19"
+  },
+  {
+    "photo_id": "314614426",
+    "candidate_id": "bbox-ad2652147d0c4d644a0e479051300b49",
+    "source_revision": 1,
+    "source_candidate_hash": "88381afa0506e2b331741d2543dc5e7ed8d5ab93724a28ab580fd00385528ef1",
+    "source_assignment_id": "000068d072--6afcf95e55eb9f701dc28c02",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.19003115264797507,
+        "top": 0.08307372793354102,
+        "width": 0.5109034267912772,
+        "height": 0.6375908618899273
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd803c6fd8607c6c768f9f"
+      },
+      {
+        "worker_id": "worker_006",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd83b105a3672b203d4f3d"
+      }
+    ],
+    "action": "keep",
+    "reason": "Белые части ниже рамки относятся к цветку, а не к бабочке. Видимые крылья, голова и усики внутри рамки.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.19003115264797507,
+        "top": 0.08307372793354102,
+        "width": 0.5109034267912772,
+        "height": 0.6375908618899273
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "7e39d58b06c97d31e6c42e0128a0c5110b333bebda41d3dee106e02e7b48a26b",
+    "checked_utc": "2026-11-18T14:27:11.492696+00:00",
+    "final_gold": false,
+    "content_hash": "dbfa3ef94ed98a2c269367d62429356355b132992d1f7a4b3235c705848dfb4e"
+  },
+  {
+    "photo_id": "327700215",
+    "candidate_id": "bbox-2a694ed20b04892d3f0177703c170a2b",
+    "source_revision": 1,
+    "source_candidate_hash": "1a6eb8a16b138a2ea715becec0d174a2369d2264ab0d8a5828616e74717a4104",
+    "source_assignment_id": "000068d072--6afcf872ebb1521ae8018417",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.25413746105919,
+        "top": 0.16199376947040497,
+        "width": 0.3881121008566978,
+        "height": 0.6936656282450674
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd87a3c203f934144b1dbd"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd965001316737e2a68cf9"
+      }
+    ],
+    "action": "keep",
+    "reason": "Левый усик заканчивается у границы рамки. Обе части крыльев и хвостики включены, явного обрезания нет.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.25413746105919,
+        "top": 0.16199376947040497,
+        "width": 0.3881121008566978,
+        "height": 0.6936656282450674
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "1c33698cf59b59b6bfa89b8997094c27a2d870870114457194d6410c104ada68",
+    "checked_utc": "2026-11-18T14:27:11.637729+00:00",
+    "final_gold": false,
+    "content_hash": "a726c672439aae020a3d6dee2e8a4734ac311680c913636a277599661a12293c"
+  },
+  {
+    "photo_id": "336529250",
+    "candidate_id": "bbox-a1c85a4a35a7e520f2b1c0f8a2d3c2f1",
+    "source_revision": 1,
+    "source_candidate_hash": "d4a953aedfc06676c9c5983cb7363c8a3c53244461b73f4e8a5a14e9e1e0ce7f",
+    "source_assignment_id": "000068d072--6afcfcd2409e22184efcde9a",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8dcbe0a9eb7937d6a07b"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd99a5c203f934144e7033"
+      }
+    ],
+    "action": "keep",
+    "reason": "Это рисунок бабочки. Инструкция прямо исключает рисунки, поэтому пустой ответ верен независимо от исходной категории датасета.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "3708441c1e08b2e58dfdf4f23242e7be5df90582310b22bd432afc55cb559010",
+    "checked_utc": "2026-11-18T14:27:11.749143+00:00",
+    "final_gold": false,
+    "content_hash": "17b6d9a476387e5c3992c5bc6fc85df5aad4336eddeda323270a02d44a884f38"
+  },
+  {
+    "photo_id": "337560059",
+    "candidate_id": "bbox-862a17dddafba297e34367f2643433c0",
+    "source_revision": 1,
+    "source_candidate_hash": "c593ebeb98011fdf8424754a458a31b1b35931885d719ddadf4a2013b3abda47",
+    "source_assignment_id": "000068d072--6afcf95e55eb9f701dc28c02",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2695005041612112,
+        "top": 0.1806853582554517,
+        "width": 0.553512573931103,
+        "height": 0.6064382139148495
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8dcbe0a9eb7937d6a07b"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd99a5c203f934144e7033"
+      }
+    ],
+    "action": "keep",
+    "reason": "Усик справа заканчивается на границе, видимые лапки и оба крыла внутри. Существенного обрезания не найдено.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2695005041612112,
+        "top": 0.1806853582554517,
+        "width": 0.553512573931103,
+        "height": 0.6064382139148495
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "107127d95f46888b5448dc2843469ffbff694f52a802c9928e6b5a0903bcae90",
+    "checked_utc": "2026-11-18T14:27:11.778395+00:00",
+    "final_gold": false,
+    "content_hash": "1db4ba20c1ad5d3050632ef2d96577d56f9ec59d4eec7c5834ecdd94bef02872"
+  },
+  {
+    "photo_id": "340504805",
+    "candidate_id": "bbox-773eb7793488a01b870f0083ea99c127",
+    "source_revision": 1,
+    "source_candidate_hash": "2a35b59b0882d7e9fa1ee2907fcdec10c125a8e02697abb2e6b0472c334b4bd7",
+    "source_assignment_id": "000068d072--6afcfd586fd8607c6c641a10",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.03302309681830202,
+        "top": 0.07476635514018691,
+        "width": 0.9048328528214753,
+        "height": 0.8847352024922118
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7ceafe68256bfdd57758"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd96c0f5ff8931d16a8711"
+      }
+    ],
+    "action": "keep",
+    "reason": "Длинный правый усик полностью включён до края рамки. Изменение не требуется.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.03302309681830202,
+        "top": 0.07476635514018691,
+        "width": 0.9048328528214753,
+        "height": 0.8847352024922118
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "07bb7882a5767e7b8738a7aa0355d6b788ee2d6b8dad25305579b4abbeea278a",
+    "checked_utc": "2026-11-18T14:27:11.828775+00:00",
+    "final_gold": false,
+    "content_hash": "9089b0729e3e7cbe0bdb4542e41a966f62dad73b4be274d0837bed21ba6d1529"
+  },
+  {
+    "photo_id": "357852705",
+    "candidate_id": "bbox-7aae7653c82a4a013492a0807e4070f4",
+    "source_revision": 1,
+    "source_candidate_hash": "c60ba191e99fc652da7f151809d7034f902914b4f9f68d225ed97783fd4c6c95",
+    "source_assignment_id": "000068d072--6afcf56d3537ac5dbb420345",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8f56034bf3717765fdcd"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda457c203f9341450424b"
+      }
+    ],
+    "action": "keep",
+    "reason": "Схематический рисунок, а не фотография взрослой бабочки. Пустой ответ соответствует инструкции.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "28bb6346c1bee5ab3914734f5644cc653588d216b0a12d5f6842e2b8b2232b4b",
+    "checked_utc": "2026-11-18T14:27:11.901208+00:00",
+    "final_gold": false,
+    "content_hash": "7c768d1dcdd3619d88fcd9110b66cc90918320c8decbc9dba1b2135a5509f384"
+  },
+  {
+    "photo_id": "410243686",
+    "candidate_id": "bbox-73b92b48916b6dc87dfd4e457d3ab7ff",
+    "source_revision": 1,
+    "source_candidate_hash": "75711eabfecc4a6a1cc11f4358dc74b6735f507a44af741a87b21a47bca5be92",
+    "source_assignment_id": "000068d072--6afcfa7dfe68256bfdc3ff28",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.20093457943925233,
+        "top": 0.4340602284527518,
+        "width": 0.44859813084112155,
+        "height": 0.3219106957424714
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7f43d5d23603d68aa2c2"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd90c116a8b159047c2b0c"
+      }
+    ],
+    "action": "keep",
+    "reason": "Усики заканчиваются внутри рамки; выступающий над ней светлый участок является растением. Хвостики и нижняя лапка включены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.20093457943925233,
+        "top": 0.4340602284527518,
+        "width": 0.44859813084112155,
+        "height": 0.3219106957424714
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "f2cd1a74cc9c347aab304b099955070fa5f3a2c89fb8ebc1bb132c2067ff1b76",
+    "checked_utc": "2026-11-18T14:27:12.016197+00:00",
+    "final_gold": false,
+    "content_hash": "7301b6aa3b259b9bc8907189da962c025914a508bdd55794ed0be501fcab2be4"
+  },
+  {
+    "photo_id": "423583466",
+    "candidate_id": "bbox-c58927d314f9ece62691c1bacd256052",
+    "source_revision": 1,
+    "source_candidate_hash": "e6ff0066b39afa825912f11988098edb8b587d213157b8eff9433795809d9aa9",
+    "source_assignment_id": "000068d072--6afcf4e7b0dc860f41572061",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.39203150852647706,
+        "top": 0.2284527518172378,
+        "width": 0.3934167788746272,
+        "height": 0.5025960539979232
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd83d605a3672b203d54ba"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9550034bf37177670b27"
+      }
+    ],
+    "action": "keep",
+    "reason": "Хвостики крыла доходят до левой границы рамки и не обрезаны; остальная видимая часть также внутри.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.39203150852647706,
+        "top": 0.2284527518172378,
+        "width": 0.3934167788746272,
+        "height": 0.5025960539979232
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "6c564c38342b6bf53e62eac9da28f9adf3d9417249700cd9732032c6063b70e9",
+    "checked_utc": "2026-11-18T14:27:12.128898+00:00",
+    "final_gold": false,
+    "content_hash": "679e304170f3ded3be63e9a5a2a7e4f2391c77c144fade27ec234f7ed5054350"
+  },
+  {
+    "photo_id": "447238736",
+    "candidate_id": "bbox-56bc285dd0cfeccf6bf79066dd0c7967",
+    "source_revision": 1,
+    "source_candidate_hash": "e6d38d81fd901ed2fd6050eb23a727bfa8856ccfa2b75a6ea3b2e699fcb9a6ab",
+    "source_assignment_id": "000068d072--6afcfee0409e22184efcff2d",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.45482866043613707,
+        "top": 0.20976116303219106,
+        "width": 0.2912772585669782,
+        "height": 0.30114226375908615
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8a48f5ff8931d168247e"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd98ee16a8b159047daa33"
+      }
+    ],
+    "action": "keep",
+    "reason": "Левый усик и тонкие лапки включены. Первоначальное подозрение на обрезание не подтвердилось.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.45482866043613707,
+        "top": 0.20976116303219106,
+        "width": 0.2912772585669782,
+        "height": 0.30114226375908615
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "07239165696d6c0fd2bebfad1e059583ef5e1212e92570178e8ee350e381047f",
+    "checked_utc": "2026-11-18T14:27:12.239823+00:00",
+    "final_gold": false,
+    "content_hash": "cd9c6bce9abd3144edb4840f426b162e7895bb512ae46ac1730fb27dbdd1bc1c"
+  },
+  {
+    "photo_id": "45530370",
+    "candidate_id": "bbox-e3b57cc36d07574d37ca88d49b6b7a43",
+    "source_revision": 1,
+    "source_candidate_hash": "38801e327a389b8f86083ea9563445b5d2ace8aa0cda40f4e17e80c9df41f269",
+    "source_assignment_id": "000068d072--6afcf8031fe8560b8a999002",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21183800623052956,
+        "top": 0.04776739356178608,
+        "width": 0.6433021806853583,
+        "height": 0.6625129802699896
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd91d5c203f934144d26c2"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9696c203f934144dfe92"
+      }
+    ],
+    "action": "keep",
+    "reason": "Коричневые дуги слева принадлежат растению. Усики бабочки направлены вверх и находятся внутри рамки; расширять её на растение не нужно.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.21183800623052956,
+        "top": 0.04776739356178608,
+        "width": 0.6433021806853583,
+        "height": 0.6625129802699896
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "8e54c03f623dd0d39078872d0854c09888517ae2f61c1e6e131f9b25e319c1da",
+    "checked_utc": "2026-11-18T14:27:12.393917+00:00",
+    "final_gold": false,
+    "content_hash": "6255d9f3d2fe73058e8d9001d7617e84f616a874999110f637097478e8915c4c"
+  },
+  {
+    "photo_id": "458830342",
+    "candidate_id": "bbox-e6b1c1b26cd689682330983de33484d4",
+    "source_revision": 1,
+    "source_candidate_hash": "40952ef1ce0589c28016c322175a274714ffd198a2908ab7b25654a6a158744e",
+    "source_assignment_id": "000068d072--6afcf5ef55eb9f701dc24c8a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24933983158099687,
+        "top": 0.30944963655244023,
+        "width": 0.4480008356048805,
+        "height": 0.42159916926272073
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_006",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd83646fd8607c6c773e1f"
+      },
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd837105a3672b203d445d"
+      }
+    ],
+    "action": "keep",
+    "reason": "Кончик левого усика находится на границе рамки; нижние хвостики и лапки внутри.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.24933983158099687,
+        "top": 0.30944963655244023,
+        "width": 0.4480008356048805,
+        "height": 0.42159916926272073
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "befa6401837180e506d3752120ef5e2274800e47187925a10e786d6498703694",
+    "checked_utc": "2026-11-18T14:27:12.423474+00:00",
+    "final_gold": false,
+    "content_hash": "378c7ccc3c9fd94f28b0982a0e276bc0e5e991f000648c8431c231954b1c2b27"
+  },
+  {
+    "photo_id": "460008614",
+    "candidate_id": "bbox-64532a23013243577cbf78803f2e66fa",
+    "source_revision": 1,
+    "source_candidate_hash": "662be3d720e3361e9d8fe06eb4a45ed4415e6bdfed31a3ef77c76b8fbc7c50d9",
+    "source_assignment_id": "000068d072--6afcf5ef55eb9f701dc24c8a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.18562191718587748,
+        "top": 0.06438213914849429,
+        "width": 0.689848617601246,
+        "height": 0.8058151609553479
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_006",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd83646fd8607c6c773e1f"
+      },
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd837105a3672b203d445d"
+      }
+    ],
+    "action": "keep",
+    "reason": "Правые лапки доходят до края рамки, но видимая часть не обрезана. Верхние усики и хвостики также включены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.18562191718587748,
+        "top": 0.06438213914849429,
+        "width": 0.689848617601246,
+        "height": 0.8058151609553479
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "0621966a0f5867319af281bdb4f3958e199d8dee96343ec015e50dbf0f9e6a76",
+    "checked_utc": "2026-11-18T14:27:12.552218+00:00",
+    "final_gold": false,
+    "content_hash": "05b2272aa6ba916f1fc80fc2aa9e1f9677c7a93b78a95668a0455fefe1a93ef2"
+  },
+  {
+    "photo_id": "309952288",
+    "candidate_id": "bbox-111a2867f2e5e7e204fdb41eef0208ea",
+    "source_revision": 1,
+    "source_candidate_hash": "43c273028c0156d59480fd60d5763240ac996b74a79b091d7ea1e2fb4f2af533",
+    "source_assignment_id": "000068d072--6afd01463537ac5dbb42bcd1",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.19932827102803738,
+        "top": 0.17445482866043613,
+        "width": 0.631206191588785,
+        "height": 0.7123572170301142
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8974dbc6782d14773b29"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8fe9034bf371776615ff"
+      }
+    ],
+    "action": "resize",
+    "reason": "Две верхние лапки выступают над рамкой. Граница расширена до их кончиков, вертикальный стебель выше не включён.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.199,
+        "top": 0.11394302848575712,
+        "width": 0.632,
+        "height": 0.775112443778111
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "9fecb0fc907075eadd8952ddbfb102f0c8b8ef5aaecde3035116eb01a5e3951a",
+    "checked_utc": "2026-11-18T14:27:12.686940+00:00",
+    "final_gold": false,
+    "content_hash": "8a9b7234d2cd2f39c582b69aa345beff04d1054c484d94d92159aa9f8027e750"
+  },
+  {
+    "photo_id": "417960218",
+    "candidate_id": "bbox-d34b03b56b37b3e4bd18c1aacab56f93",
+    "source_revision": 1,
+    "source_candidate_hash": "42bcc3c881a18a408cb1be14abbc2606a2d0e55a1ed9db9893b66ace36b9a126",
+    "source_assignment_id": "000068d072--6afcf7e6d5d23603d6787e41",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4015265846161652,
+        "top": 0.14914213570254678,
+        "width": 0.3023712302359016,
+        "height": 0.638352178905154
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7d73ed421b4afb0e19e7"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9245fd79e27cb3043323"
+      }
+    ],
+    "action": "remove",
+    "reason": "На фото ручейник с длинными нитевидными усиками и узкими жилкованными крыльями. Ложноположительная рамка удалена.",
+    "boxes": [],
+    "status": "no_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d0525cc405a4d8c253819a4cb96fe3a209baa56613d21d09658adf04a909c29c",
+    "checked_utc": "2026-11-18T14:27:12.804596+00:00",
+    "final_gold": false,
+    "content_hash": "bd6af2f2795a6236f6117e57b6c7e8fc18b2111a6e0b6d7ff3ef063f1da201db"
+  },
+  {
+    "photo_id": "50219608",
+    "candidate_id": "bbox-6e0eb74f1d1f62c3ed4493c1858915d7",
+    "source_revision": 1,
+    "source_candidate_hash": "a005e34ef53d1d219e044df3265967285b40ff9c9cd7596e57ca73d70c15b917",
+    "source_assignment_id": "000068d072--6afcf831d5d23603d6788325",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.39178105529595014,
+        "top": 0.2866043613707165,
+        "width": 0.3320413908359294,
+        "height": 0.4589823468328141
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8e4fc203f934144c910e"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9bd5fd79e27cb3060579"
+      }
+    ],
+    "action": "resize",
+    "reason": "Тонкий тёмный усик у головы идёт влево за исходную рамку, под коричневым стеблем. Рамка расширена до видимого кончика, остальные границы сохранены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.337,
+        "top": 0.28400597907324365,
+        "width": 0.388,
+        "height": 0.4648729446935725
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "b7300872f3439b9bac5c77ccee9303fbb3ca01d19df88e0d561d90e5e89bea5d",
+    "checked_utc": "2026-11-18T14:27:12.839162+00:00",
+    "final_gold": false,
+    "content_hash": "97f0080d0351aa0dfa339cb564465391b797ec828bc6a50cc38a01749067c557"
+  },
+  {
+    "photo_id": "580352094",
+    "candidate_id": "bbox-508cae129402b4630cce09c16a7cb0ef",
+    "source_revision": 1,
+    "source_candidate_hash": "d2adc95f052a733bb5ac4b137393f765c385514bf8c84c72f65296504b04ca67",
+    "source_assignment_id": "000068d072--6afcfee0409e22184efcff2d",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3819748582326832,
+        "top": 0.32398753894080995,
+        "width": 0.19929123038226948,
+        "height": 0.24714434060228446
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd99cf01316737e2a71008"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda59dfd79e27cb307cef5"
+      }
+    ],
+    "action": "keep",
+    "reason": "Две тонкие антенны находятся у верхней границы, но существенного обрезания не обнаружено. Фоновые стебли отдельно не включаются.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3819748582326832,
+        "top": 0.32398753894080995,
+        "width": 0.19929123038226948,
+        "height": 0.24714434060228446
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d0094a8b3b940a1175099fd7b024837ef3ad85946060e7a3428cfc0eec2aec5a",
+    "checked_utc": "2026-11-18T14:27:12.960831+00:00",
+    "final_gold": false,
+    "content_hash": "543c657de3774405910c7b21294d03884be995fc2b992926045b9398da4d1b8f"
+  },
+  {
+    "photo_id": "586207460",
+    "candidate_id": "bbox-9644eadbb0705d28d9e37b3b48ac2fe1",
+    "source_revision": 1,
+    "source_candidate_hash": "45fe014b9365ce861e3f50dbc4e632f333d6060675728abbe7bbcbd872d4df0d",
+    "source_assignment_id": "000068d072--6afcf4e7b0dc860f41572061",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4347525095188647,
+        "top": 0.411214953271028,
+        "width": 0.11907234337140882,
+        "height": 0.10591900311526475
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd99cf01316737e2a71008"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda59dfd79e27cb307cef5"
+      }
+    ],
+    "action": "keep",
+    "reason": "На увеличении одна небольшая бабочка, видимая часть и различимые придатки внутри рамки. Дополнительных объектов не обнаружено.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4347525095188647,
+        "top": 0.411214953271028,
+        "width": 0.11907234337140882,
+        "height": 0.10591900311526475
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d3bf47abddace651a14ad6a91b6594e26d08d6ad10f593a1f48d7c1ed1fe6bc2",
+    "checked_utc": "2026-11-18T14:27:13.021201+00:00",
+    "final_gold": false,
+    "content_hash": "3cc3a7f0ab6b7976aa68f72ee9bb45ec3ec67b7e19510e0769ea807fd4ac380a"
+  },
+  {
+    "photo_id": "59063170",
+    "candidate_id": "bbox-97295e95a992b169b3d2d80f5846867a",
+    "source_revision": 1,
+    "source_candidate_hash": "6e6a6845fb4dfd2601964297ae982f2466caf71a3da1a6314a3b3633aaef24ef",
+    "source_assignment_id": "000068d072--6afcff70b0dc860f4157ec29",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3565905239712596,
+        "top": 0.26998961578400826,
+        "width": 0.3663334344622777,
+        "height": 0.4859813084112149
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd91fcf7cf255f980525cc"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda6c1f7cf255f98090adc"
+      }
+    ],
+    "action": "keep",
+    "reason": "На тёмном снимке одна бабочка. Видимые крылья, тело и конечности внутри исходной рамки; соседние линии являются ветками.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3565905239712596,
+        "top": 0.26998961578400826,
+        "width": 0.3663334344622777,
+        "height": 0.4859813084112149
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "8482c95d9334a81836e80572babe893bde3e43ac3361d26c1f6b67eab0daa279",
+    "checked_utc": "2026-11-18T14:27:13.145178+00:00",
+    "final_gold": false,
+    "content_hash": "01363fece10cfeaf197f48a70e0ee1037e1b3df984f86204270211c1b13e2b38"
+  },
+  {
+    "photo_id": "619106793",
+    "candidate_id": "bbox-720d6ea58d08bcf6efa52a98df7cedb5",
+    "source_revision": 1,
+    "source_candidate_hash": "065be9661f43289bd4f41e838cba640554328b3e950d196ec341b1c79e4647a4",
+    "source_assignment_id": "000068d072--6afcfd1c55eb9f701dc2de53",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06076900650395864,
+        "top": 0.03288742493681899,
+        "width": 0.8727064032775607,
+        "height": 0.8031046496408394
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd90befd79e27cb303e0bd"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda72816a8b15904802afc"
+      }
+    ],
+    "action": "keep",
+    "reason": "Правый усик доходит до правой границы, лапки и второй усик включены. Оснований расширять нет.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06076900650395864,
+        "top": 0.03288742493681899,
+        "width": 0.8727064032775607,
+        "height": 0.8031046496408394
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "6a87cf3d80f86cd7ff25db737d159201cd5e7ebb17e0dec2fa203770d6a04066",
+    "checked_utc": "2026-11-18T14:27:13.247671+00:00",
+    "final_gold": false,
+    "content_hash": "f6bd6d78eea462b14c7896888214478f4797d014f258c98de294f0425872b94a"
+  },
+  {
+    "photo_id": "635018448",
+    "candidate_id": "bbox-f865eef4d22b780582f6301a4ae9fa2e",
+    "source_revision": 1,
+    "source_candidate_hash": "0341a7889daba1381ccea7a7666c5087e12786c349e60f4c2c882f71922414b5",
+    "source_assignment_id": "000068d072--6afd0289ed421b4afbfc84b6",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3473033489096573,
+        "top": 0.3032191069574247,
+        "width": 0.3038904302959501,
+        "height": 0.4257528556593977
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8610fe68256bfdd73f39"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9402743be06b822a32d6"
+      }
+    ],
+    "action": "keep",
+    "reason": "Одна бабочка с четырьмя поднятыми частями крыльев, одной головой и одним телом. Разделение на две особи не обосновано.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3473033489096573,
+        "top": 0.3032191069574247,
+        "width": 0.3038904302959501,
+        "height": 0.4257528556593977
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d8a20334b719613c060ea6e376543f679a47a4eb79e340e1e83068f8cd9437c2",
+    "checked_utc": "2026-11-18T14:27:13.389288+00:00",
+    "final_gold": false,
+    "content_hash": "e7d1a0ae3cf4cb9f28657ca0141d0d4ecaca1b0768d8100c0cb68861f121c59f"
+  },
+  {
+    "photo_id": "66480246",
+    "candidate_id": "bbox-bb6328985d039abe2682b10aa9524d12",
+    "source_revision": 1,
+    "source_candidate_hash": "ad155756436046ce8cdc290a8f2946e626345e5d8b8fb4038fa44da2d6307459",
+    "source_assignment_id": "000068d072--6afcfb6afe68256bfdc4150a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3001565745067497,
+        "top": 0.28868120456905505,
+        "width": 0.24621138369678086,
+        "height": 0.45482866043613696
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9172f8344f4f4b482473"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda424f7cf255f98087e58"
+      }
+    ],
+    "action": "keep",
+    "reason": "Виден мотылёк с чешуйчатыми крыльями и бахромой, а не ручейник. Видимые усики и лапки уже включены в рамку.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.3001565745067497,
+        "top": 0.28868120456905505,
+        "width": 0.24621138369678086,
+        "height": 0.45482866043613696
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "ddc6134ad504aa56bd8dc51a112a5109b795692f27fa330286799b7d91c2fa47",
+    "checked_utc": "2026-11-18T14:27:13.494361+00:00",
+    "final_gold": false,
+    "content_hash": "f6fbb9cb27ed3acd12b2b29c93682ccc8f3a129ca639b1b456060633917d7633"
+  },
+  {
+    "photo_id": "707709412",
+    "candidate_id": "bbox-485039d87c00627ecbebe4e677c401c4",
+    "source_revision": 1,
+    "source_candidate_hash": "2a3cb3e7d38a1c7e8835de38e8f9365e70d384c0e1436ed8e3808d7177931d30",
+    "source_assignment_id": "000068d072--6afcf43005a3672b20287c65",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1893967779550228,
+        "top": 0.14630542002194774,
+        "width": 0.7655292070048729,
+        "height": 0.5138444173506822
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7bbdb0dc860f416a0dbc"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd96d6e0a9eb7937d82b38"
+      }
+    ],
+    "action": "keep",
+    "reason": "Видимая часть белянки выделена; усик справа заканчивается у границы. Жёлтые лепестки не являются частью бабочки.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1893967779550228,
+        "top": 0.14630542002194774,
+        "width": 0.7655292070048729,
+        "height": 0.5138444173506822
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "f47b82b92326e1e130cfa9b7232f5cd4808329a5fd43b3d0bd8ed86ef764b443",
+    "checked_utc": "2026-11-18T14:27:13.578955+00:00",
+    "final_gold": false,
+    "content_hash": "e02ef4078614d1bd60e06f1af4fb0e689c8ce07f0d295ee07a91949f3e9f5ef2"
+  },
+  {
+    "photo_id": "71493689",
+    "candidate_id": "bbox-e9de5f1a6340a97cae6627d444e14c4e",
+    "source_revision": 1,
+    "source_candidate_hash": "f981a1066318ce354de7aef203284a92923b9630ee8d424f70da073b983102bb",
+    "source_assignment_id": "000068d072--6afcf872ebb1521ae8018417",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2856595314178243,
+        "top": 0.22429906542056074,
+        "width": 0.566217999774616,
+        "height": 0.6251298026998962
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8d7cf7cf255f98045361"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9ac4f5ff8931d16b451b"
+      }
+    ],
+    "action": "keep",
+    "reason": "После увеличения видимые крылья и пушистая часть тела находятся в исходной рамке. Левее находятся цветы; расширять на них не нужно.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2856595314178243,
+        "top": 0.22429906542056074,
+        "width": 0.566217999774616,
+        "height": 0.6251298026998962
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "7bc1bb1a5a2f3aaa2dc01021913a7ab5cd5d372c44cf0619bb9620463329c476",
+    "checked_utc": "2026-11-18T14:27:13.642004+00:00",
+    "final_gold": false,
+    "content_hash": "edb5dd39525c98c77fea28ac60e4127e8d3da19790a039bc6175cfed81402a7d"
+  },
+  {
+    "photo_id": "725432766",
+    "candidate_id": "bbox-8b8ad3fb0575a6d7b450dbe09e64ad3d",
+    "source_revision": 1,
+    "source_candidate_hash": "65dfadc33ef2dd370f1e211f0c72d897ad3448aff4c3c978282eae5b2c66f853",
+    "source_assignment_id": "000068d072--6afd0016b0dc860f4157f5c8",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2869471943448474,
+        "top": 0.12818996185069298,
+        "width": 0.5902462781435515,
+        "height": 0.6300019958274727
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd90befd79e27cb303e0bd"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda72816a8b15904802afc"
+      }
+    ],
+    "action": "keep",
+    "reason": "Видимые конечности и усики внутри рамки. Тёмная область справа — тень на стене, отдельной рамки или расширения не требует.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2869471943448474,
+        "top": 0.12818996185069298,
+        "width": 0.5902462781435515,
+        "height": 0.6300019958274727
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "3e29a21197434f3d9f7fa6ab7badb3087f365eca6a853fff547bdc02e4f198d0",
+    "checked_utc": "2026-11-18T14:27:13.712415+00:00",
+    "final_gold": false,
+    "content_hash": "8eb1c64245401f92b3277673a6473413af122c9b9f1f84e2b80588057444197a"
+  },
+  {
+    "photo_id": "726174843",
+    "candidate_id": "bbox-d5177f3047aef8bd6632a698c0ae408d",
+    "source_revision": 1,
+    "source_candidate_hash": "b2a76a7ece8c119887a59d7d2773b82059be666155f844f57284460cba779345",
+    "source_assignment_id": "000068d072--6afd15df3537ac5dbb445b10",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2347730192294547,
+        "top": 0.23874984426565332,
+        "width": 0.4892149886696172,
+        "height": 0.5438640263280361
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7bbdb0dc860f416a0dbc"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd96d6e0a9eb7937d82b38"
+      }
+    ],
+    "action": "keep",
+    "reason": "Оболочка куколки сама не является объектом, но верхний усик взрослой бабочки достигает текущей верхней границы. Уменьшение рамки обрезало бы усик; сохранена одна рамка взрослой особи.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2347730192294547,
+        "top": 0.23874984426565332,
+        "width": 0.4892149886696172,
+        "height": 0.5438640263280361
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "aa170572800745e24542f8d48ed4c09a5a1630f174d53e45fe193cb96bef8d9a",
+    "checked_utc": "2026-11-18T14:27:13.770141+00:00",
+    "final_gold": false,
+    "content_hash": "7e698fdb1874016c35b2ec0a64bfdef901d54e463bea9ce4d21f9f68958f0e0d"
+  },
+  {
+    "photo_id": "728257632",
+    "candidate_id": "bbox-2d9732aa93f210477b83cd49d4da13d7",
+    "source_revision": 1,
+    "source_candidate_hash": "47abb89c62c07b2aec1f3ad3e1ac6df0e16946375dbf23ab5f7bd2234cc8a2d9",
+    "source_assignment_id": "000068d072--6afd02633537ac5dbb42d002",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.25995525863187957,
+        "top": 0.1640706126687435,
+        "width": 0.44363621982087226,
+        "height": 0.5545171339563864
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8808c203f934144b2ba6"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd97c1e0a9eb7937d84f75"
+      }
+    ],
+    "action": "keep",
+    "reason": "Два хвостика крыла достигают левой границы, но не обрезаны. Усики и лапки также включены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.25995525863187957,
+        "top": 0.1640706126687435,
+        "width": 0.44363621982087226,
+        "height": 0.5545171339563864
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "0fc326fce512f9b12baf906fcf42df24dcb4acfaa8c33ff2c337f1ae6120a613",
+    "checked_utc": "2026-11-18T14:27:13.868060+00:00",
+    "final_gold": false,
+    "content_hash": "7b9804cf42a1b207994344d6ce912e4b6b202145c06655ce08d7b59656e6f367"
+  },
+  {
+    "photo_id": "87611920",
+    "candidate_id": "bbox-4214f35212296cc9e6637973f4c48f23",
+    "source_revision": 1,
+    "source_candidate_hash": "893a05474006c918a78789bb6e823f1d6d0b4e1d52eb4c9851e949c0ffd033b5",
+    "source_assignment_id": "000068d072--6afcffb655eb9f701dc3059b",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4083461107866043,
+        "top": 0.4672897196261682,
+        "width": 0.16749111662772587,
+        "height": 0.11838006230529591
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd908816a8b159047c224d"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda3ebc203f934145025ee"
+      }
+    ],
+    "action": "keep",
+    "reason": "Одна небольшая бабочка; крылья и тело внутри рамки. Цветы ниже не требуют расширения.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.4083461107866043,
+        "top": 0.4672897196261682,
+        "width": 0.16749111662772587,
+        "height": 0.11838006230529591
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "5571eefdcc02f5f31cb326628b14afba768675df01866d9df7dba7eef7adbd90",
+    "checked_utc": "2026-11-18T14:27:13.962353+00:00",
+    "final_gold": false,
+    "content_hash": "7eeab5f17af6fd0a46ccf755c47ff3af98eaa040ed5ec7646589fde304c6b6ae"
+  },
+  {
+    "photo_id": "97414068",
+    "candidate_id": "bbox-75bb53b02ceb3ee1f880a23ae5d36072",
+    "source_revision": 1,
+    "source_candidate_hash": "4d2b14447035cd7cbf505633ac88fbf3c08b50d923e6e1a4d8f616b1e86997fd",
+    "source_assignment_id": "000068d072--6afcfa2ced421b4afbfc0c6c",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06392903784014492,
+        "top": 0.09968847352024922,
+        "width": 0.8720885728004676,
+        "height": 0.7642782969885773
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8e72034bf3717765d734"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda4f0c203f93414505cb0"
+      }
+    ],
+    "action": "keep",
+    "reason": "Участок левее рамки — тень крыла. Само крыло начинается у границы; расширять на тень не нужно.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.06392903784014492,
+        "top": 0.09968847352024922,
+        "width": 0.8720885728004676,
+        "height": 0.7642782969885773
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "5c915e4360e9146d9cf78086c5d7131792b773119d90187ebd2b8b33790fe509",
+    "checked_utc": "2026-11-18T14:27:14.048855+00:00",
+    "final_gold": false,
+    "content_hash": "4602aa245de2957e896e0c272ec7064addb885ef2bb73d80441ec7dfcfea8d67"
+  },
+  {
+    "photo_id": "51063052",
+    "candidate_id": "bbox-baf628c96ecd6f826c1a29897210f294",
+    "source_revision": 1,
+    "source_candidate_hash": "13c626d582c37ca0136bcb8a20ce778d6d40974f73df2932d96cf8ce0f66d734",
+    "source_assignment_id": "000068d072--6afcf6b5b0dc860f4157575b",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.026495129377957637,
+        "top": 0.05399792315680166,
+        "width": 0.8920026890579069,
+        "height": 0.9117341640706127
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd87c2034bf37177642605"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd98d801316737e2a6ee92"
+      }
+    ],
+    "action": "resize",
+    "reason": "Передняя лапка выступает выше рамки, левая боковая конечность достигает края кадра. Рамка расширена по видимым частям.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0,
+        "top": 0.01647058823529412,
+        "width": 0.9216666666666666,
+        "height": 0.951764705882353
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "e70fe6671758bc9acb16e5fa35e13572d879b7f30e23765682a8bcdac34e1e08",
+    "checked_utc": "2026-11-18T14:27:14.098387+00:00",
+    "final_gold": false,
+    "content_hash": "ebf5f6137f07709f85f9d97aa154c0f4de0fc489d4bdfe4bb87a7befb5c17783"
+  },
+  {
+    "photo_id": "531382307",
+    "candidate_id": "bbox-c306b68292f2e4fe3823f59222a31556",
+    "source_revision": 1,
+    "source_candidate_hash": "77c37a2061e5b1100a245041075e61348b40f1f8be0c4fcdc81c9206cd9e7d43",
+    "source_assignment_id": "000068d072--6afcf872ebb1521ae8018417",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14018061150693617,
+        "top": 0.17237798546209762,
+        "width": 0.6455686056240482,
+        "height": 0.3883696780893042
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd89e101316737e2a43aa6"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9b33e0a9eb7937d8d9d0"
+      }
+    ],
+    "action": "resize",
+    "reason": "Тонкий усик и лапка у головы продолжаются вправо за прежнюю рамку. Правая граница расширена.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.13987473903966596,
+        "top": 0.17176470588235293,
+        "width": 0.6764091858037579,
+        "height": 0.3905882352941176
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "07f18012fd246057ad67afab08a06e13c35f35598be1f4c58843106347d39715",
+    "checked_utc": "2026-11-18T14:27:14.135359+00:00",
+    "final_gold": false,
+    "content_hash": "091eb2ac3d8af28ee914e6c763388588e2448bf07cf6324689c575dee82ae103"
+  },
+  {
+    "photo_id": "6588144",
+    "candidate_id": "bbox-28c2fab9df9f0dfb10a011bd83e8a05a",
+    "source_revision": 1,
+    "source_candidate_hash": "d9fe711edd80540605a0679912f9eb3537a2e010fae9dd44496bfd01bc002177",
+    "source_assignment_id": "000068d072--6afcfb1eebb1521ae801b9f3",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.19106957424714432,
+        "top": 0.1059190031152648,
+        "width": 0.5759778470058844,
+        "height": 0.6915887850467289
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd811aebb1521ae815d08c"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd939dfd79e27cb304741f"
+      }
+    ],
+    "action": "split",
+    "reason": "В кадре спаривающаяся пара с двумя головами и противоположно направленными усиками. Общая рамка разделена на две; длинные светлые дуги травы не включаются.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.18681318681318682,
+        "top": 0.10588235294117647,
+        "width": 0.5070643642072213,
+        "height": 0.5223529411764706
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.18838304552590268,
+        "top": 0.5094117647058823,
+        "width": 0.5635792778649922,
+        "height": 0.26235294117647057
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "111b371ea9de048b571a20dd250aa0f9ae1450f0408b5cec5ccc4ac331eea8c7",
+    "checked_utc": "2026-11-18T14:27:14.217450+00:00",
+    "final_gold": false,
+    "content_hash": "9f5b1c78a56658b5fdbba1735c528b9a9942660ff5849e752e071a6f6d76ae9f"
+  },
+  {
+    "photo_id": "677960364",
+    "candidate_id": "bbox-d74652e44d48393d3e7580a24dd32889",
+    "source_revision": 1,
+    "source_candidate_hash": "9f6f541b00ceb140232a1c18c3d656e39ac80d11ecddfde7e2c679a5efbc7e64",
+    "source_assignment_id": "000068d072--6afcfe4d409e22184efcf692",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9172f8344f4f4b482473"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda424f7cf255f98087e58"
+      }
+    ],
+    "action": "add",
+    "reason": "Это фотография чешуек и края настоящего крыла взрослой бабочки, а не рисунок. По правилу размечать видимую часть обрезанного объекта добавлена одна рамка: крыло пересекает все четыре края кадра. Случай отмечен для явного описания в протоколе оценки.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.0,
+        "height": 1.0
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "2716ae56d3a1c3aec180aac2bdaf7d819aa057a9221359e2362ff7e395dfa1ba",
+    "checked_utc": "2026-11-18T14:27:14.359336+00:00",
+    "final_gold": false,
+    "content_hash": "588e246c7b66d378498662d8f9e05c9036a02dd471a9d591d0f058ac1ff5810a"
+  },
+  {
+    "photo_id": "8544593",
+    "candidate_id": "bbox-77b1a9f36588871d5bbf17881897915e",
+    "source_revision": 1,
+    "source_candidate_hash": "1cf62840ed494ba2ea34b3094470830832955c385e11d145d731b53ac21fc052",
+    "source_assignment_id": "000068d072--6afd005afe68256bfdc45df6",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14262551498163895,
+        "top": 0.06645898234683281,
+        "width": 0.7508022392429674,
+        "height": 0.5752855659397716
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9064e0a9eb7937d71276"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda87bf5ff8931d16e0d9d"
+      }
+    ],
+    "action": "append",
+    "reason": "Нижняя особь в спаривающейся паре была пропущена. Добавлена рамка по её видимому телу и крыльям; исходная рамка верхней особи сохранена.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14262551498163895,
+        "top": 0.06645898234683281,
+        "width": 0.7508022392429674,
+        "height": 0.5752855659397716
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4954268292682927,
+        "top": 0.6058823529411764,
+        "width": 0.35365853658536583,
+        "height": 0.3270588235294118
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "5c3c197eb1d52b77d4605ec58de5aed55f611e886a5ba73a08b2aca7b4927e84",
+    "checked_utc": "2026-11-18T14:27:14.411991+00:00",
+    "final_gold": false,
+    "content_hash": "7bdbba70a2dcab6a07b213a182d73b51f058696aae99a5d6fa99a55708257f3d"
+  },
+  {
+    "photo_id": "88075652",
+    "candidate_id": "bbox-9df34049eaf52d49307d92944ebb5457",
+    "source_revision": 1,
+    "source_candidate_hash": "f01a42ebef5aa81ddc2980c74b1c742b28bea9eb1c4ae39797ef4e0c91db68c4",
+    "source_assignment_id": "000068d072--6afcfc55ee5596557a69ecea",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2107184579439252,
+        "top": 0.04361370716510903,
+        "width": 0.6118939836448598,
+        "height": 0.8369678089304258
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd908816a8b159047c224d"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda3ebc203f934145025ee"
+      }
+    ],
+    "action": "resize",
+    "reason": "Левый усик немного выступает выше прежней рамки. Верхняя граница уточнена; диагональная тёмная трещина справа не включается.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.208955223880597,
+        "top": 0.023529411764705882,
+        "width": 0.6153846153846154,
+        "height": 0.8588235294117647
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d535c0ed58aee1f527219f82cf31dde7cfefebc1a5e378cdb286d5599c09d8ba",
+    "checked_utc": "2026-11-18T14:27:14.487702+00:00",
+    "final_gold": false,
+    "content_hash": "a526d725d259008838b9a0580d60390ae6ecc64bdb7fd134b511c692327a2fbf"
+  },
+  {
+    "photo_id": "186785420",
+    "candidate_id": "bbox-c1197072d0b9212a924b085a1e19e740",
+    "source_revision": 1,
+    "source_candidate_hash": "a1ab191dbda5594ee054a68eb09299e66615b636479a336291be1eaeb8d1b2ad",
+    "source_assignment_id": "000068d072--6afcfe86fe68256bfdc4446a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2796964239356179,
+        "top": 0.1952232606438214,
+        "width": 0.24671335507528558,
+        "height": 0.46105919003115275
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9399f5ff8931d169f8e4"
+      },
+      {
+        "worker_id": "worker_008",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afda9aac203f93414515016"
+      }
+    ],
+    "action": "keep",
+    "reason": "Увеличение отделяет серое тело бабочки от пушистого сухого соцветия справа. Выступающий за рамку участок связан со стеблем, а не с телом; рамка сохранена.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2796964239356179,
+        "top": 0.1952232606438214,
+        "width": 0.24671335507528558,
+        "height": 0.46105919003115275
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "53b0734b8e410c50c27b2c59bc22b4c0a320bc3fb9d0be297117a9b98d428091",
+    "checked_utc": "2026-11-18T14:27:14.580487+00:00",
+    "final_gold": false,
+    "content_hash": "0f56e9a17e2935230deca049ede1534a10c2f0ee9884ed9fd06f3e5a73948bfe"
+  },
+  {
+    "photo_id": "121131438",
+    "candidate_id": "bbox-42e64fbde4769299e641211c707d984b",
+    "source_revision": 1,
+    "source_candidate_hash": "d7f724822884deddb1133de7054f40362d07fcc456b1850d12406d3f7220e1db",
+    "source_assignment_id": "000068d072--6afcfb1eebb1521ae801b9f3",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1317837039935264,
+        "top": 0.35514018691588783,
+        "width": 0.33283832931698343,
+        "height": 0.34890965732087237
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4561743599775915,
+        "top": 0.2679127725856698,
+        "width": 0.2128813679895427,
+        "height": 0.26583592938733125
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4984127266421833,
+        "top": 0.3862928348909657,
+        "width": 0.2297767146553794,
+        "height": 0.33021806853582564
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3379069333167344,
+        "top": 0.5046728971962617,
+        "width": 0.31932205198431407,
+        "height": 0.32191069574247133
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd922001316737e2a5ba38"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9a73dbc6782d147a74ab"
+      }
+    ],
+    "action": "keep",
+    "reason": "Четыре бабочки уже выделены отдельно. Предполагаемая пятая на заднем плане при увеличении оказалась сухим свёрнутым листом. Прежний флаг о пропуске отменён; не добавляем ложную рамку.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1317837039935264,
+        "top": 0.35514018691588783,
+        "width": 0.33283832931698343,
+        "height": 0.34890965732087237
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4561743599775915,
+        "top": 0.2679127725856698,
+        "width": 0.2128813679895427,
+        "height": 0.26583592938733125
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4984127266421833,
+        "top": 0.3862928348909657,
+        "width": 0.2297767146553794,
+        "height": 0.33021806853582564
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3379069333167344,
+        "top": 0.5046728971962617,
+        "width": 0.31932205198431407,
+        "height": 0.32191069574247133
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "38ad814d97d10ca5bfd757b50db77748756e0723906cda06f940b701caead739",
+    "checked_utc": "2026-11-18T14:27:14.659354+00:00",
+    "final_gold": false,
+    "content_hash": "57b050f1e1ea36f6e2a7c866eb82d1465b6c548b036798183afaac79b57fc087"
+  },
+  {
+    "photo_id": "339831709",
+    "candidate_id": "bbox-36cf8b53bc724d231f1d839caf680506",
+    "source_revision": 1,
+    "source_candidate_hash": "7abf0bf4ab802b673e75c614b6421b3af9b9f38a7dfbc13fae8c4342ffc95912",
+    "source_assignment_id": "000068d072--6afcf43005a3672b20287c65",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.049689710087715666,
+        "top": 0.1380420496074642,
+        "width": 0.20655505579975875,
+        "height": 0.300298686911084
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.41476376219891714,
+        "top": 0.13563966011217546,
+        "width": 0.18894183398737624,
+        "height": 0.3051034659016615
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5844911723909669,
+        "top": 0.04915363828178325,
+        "width": 0.252989913305131,
+        "height": 0.4060038247037857
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.13935702113257215,
+        "top": 0.38548816762219745,
+        "width": 0.22737068157802898,
+        "height": 0.37237037176974414
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3042808253757903,
+        "top": 0.505607642386631,
+        "width": 0.17933462208971307,
+        "height": 0.3483464768168575
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.44038299392601904,
+        "top": 0.4743765789478783,
+        "width": 0.23857909545863604,
+        "height": 0.4180157721802288
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6613488675722725,
+        "top": 0.5848864957311571,
+        "width": 0.25779351925396243,
+        "height": 0.324322581863971
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd83a78ec2763353bca571"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd90d5034bf37177663a44"
+      }
+    ],
+    "action": "keep",
+    "reason": "Все семь мотыльков выделены. На увеличении длинные дуги, ошибочно приписанные нижнему левому мотыльку, принадлежат соседнему центральному. Существенного пропуска, требующего переноса границ, не подтверждено; рамки сохранены.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.049689710087715666,
+        "top": 0.1380420496074642,
+        "width": 0.20655505579975875,
+        "height": 0.300298686911084
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.41476376219891714,
+        "top": 0.13563966011217546,
+        "width": 0.18894183398737624,
+        "height": 0.3051034659016615
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5844911723909669,
+        "top": 0.04915363828178325,
+        "width": 0.252989913305131,
+        "height": 0.4060038247037857
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.13935702113257215,
+        "top": 0.38548816762219745,
+        "width": 0.22737068157802898,
+        "height": 0.37237037176974414
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3042808253757903,
+        "top": 0.505607642386631,
+        "width": 0.17933462208971307,
+        "height": 0.3483464768168575
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.44038299392601904,
+        "top": 0.4743765789478783,
+        "width": 0.23857909545863604,
+        "height": 0.4180157721802288
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6613488675722725,
+        "top": 0.5848864957311571,
+        "width": 0.25779351925396243,
+        "height": 0.324322581863971
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "967a80d4e7ae25a7ed0b000985c7fb3bba1e490aa348b4f38a2db319c42b78f0",
+    "checked_utc": "2026-11-18T14:27:14.714144+00:00",
+    "final_gold": false,
+    "content_hash": "b7ddf52997ebc13ea512f6dcdc99a8bbca5ac54b94b2a10d34b2e24b8d5bfb82"
+  },
+  {
+    "photo_id": "366292372",
+    "candidate_id": "bbox-5d6279493babe969119d01944da97ae8",
+    "source_revision": 1,
+    "source_candidate_hash": "41a4916b7e5ee5415439352a1c7baad7313708cdec38eeb0d6c6d9f8bf569574",
+    "source_assignment_id": "000068d072--6afcfe86fe68256bfdc4446a",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14953271028037385,
+        "top": 0.09968847352024923,
+        "width": 0.726895119418484,
+        "height": 0.7788161993769471
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd7c84d5d23603d68a36a2"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd8f84c203f934144cc180"
+      }
+    ],
+    "action": "keep",
+    "reason": "Светлая бахрома крыла и лапки внутри рамки. Нижний тёмный выступ за рамкой относится к стеблю/опоре, а не отдельной конечности.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.14953271028037385,
+        "top": 0.09968847352024923,
+        "width": 0.726895119418484,
+        "height": 0.7788161993769471
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "f7935b5683ef1b75a9d248754525245b6cc51fcd99a460b2440aad9a67edc6ed",
+    "checked_utc": "2026-11-18T14:27:14.843508+00:00",
+    "final_gold": false,
+    "content_hash": "5efde479489c4431dc4edfba7de3068c3d5d907a32fdb0ddd0c88bce42b9a535"
+  },
+  {
+    "photo_id": "76337845",
+    "candidate_id": "bbox-0fbb0dbc3e1f8eb28b26896506877606",
+    "source_revision": 1,
+    "source_candidate_hash": "969bc8571f2125f8e257c1491aed4be79976a03277dcc09929976fa9d9a1c48f",
+    "source_assignment_id": "000068d072--6afd15df3537ac5dbb445b10",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1239801380115146,
+        "top": 0.6641091533770732,
+        "width": 0.027053316916195155,
+        "height": 0.04328530706591227
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.1651011797241312,
+        "top": 0.7088373040118493,
+        "width": 0.05194236847909467,
+        "height": 0.05627089918568573
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3717885209638621,
+        "top": 0.6222666898800248,
+        "width": 0.05031916946412296,
+        "height": 0.08440634877852882
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6881436146451756,
+        "top": 0.6915543764427183,
+        "width": 0.05812035369131607,
+        "height": 0.057995363683377765
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.43749367407596285,
+        "top": 0.5215475357190033,
+        "width": 0.03303133255005519,
+        "height": 0.05872236897787586
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.39530564970997706,
+        "top": 0.31624402900614407,
+        "width": 0.04914004273210626,
+        "height": 0.035490030862076694
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7464522050664861,
+        "top": 0.43226912990139493,
+        "width": 0.054258797183367236,
+        "height": 0.05460004748011793
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.727000938151694,
+        "top": 0.38176408598228573,
+        "width": 0.04197378650034089,
+        "height": 0.03685503204907964
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd831ced421b4afb0f2129"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd9129f7cf255f9804f65b"
+      }
+    ],
+    "action": "keep",
+    "reason": "Восемь отдельных объектов подтверждены увеличенными фрагментами оригинала. Размытый летящий объект также один, его след движения не делится на несколько бабочек. Явных дополнительных объектов при обходе полного кадра не найдено.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1239801380115146,
+        "top": 0.6641091533770732,
+        "width": 0.027053316916195155,
+        "height": 0.04328530706591227
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.1651011797241312,
+        "top": 0.7088373040118493,
+        "width": 0.05194236847909467,
+        "height": 0.05627089918568573
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3717885209638621,
+        "top": 0.6222666898800248,
+        "width": 0.05031916946412296,
+        "height": 0.08440634877852882
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6881436146451756,
+        "top": 0.6915543764427183,
+        "width": 0.05812035369131607,
+        "height": 0.057995363683377765
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.43749367407596285,
+        "top": 0.5215475357190033,
+        "width": 0.03303133255005519,
+        "height": 0.05872236897787586
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.39530564970997706,
+        "top": 0.31624402900614407,
+        "width": 0.04914004273210626,
+        "height": 0.035490030862076694
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7464522050664861,
+        "top": 0.43226912990139493,
+        "width": 0.054258797183367236,
+        "height": 0.05460004748011793
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.727000938151694,
+        "top": 0.38176408598228573,
+        "width": 0.04197378650034089,
+        "height": 0.03685503204907964
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "9c76d528f03b4e1b9ea60172bc4b24472597b0c34112904b119289541a460bf4",
+    "checked_utc": "2026-11-18T14:27:14.880678+00:00",
+    "final_gold": false,
+    "content_hash": "9ae8950924ec5c55459bc92490f28e2b3c8adf2520066b785e8a98f5aee78e64"
+  },
+  {
+    "photo_id": "195585331",
+    "candidate_id": "bbox-d96bdf066695aa038cbf6412a666505d",
+    "source_revision": 1,
+    "source_candidate_hash": "ec3327a940c571cb353ba881af5bfdf788580df26228f735839b31436a79abdc",
+    "source_assignment_id": "000068d072--6afcf909b0dc860f41577f54",
+    "source_pool_id": "6869106",
+    "source_boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.2811977695191678,
+        "top": 0.4219410524415262,
+        "width": 0.21051135452599407,
+        "height": 0.4062051622528284
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.40629123752812063,
+        "top": 0.284253022322307,
+        "width": 0.33840314572506053,
+        "height": 0.3141378038804341
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6327677614113006,
+        "top": 0.3911516904486343,
+        "width": 0.30167722293319366,
+        "height": 0.23675103799757147
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.2466178893410158,
+        "top": 0.15301375956242955,
+        "width": 0.4249894830209999,
+        "height": 0.26051608222278555
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.0996011786447979,
+        "top": 0.0,
+        "width": 0.3039168977417614,
+        "height": 0.29200014572482047
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4541708926768529,
+        "top": 0.13262908959194558,
+        "width": 0.23102625966548546,
+        "height": 0.11952829209965615
+      }
+    ],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd80abb0dc860f416ae7e1"
+      },
+      {
+        "worker_id": "worker_022",
+        "verdict": "accept",
+        "assignment_id": "000068d073--6afd98c4f7cf255f98066966"
+      }
+    ],
+    "action": "merge",
+    "reason": "После увеличения обнаружены четыре особи, а не шесть: маленькая верхняя правая рамка и соседняя центральная охватывали крылья одной бабочки; две нижние правые рамки также делили одну особь. Эти пары объединены, остальные две особи сохранены с учётом видимых частей.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.0989010989010989,
+        "top": 0.0,
+        "width": 0.3076923076923077,
+        "height": 0.3176470588235294
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.1836734693877551,
+        "top": 0.13058823529411764,
+        "width": 0.5070643642072213,
+        "height": 0.2858823529411765
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.4050235478806907,
+        "top": 0.28352941176470586,
+        "width": 0.533751962323391,
+        "height": 0.34705882352941175
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.28100470957613816,
+        "top": 0.4211764705882353,
+        "width": 0.21350078492935637,
+        "height": 0.4082352941176471
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "3c96c0840a0107e2e4b131ab79c6254134094cd2416cc5c145b7d315725d5a73",
+    "checked_utc": "2026-11-18T14:27:15.017048+00:00",
+    "final_gold": false,
+    "content_hash": "eb00cc6e26f4ae351e4e30f61dced896e0f9fa9cb6a9335f43215ef2347c60d5"
+  },
+  {
+    "photo_id": "169360078",
+    "candidate_id": "bbox-008f35360f4087a935c7df1022387168",
+    "source_revision": 1,
+    "source_candidate_hash": "d87c9a8b95e9733599c7c01c400038210f4b355db65b547de667f322c3601088",
+    "source_assignment_id": "000068d072--6afd1564409e22184efecd80",
+    "source_pool_id": "6869106",
+    "source_boxes": [],
+    "review_votes": [
+      {
+        "worker_id": "worker_019",
+        "verdict": "fix",
+        "assignment_id": "000068d073--6afd7d27ed421b4afb0e0f0c"
+      },
+      {
+        "worker_id": "worker_006",
+        "verdict": "fix",
+        "assignment_id": "000068d073--6afd8337ed421b4afb0f2532"
+      }
+    ],
+    "action": "add",
+    "reason": "Пустой ответ заменён 15 отдельными рамками. При увеличении средней левой группы видны две разные головы и два комплекта крыльев; также учтены частично видимые особи у правого и нижнего левого края. Скрытые листьями части не достраиваются.",
+    "boxes": [
+      {
+        "shape": "rectangle",
+        "left": 0.1776470588235294,
+        "top": 0.26823529411764707,
+        "width": 0.2211764705882353,
+        "height": 0.14470588235294118
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.3552941176470588,
+        "top": 0.13058823529411764,
+        "width": 0.1188235294117647,
+        "height": 0.22941176470588234
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.8835294117647059,
+        "top": 0.07294117647058823,
+        "width": 0.11647058823529412,
+        "height": 0.10941176470588235
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.6941176470588235,
+        "top": 0.14588235294117646,
+        "width": 0.20588235294117646,
+        "height": 0.15294117647058825
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.9070588235294118,
+        "top": 0.2952941176470588,
+        "width": 0.08941176470588236,
+        "height": 0.08352941176470588
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.2541176470588235,
+        "top": 0.3976470588235294,
+        "width": 0.12470588235294118,
+        "height": 0.20470588235294118
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.25529411764705884,
+        "top": 0.42705882352941177,
+        "width": 0.19411764705882353,
+        "height": 0.16
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.17058823529411765,
+        "top": 0.5776470588235294,
+        "width": 0.2,
+        "height": 0.14941176470588236
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.39647058823529413,
+        "top": 0.46941176470588236,
+        "width": 0.12470588235294118,
+        "height": 0.2023529411764706
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.46941176470588236,
+        "top": 0.4776470588235294,
+        "width": 0.13529411764705881,
+        "height": 0.18352941176470589
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.5611764705882353,
+        "top": 0.43411764705882355,
+        "width": 0.10352941176470588,
+        "height": 0.1223529411764706
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.49058823529411766,
+        "top": 0.5576470588235294,
+        "width": 0.1588235294117647,
+        "height": 0.2235294117647059
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.8870588235294118,
+        "top": 0.5270588235294118,
+        "width": 0.08,
+        "height": 0.21529411764705883
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.7541176470588236,
+        "top": 0.6788235294117647,
+        "width": 0.15411764705882353,
+        "height": 0.19294117647058823
+      },
+      {
+        "shape": "rectangle",
+        "left": 0.0,
+        "top": 0.8811764705882353,
+        "width": 0.1,
+        "height": 0.1188235294117647
+      }
+    ],
+    "status": "has_butterflies",
+    "adjudicator": "captain_review",
+    "method": "visual_adjudication",
+    "independent_human_verification_of_new_boxes": false,
+    "models_under_evaluation_used": false,
+    "image_sha256": "d0cb89efbf8b9cf0f48f98b5ae4fc8dbd9266fec7a4abdde541d3ddbcc276964",
+    "checked_utc": "2026-11-18T14:27:15.137612+00:00",
+    "final_gold": false,
+    "content_hash": "d155ba056122b717a1d4da1f35e610d880701621d27d88752cb96643e2bfeef6"
+  }
+]

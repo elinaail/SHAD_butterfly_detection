@@ -1,0 +1,91 @@
+{
+  "new_photo_ids": [
+    764941215,
+    765032073,
+    765036915
+  ],
+  "removed_photo_ids": [
+    247404664,
+    359179108,
+    615002914
+  ],
+  "configurations": {
+    "dino_t0.15.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "581361b56e64f19861c04fe63a5471a540f569d6c890d8e3f2d1ff64883d08de"
+    },
+    "dino_t0.25.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "d3106e0aa45923a5bbcba05189afe9235bbad01854bafb1d3a8588cdccb2ef7f"
+    },
+    "dino_t0.40.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "cc551474506e90a57c6566eda9dc97dd21a18341bc1e40a2a5e7eca18b94df12"
+    },
+    "owlv2_t0.15.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "f86db35475aca3f5317b4544c1ecaa7c5157e7f9751c4bc59518175da4f9b8b2"
+    },
+    "owlv2_t0.25.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "a51ae590bedcdac203c30aec59e743b373b47a2e523081258b96c0bcc033fb98"
+    },
+    "owlv2_t0.40.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "ecd93d0ca65b86934f91f23dd01b7097eb452f541c857b5ea092c3fae94316d5"
+    },
+    "qwen.jsonl": {
+      "new_rows": 3,
+      "updated_total": 400,
+      "old_rows_unchanged": 397,
+      "new_box_counts": {
+        "765032073": 1,
+        "765036915": 1,
+        "764941215": 1
+      },
+      "merged_sha256": "edc8d0b002536e7524b4f2922b871d24d0c7b0fb2a795fc28c50a83f23e3c05e"
+    }
+  }
+}

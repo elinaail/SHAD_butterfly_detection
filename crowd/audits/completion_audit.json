@@ -1,0 +1,22 @@
+{
+  "checked_utc": "2026-11-18T18:57:10.084788+00:00",
+  "final_gold_ready": true,
+  "photos": 400,
+  "boxes": 364,
+  "empty_images": 120,
+  "replacement_review": {
+    "photos": 3,
+    "ordinary_votes": 6,
+    "distinct_reviewers_per_photo": 2,
+    "all_accepted": true,
+    "control_correct": 4,
+    "control_total": 4,
+    "self_review_violations": 0
+  },
+  "expenses_rub": 650.3,
+  "balance_rub": 199.7,
+  "new_stage_rub": 6.3,
+  "active_or_submitted": 0,
+  "gold_sha256": "381393bcad832fa1e7e4f9796f8e720de84df33790638577b89e12a3fb881aa1",
+  "measured_gold_accuracy": null
+}

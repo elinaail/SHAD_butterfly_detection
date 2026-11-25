@@ -1,0 +1,35 @@
+{
+  "config": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "7fb229164dcf158d5e5de67d0d71b090c344472b6382b9a4958e1a08f3b3d981",
+    "threshold": 0.1,
+    "pipeline": "baseline_then_retry_unfinished"
+  },
+  "resolved_revision": "89644892e4d85e24eaac8bacfd4f463576704203",
+  "baseline_configuration": {
+    "model": "Qwen/Qwen3-VL-2B-Instruct",
+    "input_sha256": "7fb229164dcf158d5e5de67d0d71b090c344472b6382b9a4958e1a08f3b3d981",
+    "threshold": 0.1,
+    "nms_iou": 0.5,
+    "device": "mps",
+    "prompt": "Locate every adult butterfly and moth in the image, including small moths. Do not include caterpillars, pupae, other insects, flowers or leaves. Return only a JSON array of boxes: [[x_min, y_min, x_max, y_max], ...]. Coordinates must be integers from 0 to 1000, relative to the whole image. Use tight bounding boxes covering the entire visible insect. Return [] if none are present. No labels or explanations.",
+    "revision_requested": "89644892e4d85e24eaac8bacfd4f463576704203",
+    "max_new_tokens": 512,
+    "qwen_max_image_side": 768,
+    "qwen_processor_backend": "torchvision",
+    "attention_implementation": "sdpa"
+  },
+  "retry_configuration": null,
+  "versions": {
+    "torch": "2.15.0",
+    "transformers": "5.20.2",
+    "Pillow": "11.2.1",
+    "torchvision": "0.29.2"
+  },
+  "retry_versions": null,
+  "retried_photo_ids": [],
+  "timing": "For retried photos, elapsed_seconds includes initial inference plus successful retry (sum of crop calls for tiled recovery). Both components are retained. Failed additional full-image retries are excluded from elapsed_seconds and remain in error logs when available; do not use these rows for baseline speed comparison.",
+  "tiled_photo_ids": [],
+  "tile_protocol": "4x4 cells expanded 10% of cell width per side; map crop boxes to original coordinates; NMS IoU 0.5 prioritizes distance from crop edges, not model confidence. Crop metadata and all raw answers are preserved.",
+  "note": "The 400 originally complete predictions are unchanged. Original unsuccessful outputs remain in baseline_attempts.jsonl. No human boxes or gold labels were used."
+}

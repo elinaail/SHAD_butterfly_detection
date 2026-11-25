@@ -1,0 +1,40 @@
+[
+  {
+    "id": "000068d25e--6afd6eb9ebb1521ae811c891",
+    "task_suite_id": "000068d25e--6afd6e153537ac5dbb50b21e",
+    "pool_id": "6869598",
+    "user_id": "worker_010",
+    "status": "ACCEPTED",
+    "reward": 15.0,
+    "tasks": [
+      {
+        "id": "13a00d0f-bed3-49c4-82c1-d77849a09cfd",
+        "input_values": {
+          "photo_id": "247404664",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/247404664/original.jpg"
+        }
+      }
+    ],
+    "solutions": [
+      {
+        "output_values": {
+          "result": [
+            {
+              "shape": "rectangle",
+              "left": 0.045509400406503975,
+              "top": 0.13266227900374244,
+              "width": 0.8773183434959352,
+              "height": 0.8001032391276295
+            }
+          ],
+          "status": "has_butterflies"
+        }
+      }
+    ],
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-18T09:24:09.336",
+    "submitted": "2026-11-18T09:25:16.860",
+    "accepted": "2026-11-18T09:25:16.860"
+  }
+]

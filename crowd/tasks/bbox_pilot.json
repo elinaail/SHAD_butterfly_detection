@@ -1,0 +1,202 @@
+[
+  {
+    "pool_id": "6866118",
+    "tasks": [
+      {
+        "id": "0a092c24-2ed6-4cff-ba7f-a926cff313e1",
+        "input_values": {
+          "photo_id": "184619838",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/184619838/original.jpg"
+        }
+      },
+      {
+        "id": "1a7904e1-b2ef-4e7b-ac0a-8bf0f70cf8cb",
+        "input_values": {
+          "photo_id": "181204940",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/181204940/original.jpeg"
+        }
+      },
+      {
+        "id": "a8a11202-9431-46a6-b100-1789241c6f5f",
+        "input_values": {
+          "photo_id": "440553240",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/440553240/original.jpg"
+        }
+      },
+      {
+        "id": "87a4a2df-957e-4876-b8c2-e23aadbdc176",
+        "input_values": {
+          "photo_id": "79275893",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/79275893/original.jpg"
+        }
+      },
+      {
+        "id": "1ad87249-ecce-4e64-a2d0-319f13be4465",
+        "input_values": {
+          "photo_id": "311355458",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/311355458/original.jpg"
+        }
+      }
+    ],
+    "overlap": 1,
+    "infinite_overlap": false,
+    "reserved_for": [],
+    "unavailable_for": [],
+    "issuing_order_override": 0.0,
+    "id": "000068c4c6--6afcd20cc929b90ea8d7ca9d",
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T22:15:40.198",
+    "remaining_overlap": 0
+  },
+  {
+    "pool_id": "6866118",
+    "tasks": [
+      {
+        "id": "558fd81b-e8f8-4e0d-aeb2-85887d65f554",
+        "input_values": {
+          "photo_id": "85567419",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/85567419/original.jpeg"
+        }
+      },
+      {
+        "id": "5b8474c2-9b1a-4059-95b7-a7c497345d79",
+        "input_values": {
+          "photo_id": "232985845",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/232985845/original.jpeg"
+        }
+      },
+      {
+        "id": "10bd5786-fcfc-44f9-bc6e-efccf0ffa7e7",
+        "input_values": {
+          "photo_id": "95401989",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/95401989/original.jpeg"
+        }
+      },
+      {
+        "id": "9ca5f1c3-74a2-4a51-b6d2-2f7097b81fcf",
+        "input_values": {
+          "photo_id": "45944239",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/45944239/original.jpeg"
+        }
+      },
+      {
+        "id": "969c6621-74c7-4528-be5d-72ab807f22ca",
+        "input_values": {
+          "photo_id": "122135507",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/122135507/original.jpeg"
+        }
+      }
+    ],
+    "overlap": 1,
+    "infinite_overlap": false,
+    "reserved_for": [],
+    "unavailable_for": [],
+    "issuing_order_override": 0.0,
+    "id": "000068c4c6--6afcd20cc929b90ea8d7ca99",
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T22:15:40.172",
+    "remaining_overlap": 0
+  },
+  {
+    "pool_id": "6866118",
+    "tasks": [
+      {
+        "id": "c2196ae5-40ec-438d-8fba-5964fe16c16d",
+        "input_values": {
+          "photo_id": "532187628",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/532187628/original.jpg"
+        }
+      },
+      {
+        "id": "f4e7549f-5dd0-4c38-bd64-2fef68de6098",
+        "input_values": {
+          "photo_id": "257584408",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/257584408/original.jpg"
+        }
+      },
+      {
+        "id": "9150873c-3743-4d37-9dc6-ed26ef047963",
+        "input_values": {
+          "photo_id": "21908014",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/21908014/original.jpeg"
+        }
+      },
+      {
+        "id": "510ba0cb-2dfc-4ec5-be51-d0124219e9e1",
+        "input_values": {
+          "photo_id": "12537299",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/12537299/original.jpg"
+        }
+      },
+      {
+        "id": "b50bb2e7-b90e-427c-a545-427e246c7ed4",
+        "input_values": {
+          "photo_id": "314515123",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/314515123/original.jpeg"
+        }
+      }
+    ],
+    "overlap": 1,
+    "infinite_overlap": false,
+    "reserved_for": [],
+    "unavailable_for": [],
+    "issuing_order_override": 0.0,
+    "id": "000068c4c6--6afcd20cc929b90ea8d7caa1",
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T22:15:40.278",
+    "remaining_overlap": 0
+  },
+  {
+    "pool_id": "6866118",
+    "tasks": [
+      {
+        "id": "ef8aee14-f4b8-47d0-882a-a0dcca6b1395",
+        "input_values": {
+          "photo_id": "593147205",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/593147205/original.jpg"
+        }
+      },
+      {
+        "id": "5d3f946d-a111-424f-999e-c39aa43f03bd",
+        "input_values": {
+          "photo_id": "243853926",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/243853926/original.jpeg"
+        }
+      },
+      {
+        "id": "65510071-e8bc-4664-bb95-feb9c60b5e0e",
+        "input_values": {
+          "photo_id": "60606121",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/60606121/original.jpg"
+        }
+      },
+      {
+        "id": "0d492a55-9af1-4a8e-a887-e7545c1fead3",
+        "input_values": {
+          "photo_id": "14825634",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/14825634/original.jpg"
+        }
+      },
+      {
+        "id": "1aea8af8-ed92-4e65-ba81-927ee15e708b",
+        "input_values": {
+          "photo_id": "178154218",
+          "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/178154218/original.jpg"
+        }
+      }
+    ],
+    "overlap": 1,
+    "infinite_overlap": false,
+    "reserved_for": [],
+    "unavailable_for": [],
+    "issuing_order_override": 0.0,
+    "id": "000068c4c6--6afcd20cc929b90ea8d7ca95",
+    "mixed": false,
+    "automerged": false,
+    "created": "2026-11-17T22:15:40.147",
+    "remaining_overlap": 0
+  }
+]

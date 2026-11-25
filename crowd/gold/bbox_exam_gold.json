@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "pool_id": "6866117",
+  "photos": [
+    {
+      "photo_id": "241946998",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/241946998/original.jpg",
+      "image_width": 1112,
+      "image_height": 983,
+      "coordinate_system": "normalized_xywh",
+      "status": "has_butterflies",
+      "boxes": [
+        {
+          "left": 0.145495,
+          "top": 0.204476,
+          "width": 0.715252,
+          "height": 0.626775
+        }
+      ],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "f10dac7916cf27d217c4064d4f39ea343b70faaa01d24db44354c4bddc95c916",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "34d4b0bdb9e618b0490e0c34cdf35639b050f3ce60ec5ec301ec0e47031774d0",
+        "evidence_file": "review_decisions.json",
+        "reason": "Одна чёрно-синяя бабочка в профиль. При увеличении видимые усики, лапки и края крыльев входят в рамку."
+      }
+    },
+    {
+      "photo_id": "45431929",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/45431929/original.jpeg",
+      "image_width": 640,
+      "image_height": 480,
+      "coordinate_system": "normalized_xywh",
+      "status": "has_butterflies",
+      "boxes": [
+        {
+          "left": 0.417172,
+          "top": 0.225042,
+          "width": 0.426266,
+          "height": 0.4985
+        }
+      ],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "2ad685ea0bb19a9682244192d681a318426b5c3e9a2e47af1c5d37845b41a89d",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "c2fbf85a9776ec56b4f716c4e17e3e4d6e68ad25bf5101c7fca8adbce7aea20d",
+        "evidence_file": "review_decisions.json",
+        "reason": "Одна маленькая голубая бабочка на цветах. По увеличению кончики усиков и крыльев входят в рамку."
+      }
+    },
+    {
+      "photo_id": "543899103",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/543899103/original.jpg",
+      "image_width": 2048,
+      "image_height": 1656,
+      "coordinate_system": "normalized_xywh",
+      "status": "has_butterflies",
+      "boxes": [
+        {
+          "left": 0.025674,
+          "top": 0.029589,
+          "width": 0.920752,
+          "height": 0.893357
+        }
+      ],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "a822ad1cddc319848d710fec082bc1c111ee47f8b6e901525f2414e28edef970",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "29314d51feff19d74564c70aeb86a5afeae0bb9b04afe98c296c3a10e82a9b06",
+        "evidence_file": "review_decisions.json",
+        "reason": "Один зелёный мотылёк на коре. По увеличению верхний тонкий придаток и оба усика входят в рамку."
+      }
+    },
+    {
+      "photo_id": "192647703",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/192647703/original.jpg",
+      "image_width": 2048,
+      "image_height": 1366,
+      "coordinate_system": "normalized_xywh",
+      "status": "has_butterflies",
+      "boxes": [
+        {
+          "left": 0.110869,
+          "top": 0.004978,
+          "width": 0.759639,
+          "height": 0.914641
+        }
+      ],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "429152016e71c1fa6a79d5597fe681a18c94bee075bcdc4bf37bb9064c2fa43b",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "d454d46631d9701a3f1f5e2cdc216d4e2071c752fafe5a50822025f17eb99eee",
+        "evidence_file": "review_decisions.json",
+        "reason": "Одна коричневая ночная бабочка. При увеличении оба перистых усика целиком внутри рамки."
+      }
+    },
+    {
+      "photo_id": "370828290",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/370828290/original.jpg",
+      "image_width": 1536,
+      "image_height": 2048,
+      "coordinate_system": "normalized_xywh",
+      "status": "no_butterflies",
+      "boxes": [],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "0b947b511717f917fc426ae427f1041d15abfd35ba69a538ca8fbd4b4cfc692a",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "3b882cf3a24e8125a29719867a4d4de120f502ca217b63c3f237b5c3e79f22aa",
+        "evidence_file": "review_decisions.json",
+        "reason": "Зелёная гусеница. Взрослой бабочки нет, подходит для отрицательного bbox-задания."
+      }
+    },
+    {
+      "photo_id": "3210402",
+      "split": "exam",
+      "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3210402/original.jpg",
+      "image_width": 2048,
+      "image_height": 1536,
+      "coordinate_system": "normalized_xywh",
+      "status": "no_butterflies",
+      "boxes": [],
+      "annotator": "Elina",
+      "verified": true,
+      "verified_by": "captain_review",
+      "gold_hash": "18a659aa7691b44e6ab326cdeead26aa09455357df47e94d386e5b32290ef680",
+      "verification": {
+        "type": "model_review",
+        "reviewer": "captain_review",
+        "reviewed_utc": "2026-11-17T21:37:47.845919+00:00",
+        "user_authorized": true,
+        "authorization_date_local": "2026-11-18",
+        "independent_human_verification": false,
+        "separate_model_instance": false,
+        "content_hash": "946cc63f7e8ba6ea6c6f7e7be2829393fc3b81d9d8447c60d7766d5918ea1f67",
+        "evidence_file": "review_decisions.json",
+        "reason": "Стрекоза при выходе из личиночной оболочки. Ни один из видимых объектов не является взрослой бабочкой."
+      }
+    }
+  ]
+}

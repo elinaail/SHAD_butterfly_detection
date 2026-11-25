@@ -1,0 +1,42 @@
+[
+  {
+    "photo_id": 16391324,
+    "before": [
+      {
+        "left": 0.078,
+        "top": 0.476,
+        "width": 0.505,
+        "height": 0.2613333333333333
+      },
+      {
+        "left": 0.486,
+        "top": 0.48933333333333334,
+        "width": 0.431,
+        "height": 0.22933333333333333
+      }
+    ],
+    "after": [],
+    "reason": "Ручейники (Trichoptera), не взрослые чешуекрылые.",
+    "detected_by": "Kmdmrg",
+    "reviewed_by": "Андрей Мусташкин",
+    "observation_url": "https://www.inaturalist.org/observations/11483643",
+    "date": "2026-11-25"
+  },
+  {
+    "photo_id": 7775492,
+    "before": [
+      {
+        "left": 0.0,
+        "top": 0.010588235294117647,
+        "width": 1.0,
+        "height": 0.9894117647058823
+      }
+    ],
+    "after": [],
+    "reason": "Ручейники (Trichoptera), не взрослые чешуекрылые.",
+    "detected_by": "Kmdmrg",
+    "reviewed_by": "Андрей Мусташкин",
+    "observation_url": "https://www.inaturalist.org/observations/6194625",
+    "date": "2026-11-25"
+  }
+]

@@ -1,0 +1,1 @@
+{"photo_id": 621817520, "model": "google/owlv2-base-patch16-ensemble", "schema_version": 1, "status": "error", "error": "AttributeError: 'Owlv2Processor' object has no attribute 'post_process_object_detection'", "raw_text": null}
