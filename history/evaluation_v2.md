@@ -1,39 +1,6 @@
-# eval: оценка моделей
+# Оценка по предыдущему эталону v2
 
-## Запуск
-
-Из корня `hw_5`:
-
-```bash
-uv venv eval/.venv --python 3.12
-uv pip install --python eval/.venv/bin/python "numpy<2.3" scipy pandas pillow plotly kaleido requests
-
-eval/.venv/bin/python eval/tests/test_metrics.py
-eval/.venv/bin/python eval/scripts/merge_replacements.py
-eval/.venv/bin/python eval/scripts/evaluate.py
-eval/.venv/bin/python -I eval/scripts/download_images.py
-eval/.venv/bin/python eval/scripts/make_figures.py
-cd eval/scripts && ../.venv/bin/python make_gallery.py
-```
-
-| Скрипт | Что делает |
-|---|---|
-| `merge_replacements.py` | собирает `model_results_400/` из `model_results/` и `model_replacements_results/` |
-| `evaluate.py` | считает метрики, пишет `results/*.csv` и `results/summary.json` |
-| `download_images.py` | скачивает 400 фото (large, 1024 px) в `cache_images/`, нужны только для картинок |
-| `make_figures.py` | графики в `figures/charts/*.png` |
-| `make_gallery.py` | примеры ошибок в `figures/examples/*.png` |
-
-`.venv/` и `cache_images/` в `.gitignore`.
-
-## Данные
-
-- Gold: `gold_400_for_metrics/gold_400_v2.jsonl`, 400 фото, 364 рамки, 120 фото без бабочек.
-- Предсказания: 7 конфигураций (DINO и OWLv2 с порогами 0.15, 0.25, 0.40 и Qwen3-VL-2B), у всех один и тот же набор из 400 фото.
-- Три фото датасета заменены (615002914 -> 765032073, 247404664 -> 765036915, 359179108 -> 764941215). Прогон на новых фото лежит в `model_replacements_results/`, код в `model_code/scripts/run_replacements.py`. В `model_results_400/` 397 строк взяты из `model_results/` без изменений, 3 строки заменены.
-- sha256 из `model_code/results/replacements_2026_11_18/validation.json` с файлами в `model_results_400/` не совпадает: там хешируются полные файлы с `raw_text`. `merge_replacements.py` проверяет состав ID, координаты и отсутствие `error`.
-- Qwen: фото 12297798, 76337845, 339831709 обработаны повторным запуском (поле `completion_method`, колонка `reprocessed_photos` в лидерборде).
-- Время на фото считается без `warmup` и без фото с `completion_method`.
+Результаты ниже рассчитаны до исправления двух кадров с ручейниками. Эталон v2 содержит 364 рамки и 120 пустых фотографий. Исторические CSV сохранены в `metrics_gold_v2/`. Текущие метрики по v3 находятся в [eval/results](../eval/results/), методика и команды запуска в [eval/README.md](../eval/README.md).
 
 ## Метрика
 
@@ -81,24 +48,22 @@ Recall@0.5 по группам (DINO / OWLv2 / Qwen): дневные бабоч�
 | captain_review | 118 | 150 | 16 | 0.81 / 0.83 / 0.88 | 0.72 / 0.60 / 0.73 |
 | Meow (ручной разбор) | 4 | 22 | 0 | 0.56 / 0.67 / 0.61 | 0.38 / 0.46 / 0.33 |
 
-captain_review: рамки крауда, исправленные агентом (поле `reason`). Meow: 116540226, 136273568, 146688328, 390616794, совпадают с `_archive/review_results/`.
+captain_review: рамки крауда, исправленные агентом (поле `reason`). Meow: 116540226, 136273568, 146688328, 390616794, сохранены в `../crowd/adjudications/meow_review_results.jsonl`.
 
 ### Чувствительность
 
-- Ручейники 7775492 и 16391324 размечены в gold как бабочки, остальные 13 фото ручейников пустые. Если считать эти два фото пустыми, F1 любой модели меняется не больше чем на 0.003.
+- В версии v2 ручейники 7775492 и 16391324 были размечены как бабочки, остальные 13 фото ручейников пустые. Эти две ошибки исправлены в v3. Если считать эти два фото пустыми, F1 любой модели меняется не больше чем на 0.003.
 - Без 15 фото ручейников F1@0.5: Qwen 0.922, OWLv2 0.829, DINO 0.751.
 
-## Файлы
+## Исторические файлы
 
 | Файл | Содержимое |
 |---|---|
-| `results/leaderboard.csv` | метрики всех конфигураций |
-| `results/by_group.csv`, `by_category.csv`, `by_count.csv`, `by_gold_source.csv` | метрики по группам фото |
-| `results/recall_by_size.csv` | recall по площади рамки gold |
-| `results/fp_on_empty.csv` | FP на фото без бабочек по категориям |
-| `results/error_types.csv` | число ошибок каждого типа |
-| `results/threshold_curve.csv` | P, R, F1 в зависимости от порога для DINO и OWLv2 |
-| `results/matched_iou.csv` | IoU всех пар TP при пороге 0.5 |
-| `results/per_photo.csv` | TP, FP, FN и типы ошибок по каждому фото и конфигурации |
-| `figures/charts/` | графики 01-10 |
-| `figures/examples/` | примеры ошибок 01-12, описание в `errors_for_slides.md` |
+| `metrics_gold_v2/leaderboard.csv` | метрики всех конфигураций |
+| `metrics_gold_v2/by_group.csv`, `by_category.csv`, `by_count.csv`, `by_gold_source.csv` | метрики по группам фото |
+| `metrics_gold_v2/recall_by_size.csv` | recall по площади рамки gold |
+| `metrics_gold_v2/fp_on_empty.csv` | FP на фото без бабочек по категориям |
+| `metrics_gold_v2/error_types.csv` | число ошибок каждого типа |
+| `metrics_gold_v2/threshold_curve.csv` | P, R, F1 в зависимости от порога для DINO и OWLv2 |
+| `metrics_gold_v2/matched_iou.csv` | IoU всех пар TP при пороге 0.5 |
+| `metrics_gold_v2/per_photo.csv` | TP, FP, FN и типы ошибок по каждому фото и конфигурации |
